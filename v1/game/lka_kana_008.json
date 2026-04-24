@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_kana_008",
+    "title": "Kana Mutti Bindeema",
+    "description": "A traditional game where a blindfolded player attempts to break a clay pot hanging from a height using a long stick, guided by spectators' calls. Tests trust and coordination.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Kana%20Mutti.png",
+    "category": "Recreational",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Avurudu, festivals, community events",
+    "tags": [
+      "Outdoor",
+      "Blindfold Game",
+      "Festival",
+      "Traditional"
+    ],
+    "equipment": [
+      "Clay pot",
+      "Long stick",
+      "Blindfold",
+      "Rope to hang pot"
+    ],
+    "howToPlay": [
+      "Step 1: A clay pot is filled with water or colored powder and hung from a height.",
+      "Step 2: A player is blindfolded and given a long stick.",
+      "Step 3: The player is spun around several times to disorient.",
+      "Step 4: Spectators shout directions to guide the player toward the pot.",
+      "Step 5: The player swings the stick attempting to break the pot.",
+      "Step 6: When the pot breaks, contents shower down.",
+      "Step 7: Players take turns attempting to break the pot.",
+      "Step 8: Requires trust in guidance and spatial awareness.",
+      "Step 9: Popular during New Year celebrations.",
+      "Step 10: Symbolizes breaking away from the old year."
+    ],
+    "rating": 0,
+    "views": 6701,
+    "reviewCount": 0,
+    "likes": 3100,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_lenger_005",
+    "title": "Lenger Bazi",
+    "description": "The famous Afghan kite fighting game where participants coat their kite strings with a glass-and-glue mixture to cut opponents' strings, immortalized in 'The Kite Runner.'",
+    "region": "Afghanistan",
+    "location": "Kabul, Herat, Mazar-i-Sharif",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Lenger%20Bazi.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Spring, Nowruz, winter afternoons, tournaments",
+    "tags": [
+      "Outdoor",
+      "Kite Fighting",
+      "Competitive",
+      "Cultural Icon",
+      "Traditional"
+    ],
+    "equipment": [
+      "Paper kites (Lenger)",
+      "Manja (glass-coated string)",
+      "Spool (Charkha)",
+      "Glass powder and glue mixture"
+    ],
+    "howToPlay": [
+      "Step 1: Players prepare their kites and specially coated strings with a mixture of glue and crushed glass.",
+      "Step 2: Each player launches their kite into the sky, maneuvering to gain height advantage.",
+      "Step 3: The goal is to cross strings with an opponent and pull sharply to cut their line.",
+      "Step 4: Players constantly reel in or release string to control kite position.",
+      "Step 5: Skilled kite flyers use complex maneuvers to entangle opponents.",
+      "Step 6: When a string is cut, the losing kite floats away, chased by children on the ground.",
+      "Step 7: The winner's kite remains flying, and they continue challenging others.",
+      "Step 8: Tournaments can involve dozens of kites competing simultaneously.",
+      "Step 9: Special signals are used to communicate with ground assistants.",
+      "Step 10: The last kite flying is declared the champion."
+    ],
+    "rating": 3.3,
+    "views": 28911,
+    "reviewCount": 3,
+    "likes": 15600,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

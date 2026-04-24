@@ -1,0 +1,412 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "region": "Afghanistan",
+  "totalGames": 10,
+  "games": [
+    {
+      "id": "afg_baghchal_010",
+      "title": "Baghchal",
+      "description": "A strategic board game simulating the conflict between tigers and goats, where four tigers try to hunt twenty goats while goats attempt to trap the tigers.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Baghchal.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Teahouses, evenings, winter gatherings",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Traditional",
+        "Intellectual"
+      ],
+      "equipment": [
+        "Wooden board with cross and diagonal lines",
+        "4 tiger pieces",
+        "20 goat pieces"
+      ],
+      "howToPlay": [
+        "Step 1: The board features a cross with diagonal lines forming intersections.",
+        "Step 2: One player controls 4 tigers placed at the board's corners.",
+        "Step 3: The other player controls 20 goats, initially placed off-board.",
+        "Step 4: Goats are placed one by one on any empty intersection.",
+        "Step 5: Tigers move along lines, capturing goats by jumping over them to empty spaces.",
+        "Step 6: Goats cannot capture but aim to surround and trap tigers so they cannot move.",
+        "Step 7: Tigers win by capturing 5 goats or reducing goats' mobility.",
+        "Step 8: Goats win by completely immobilizing all tigers.",
+        "Step 9: The game requires deep strategic thinking and forward planning.",
+        "Step 10: Matches can last from 30 minutes to several hours."
+      ],
+      "rating": 0,
+      "views": 4303,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_buzkashi_001",
+      "title": "Buzkashi",
+      "description": "The national sport of Afghanistan, Buzkashi is a dramatic horseback game where skilled riders, known as 'Chapandaz,' compete to grab a headless goat or calf carcass and carry it around a flag before dropping it in a designated circle.",
+      "region": "Afghanistan",
+      "location": "Northern Provinces (Balkh, Samangan, Kunduz)",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Buzkashi.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "10+",
+      "occasion": "Festivals, weddings, Nowruz celebrations",
+      "tags": [
+        "Outdoor",
+        "Equestrian",
+        "Team Sport",
+        "High Intensity",
+        "Cultural Heritage",
+        "National Sport"
+      ],
+      "equipment": [
+        "Horses (highly trained)",
+        "Headless goat or calf carcass",
+        "Traditional riding gear",
+        "Flag markers"
+      ],
+      "howToPlay": [
+        "Step 1: Two teams line up on a large field, with a flag or circle at each end serving as the goal.",
+        "Step 2: A headless carcass is placed in the center of the field by referees.",
+        "Step 3: On signal, riders charge to grab the carcass from the ground while mounted.",
+        "Step 4: The rider who secures the carcass attempts to carry it around the opposing team's flag and drop it into their scoring circle.",
+        "Step 5: Other riders try to tackle the carrier or steal the carcass through physical combat.",
+        "Step 6: Riders must maintain control of their horses while handling the heavy carcass.",
+        "Step 7: Points are awarded when a rider successfully circles the flag and deposits the carcass.",
+        "Step 8: The game continues for several hours or until a predetermined score is reached.",
+        "Step 9: Skilled Chapandaz are celebrated as local heroes with their horses decorated elaborately.",
+        "Step 10: Matches are often accompanied by traditional music and large community gatherings."
+      ],
+      "rating": 0,
+      "views": 18707,
+      "reviewCount": 0,
+      "likes": 8900,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_chupan_008",
+      "title": "Chupan Bazi",
+      "description": "A traditional game played by shepherds using their staffs to toss stones or sheep vertebrae, testing accuracy and distance control while tending flocks.",
+      "region": "Afghanistan",
+      "location": "Rural and mountainous regions",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Chupan%20Bazi.png",
+      "category": "Physical",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "While herding, leisure time",
+      "tags": [
+        "Outdoor",
+        "Shepherd Game",
+        "Accuracy",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden staff (Chupan)",
+        "Stones or sheep vertebrae",
+        "Target marker"
+      ],
+      "howToPlay": [
+        "Step 1: Shepherds mark a target line on the ground at varying distances.",
+        "Step 2: Players take turns placing a stone on the end of their staff.",
+        "Step 3: With a flicking motion, they launch the stone toward the target line.",
+        "Step 4: Points are awarded based on how close the stone lands to the line.",
+        "Step 5: Players can also compete to see who can launch stones the farthest.",
+        "Step 6: The game helps pass time during long hours of herding.",
+        "Step 7: Variations include aiming at specific targets like rocks or trees.",
+        "Step 8: Skilled players develop consistent and accurate throwing techniques.",
+        "Step 9: The game requires no special preparation and uses available materials.",
+        "Step 10: Winners are recognized among the herding community."
+      ],
+      "rating": 0,
+      "views": 1400,
+      "reviewCount": 0,
+      "likes": 450,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_gursai_004",
+      "title": "Gursai (Wrestling)",
+      "description": "A form of traditional Afghan wrestling similar to other Central Asian styles, where two opponents grapple on soft ground, aiming to pin each other's shoulders to the earth.",
+      "region": "Afghanistan",
+      "location": "Rural villages, Paktia, Khost",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Gursai.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2",
+      "occasion": "Festivals, Nowruz, community gatherings",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Traditional"
+      ],
+      "equipment": [
+        "Soft ground or sand",
+        "Traditional wrestling attire"
+      ],
+      "howToPlay": [
+        "Step 1: Two wrestlers face each other in a marked circular or square pit filled with soft earth.",
+        "Step 2: They begin by shaking hands and attempting to grasp each other's waistbands.",
+        "Step 3: The objective is to throw the opponent onto their back with shoulders touching the ground.",
+        "Step 4: Wrestlers use a combination of strength, technique, and balance to gain advantage.",
+        "Step 5: Grabbing legs below the knee is typically prohibited.",
+        "Step 6: Matches continue until one wrestler achieves a pin or wins by points.",
+        "Step 7: An elder referee officiates and declares the winner.",
+        "Step 8: Victors are celebrated and may receive prizes or cash rewards.",
+        "Step 9: Skilled wrestlers gain reputation and may challenge wrestlers from other villages.",
+        "Step 10: Training begins in childhood with experienced wrestlers mentoring youth."
+      ],
+      "rating": 0,
+      "views": 5500,
+      "reviewCount": 0,
+      "likes": 2800,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_khasai_003",
+      "title": "Khasai",
+      "description": "A traditional marble game played by children, using small glass or clay marbles, requiring precision and strategic shooting skills.",
+      "region": "Afghanistan",
+      "location": "Herat, Mazar-i-Sharif",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Khasai.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "After school, holidays, casual play",
+      "tags": [
+        "Outdoor",
+        "Marbles",
+        "Children's Game",
+        "Skill-based"
+      ],
+      "equipment": [
+        "Glass or clay marbles (Khasai)",
+        "Small hole or circle drawn on ground"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a small circle on flat ground and place several marbles inside.",
+        "Step 2: Players take turns shooting their 'shooter' marble from outside the circle.",
+        "Step 3: The goal is to knock marbles out of the circle while keeping the shooter inside.",
+        "Step 4: If a player knocks a marble out, they keep it and take another turn.",
+        "Step 5: If the shooter rolls outside the circle, the turn passes to the next player.",
+        "Step 6: Players must use their thumb to flick the shooter with precision.",
+        "Step 7: Advanced players develop techniques like backspin and curve shots.",
+        "Step 8: The game ends when all marbles are cleared from the circle.",
+        "Step 9: The player with the most marbles collected wins.",
+        "Step 10: Marbles are often traded and collected as prized possessions."
+      ],
+      "rating": 0,
+      "views": 3800,
+      "reviewCount": 0,
+      "likes": 1200,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_kichiri_007",
+      "title": "Kichiri Bazi",
+      "description": "A simple yet strategic game played with small pebbles, similar to jacks, requiring hand-eye coordination and quick reflexes, popular among girls and young women.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Kichiri%20Bazi.png",
+      "category": "Board",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Indoor gatherings, school breaks",
+      "tags": [
+        "Indoor",
+        "Pebble Game",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "5-7 small pebbles or stones",
+        "Flat surface"
+      ],
+      "howToPlay": [
+        "Step 1: Players sit in a circle on the floor with a set of pebbles in the center.",
+        "Step 2: The first player scatters the pebbles on the ground.",
+        "Step 3: The player tosses one pebble into the air and quickly picks up another pebble from the ground before catching the falling pebble.",
+        "Step 4: The collected pebble is set aside, and the process repeats until all pebbles are gathered.",
+        "Step 5: Advanced rounds require picking up multiple pebbles at once.",
+        "Step 6: If a player fails to catch the tossed pebble or drops collected ones, turn passes.",
+        "Step 7: Players progress through increasingly difficult levels.",
+        "Step 8: The player who successfully completes all levels first wins.",
+        "Step 9: Variations include different picking patterns and tossing techniques.",
+        "Step 10: Songs and rhymes often accompany the gameplay."
+      ],
+      "rating": 0,
+      "views": 2100,
+      "reviewCount": 0,
+      "likes": 680,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_lenger_005",
+      "title": "Lenger Bazi",
+      "description": "The famous Afghan kite fighting game where participants coat their kite strings with a glass-and-glue mixture to cut opponents' strings, immortalized in 'The Kite Runner.'",
+      "region": "Afghanistan",
+      "location": "Kabul, Herat, Mazar-i-Sharif",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Lenger%20Bazi.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Spring, Nowruz, winter afternoons, tournaments",
+      "tags": [
+        "Outdoor",
+        "Kite Fighting",
+        "Competitive",
+        "Cultural Icon",
+        "Traditional"
+      ],
+      "equipment": [
+        "Paper kites (Lenger)",
+        "Manja (glass-coated string)",
+        "Spool (Charkha)",
+        "Glass powder and glue mixture"
+      ],
+      "howToPlay": [
+        "Step 1: Players prepare their kites and specially coated strings with a mixture of glue and crushed glass.",
+        "Step 2: Each player launches their kite into the sky, maneuvering to gain height advantage.",
+        "Step 3: The goal is to cross strings with an opponent and pull sharply to cut their line.",
+        "Step 4: Players constantly reel in or release string to control kite position.",
+        "Step 5: Skilled kite flyers use complex maneuvers to entangle opponents.",
+        "Step 6: When a string is cut, the losing kite floats away, chased by children on the ground.",
+        "Step 7: The winner's kite remains flying, and they continue challenging others.",
+        "Step 8: Tournaments can involve dozens of kites competing simultaneously.",
+        "Step 9: Special signals are used to communicate with ground assistants.",
+        "Step 10: The last kite flying is declared the champion."
+      ],
+      "rating": 3.3,
+      "views": 28911,
+      "reviewCount": 3,
+      "likes": 15600,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_sherjangi_006",
+      "title": "Sherjangi",
+      "description": "A traditional spectacle where specially bred and trained bulls are pitted against each other in controlled matches, highly popular in northern Afghanistan with passionate local followings.",
+      "region": "Afghanistan",
+      "location": "Northern provinces: Balkh, Samangan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Sherjangi%20(Bullfighting).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2",
+      "occasion": "Festivals, Nowruz, special events",
+      "tags": [
+        "Outdoor",
+        "Animal Sport",
+        "Spectacle",
+        "Traditional",
+        "Cultural Event"
+      ],
+      "equipment": [
+        "Specially trained bulls",
+        "Open field",
+        "Handlers with ropes",
+        "Referees"
+      ],
+      "howToPlay": [
+        "Step 1: Two champion bulls are brought to a designated field by their handlers and owners.",
+        "Step 2: Bulls are released to face each other, with handlers nearby for safety.",
+        "Step 3: Bulls engage by locking horns, pushing and maneuvering for dominance.",
+        "Step 4: The match continues until one bull retreats or is overpowered.",
+        "Step 5: Handlers may separate the bulls if the contest becomes too dangerous.",
+        "Step 6: Bulls are judged on strength, technique, and endurance.",
+        "Step 7: Winning bulls gain fame and increase in value significantly.",
+        "Step 8: Owners invest years in training and feeding their champion bulls.",
+        "Step 9: Matches draw large crowds who bet informally on outcomes.",
+        "Step 10: Celebrations follow victories with music and feasting."
+      ],
+      "rating": 0,
+      "views": 9806,
+      "reviewCount": 0,
+      "likes": 4301,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_topai_002",
+      "title": "Topai Drana",
+      "description": "A lively horseback game where riders chase each other to snatch a traditional cap (topai) from an opponent and place it on their own head, showcasing equestrian skill and agility.",
+      "region": "Afghanistan",
+      "location": "Kandahar, Kabul, Rural villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Topai%20Drana.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+",
+      "occasion": "Weddings, Nowruz, community celebrations",
+      "tags": [
+        "Outdoor",
+        "Equestrian",
+        "Agility",
+        "Festival Game"
+      ],
+      "equipment": [
+        "Horses",
+        "Traditional Afghan cap (Topai)",
+        "Riding gear"
+      ],
+      "howToPlay": [
+        "Step 1: Riders gather on a field, with one rider designated as the target wearing a distinctive cap.",
+        "Step 2: On signal, other riders chase the target rider across the field.",
+        "Step 3: The chaser must catch up and snatch the cap from the target's head without dismounting.",
+        "Step 4: Once the cap is stolen, the new wearer must evade other riders trying to take it.",
+        "Step 5: Riders use precise horsemanship to maneuver close to opponents.",
+        "Step 6: The game continues until a rider holds the cap for a predetermined time.",
+        "Step 7: Falling off the horse or dropping the cap results in temporary disqualification.",
+        "Step 8: Skilled riders perform daring maneuvers to protect or steal the cap.",
+        "Step 9: The winner is celebrated with prizes and recognition.",
+        "Step 10: Matches are accompanied by traditional music and cheering crowds."
+      ],
+      "rating": 0,
+      "views": 6200,
+      "reviewCount": 0,
+      "likes": 2100,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_tutak_009",
+      "title": "Tutak Bazi",
+      "description": "A game involving small clay whistles shaped like birds or animals, where children compete to create the loudest or most melodic sounds through controlled blowing techniques.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Tutak%20Bazi.png",
+      "category": "Board",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Festivals, markets, playtime",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Musical Game",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Clay whistles (Tutak)",
+        "Water (sometimes to improve sound)"
+      ],
+      "howToPlay": [
+        "Step 1: Children purchase or make small clay whistles from local potters.",
+        "Step 2: Players fill the whistle partially with water to create warbling effects.",
+        "Step 3: They take turns blowing into the whistle to produce sounds.",
+        "Step 4: Competitions judge who can create the loudest, longest, or most musical sound.",
+        "Step 5: Players develop techniques for controlling pitch and volume.",
+        "Step 6: Group performances create layered musical effects.",
+        "Step 7: Whistles are often decorated with colorful paints.",
+        "Step 8: The game teaches breath control and musical appreciation.",
+        "Step 9: Broken whistles are replaced with new ones from traveling potters.",
+        "Step 10: The tradition connects children to Afghan folk art and craftsmanship."
+      ],
+      "rating": 0,
+      "views": 902,
+      "reviewCount": 0,
+      "likes": 280,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    }
+  ]
+}

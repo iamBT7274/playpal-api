@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_chaupar_009",
+    "title": "Chaupar / Pachisi",
+    "description": "The 'Game of Kings,' an ancient board game played by Mughal emperors and Indian royalty. Precursor to Ludo, involving strategy and chance with cowrie shells as dice.",
+    "region": "India",
+    "location": "Throughout India, especially Rajasthan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Chaupar%20(Pachisi).png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2-4",
+    "occasion": "Evenings, family gatherings, festivals",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Royal Game",
+      "Ancient"
+    ],
+    "equipment": [
+      "Cloth or wooden cross-shaped board",
+      "Cowrie shells (for dice)",
+      "Wooden pieces (16 per player)"
+    ],
+    "howToPlay": [
+      "Step 1: The cross-shaped board has squares arranged in a symmetrical pattern.",
+      "Step 2: Each player chooses colored pieces and places them in the center.",
+      "Step 3: Players throw cowrie shells to determine moves.",
+      "Step 4: The number of shells landing with opening up determines the move count.",
+      "Step 5: Players move pieces along the squares toward the center.",
+      "Step 6: Landing on an opponent's square sends their piece back to start.",
+      "Step 7: Safe squares protect pieces from capture.",
+      "Step 8: All pieces must reach the center to win.",
+      "Step 9: Strategy involves deciding which pieces to move and when.",
+      "Step 10: The first player to get all pieces home wins."
+    ],
+    "rating": 0,
+    "views": 12300,
+    "reviewCount": 0,
+    "likes": 6100,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

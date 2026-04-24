@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_daria_005",
+    "title": "Dariabanda",
+    "description": "A traditional game played by fishermen's children involving diving and swimming competitions in rivers and coastal waters, testing underwater endurance and swimming skills.",
+    "region": "Bangladesh",
+    "location": "Coastal areas, Chittagong, Cox's Bazar",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Dariabanda.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2+",
+    "occasion": "Low tide, free time, holidays",
+    "tags": [
+      "Outdoor",
+      "Water Sport",
+      "Swimming",
+      "Children's Game"
+    ],
+    "equipment": [
+      "Water body (river, pond, sea)",
+      "No special equipment needed"
+    ],
+    "howToPlay": [
+      "Step 1: Children gather at a safe swimming spot in a river or coastal area.",
+      "Step 2: Players compete in underwater swimming distance challenges.",
+      "Step 3: Another variation tests who can hold their breath longest underwater.",
+      "Step 4: Diving competitions see who can retrieve objects from the bottom.",
+      "Step 5: Teams may compete in relay swimming races.",
+      "Step 6: Skills learned help children become comfortable in water environments.",
+      "Step 7: Older children teach swimming techniques to younger ones.",
+      "Step 8: Games are often accompanied by splashing and water-based tag variations.",
+      "Step 9: Safety is practiced with older children watching younger participants.",
+      "Step 10: Winners gain respect among their peer group."
+    ],
+    "rating": 0,
+    "views": 3800,
+    "reviewCount": 0,
+    "likes": 1400,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

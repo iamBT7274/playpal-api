@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "npl_surung_009",
+    "title": "Surung (Tunnel Game)",
+    "description": "A traditional game where players form human tunnels by bending over in lines, while others crawl through. Tests agility and teamwork.",
+    "region": "Nepal",
+    "location": "Rural Nepal, villages",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Surung.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "6+",
+    "occasion": "School breaks, village gatherings, festivals",
+    "tags": [
+      "Outdoor",
+      "Team Game",
+      "Agility",
+      "Children's Game"
+    ],
+    "equipment": [
+      "Open space",
+      "No equipment needed"
+    ],
+    "howToPlay": [
+      "Step 1: Players divide into two teams.",
+      "Step 2: One team forms a tunnel by bending forward and placing hands on knees in a line.",
+      "Step 3: The other team takes turns crawling through the tunnel.",
+      "Step 4: After all players have crawled through, teams switch roles.",
+      "Step 5: The team that completes crawling faster wins.",
+      "Step 6: Variations include obstacles and timed challenges.",
+      "Step 7: Players must maintain tunnel formation throughout.",
+      "Step 8: Game builds teamwork and physical coordination.",
+      "Step 9: Popular during school sports days.",
+      "Step 10: Requires no equipment, making it accessible to all."
+    ],
+    "rating": 0,
+    "views": 2400,
+    "reviewCount": 0,
+    "likes": 980,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

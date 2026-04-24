@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_hulha_010",
+    "title": "Hulhavalha",
+    "description": "A traditional hide-and-seek variant played during full moon nights, where seekers use moonlight to find hiders who can move and change positions.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Hulhavalha.png",
+    "category": "Recreational",
+    "intensity": "Medium",
+    "players": "5+",
+    "occasion": "Full moon nights, festivals, community gatherings",
+    "tags": [
+      "Outdoor",
+      "Night Game",
+      "Hide and Seek",
+      "Children's Game"
+    ],
+    "equipment": [
+      "Moonlit night",
+      "Designated play area"
+    ],
+    "howToPlay": [
+      "Step 1: Players gather in a designated area with good hiding spots.",
+      "Step 2: One player is chosen as the seeker and counts to a predetermined number.",
+      "Step 3: Other players hide while the seeker counts.",
+      "Step 4: Unlike traditional hide-and-seek, hiders can move and change hiding spots.",
+      "Step 5: The seeker tries to find and tag hiders using moonlight.",
+      "Step 6: Tagged hiders become seekers or are eliminated.",
+      "Step 7: Game continues until all hiders are found.",
+      "Step 8: Last hider found wins the round.",
+      "Step 9: Moonlight adds atmosphere and challenge to the game.",
+      "Step 10: Popular during full moon festivals and gatherings."
+    ],
+    "rating": 0,
+    "views": 3100,
+    "reviewCount": 0,
+    "likes": 1400,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

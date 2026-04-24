@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_feviyya_006",
+    "title": "Feviyya Fathun (Mango Seed Game)",
+    "description": "A children's game using dried mango seeds as playing pieces. Players flick seeds at a target, competing for accuracy and distance.",
+    "region": "Maldives",
+    "location": "Throughout Maldives, especially island villages",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Feviyya%20Fathun.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Mango season, after school, casual play",
+    "tags": [
+      "Outdoor",
+      "Children's Game",
+      "Accuracy",
+      "Natural Materials"
+    ],
+    "equipment": [
+      "Dried mango seeds (Feviyya)",
+      "Target marker"
+    ],
+    "howToPlay": [
+      "Step 1: Collect and dry mango seeds after eating the fruit.",
+      "Step 2: Mark a throwing line on the ground.",
+      "Step 3: Place a target at a predetermined distance.",
+      "Step 4: Players take turns flicking or throwing seeds toward the target.",
+      "Step 5: Points awarded based on proximity to target.",
+      "Step 6: Seeds that hit the target score highest points.",
+      "Step 7: Players can knock opponents' seeds away.",
+      "Step 8: Multiple rounds are played with cumulative scoring.",
+      "Step 9: Seeds are collected and traded among children.",
+      "Step 10: Winner receives bragging rights and sometimes opponents' seeds."
+    ],
+    "rating": 0,
+    "views": 2100,
+    "reviewCount": 0,
+    "likes": 820,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

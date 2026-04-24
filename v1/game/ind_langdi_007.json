@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_langdi_007",
+    "title": "Langdi",
+    "description": "A traditional hop-tag game where chasing team players must hop on one foot while trying to tag defenders. Combines elements of tag and hopscotch with deep historical roots in Pandiyan Dynasty.",
+    "region": "India",
+    "location": "Maharashtra, Tamil Nadu (as Nondiyaattam)",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Langdi.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams",
+    "occasion": "Rural sports, festivals, school games",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Hopping",
+      "Ancient"
+    ],
+    "equipment": [
+      "Open field",
+      "Boundary markers"
+    ],
+    "howToPlay": [
+      "Step 1: Teams alternate chasing and defending roles for 4 innings.",
+      "Step 2: Chasing team players must hop on one foot throughout.",
+      "Step 3: They attempt to tag as many defenders as possible.",
+      "Step 4: Each inning lasts 9 minutes.",
+      "Step 5: Defenders run and dodge while chasers hop after them.",
+      "Step 6: Chasers must not put down the raised foot or switch hopping foot.",
+      "Step 7: Successful tags score points.",
+      "Step 8: Teams switch roles after each inning.",
+      "Step 9: Game requires balance, endurance, and agility.",
+      "Step 10: Team with most tags wins."
+    ],
+    "rating": 0,
+    "views": 7600,
+    "reviewCount": 0,
+    "likes": 3800,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

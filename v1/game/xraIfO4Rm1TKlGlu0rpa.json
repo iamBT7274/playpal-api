@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "xraIfO4Rm1TKlGlu0rpa",
+    "title": "Gully Cricket",
+    "description": "A popular street version of cricket played in neighborhoods across India.",
+    "region": "India",
+    "location": "India",
+    "imageUrl": "https://i.pinimg.com/736x/4e/47/b6/4e47b6cc8d719f957882f9742e22520a.jpg",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "any free moment",
+    "tags": [
+      "Outdoor",
+      "Street Game",
+      "Casual",
+      "Team Sport",
+      "Improvised"
+    ],
+    "equipment": [
+      "Bat ",
+      "Tennis Ball "
+    ],
+    "howToPlay": [
+      "Step 1: Find your \"Pitch\" – Grab a narrow street or a backyard. Use a wall or three sticks as the wickets at one end. ",
+      "Step 2: Choose the Ball – Use a tennis ball (often wrapped in electrical tape to make it swing). ",
+      "Step 3: The Toss – Use a coin or \"bat-flip\" (smooth side vs. rough side) to decide who bats first. ",
+      "Step 4: Set the \"Gully Rules\" – Agree on local rules, like \"one-hand-one-bounce\" (if the ball bounces once, you can catch it with one hand to get the batter out). \n",
+      "Step 5: The Over – Decide how many balls per over (usually 6 balls) and how many overs per game. ",
+      "Step 6: Batting – The batter tries to hit the ball and score runs by running to the other side or hitting designated \"boundary\" walls. \n",
+      "Step 7: Bowling – The bowler must bowl underarm or overarm (depending on street space) to hit the wickets. ",
+      "Step 8: Fielding – Teammates stand around the street to stop the ball or catch it.",
+      "Step 9: Scoring – 1 run for a sprint, or automatic runs (4s and 6s) for hitting specific landmarks like a gate or a tree. ",
+      "Step 10: Getting \"Out\" – You are out if the ball hits the wickets, if you’re caught, or if you hit the ball into a \"forbidden\" area (like a neighbor’s balcony). ",
+      "Step 11: Switch – Once the batting team loses all their wickets or finishes their overs, the teams swap. ",
+      "Step 12: Win – The team that scores the most runs wins the match. "
+    ],
+    "rating": 3.9,
+    "views": 168,
+    "reviewCount": 6,
+    "likes": 232,
+    "createdAt": "2026-02-26T18:30:00.173Z"
+  }
+}

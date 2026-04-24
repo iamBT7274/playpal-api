@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_kushti_010",
+    "title": "Desi Kushti (Traditional Wrestling)",
+    "description": "Traditional South Asian wrestling practiced in akharas (training pits). Once as popular as cricket, with rich history of champions and regional competitions.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan, especially Punjab, Multan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+    "category": "Physical",
+    "intensity": "Very High",
+    "players": "2",
+    "occasion": "Village fairs, festivals, dangal competitions",
+    "tags": [
+      "Outdoor",
+      "Wrestling",
+      "Combat Sport",
+      "Traditional",
+      "Akhara"
+    ],
+    "equipment": [
+      "Clay or sand pit",
+      "Loincloth (langot)",
+      "Oil for body",
+      "Training accessories"
+    ],
+    "howToPlay": [
+      "Step 1: Wrestlers train in akharas under experienced coaches (pehelwans).",
+      "Step 2: Before independence, 100-150 akharas existed in Multan alone.",
+      "Step 3: Matches (dangal) are held in sandy pits.",
+      "Step 4: Wrestlers apply oil to their bodies for flexibility.",
+      "Step 5: They face each other and attempt to pin opponent's shoulders to ground.",
+      "Step 6: Various grappling techniques and holds are used.",
+      "Step 7: Matches continue until one wrestler achieves a pin or submission.",
+      "Step 8: Referees ensure fair play and declare winners.",
+      "Step 9: Winners receive prizes and gain reputation.",
+      "Step 10: Traditional wrestling declined after 1980s but still practiced."
+    ],
+    "rating": 0,
+    "views": 15600,
+    "reviewCount": 0,
+    "likes": 7600,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

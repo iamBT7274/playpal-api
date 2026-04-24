@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_sherjangi_006",
+    "title": "Sherjangi",
+    "description": "A traditional spectacle where specially bred and trained bulls are pitted against each other in controlled matches, highly popular in northern Afghanistan with passionate local followings.",
+    "region": "Afghanistan",
+    "location": "Northern provinces: Balkh, Samangan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Sherjangi%20(Bullfighting).png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2",
+    "occasion": "Festivals, Nowruz, special events",
+    "tags": [
+      "Outdoor",
+      "Animal Sport",
+      "Spectacle",
+      "Traditional",
+      "Cultural Event"
+    ],
+    "equipment": [
+      "Specially trained bulls",
+      "Open field",
+      "Handlers with ropes",
+      "Referees"
+    ],
+    "howToPlay": [
+      "Step 1: Two champion bulls are brought to a designated field by their handlers and owners.",
+      "Step 2: Bulls are released to face each other, with handlers nearby for safety.",
+      "Step 3: Bulls engage by locking horns, pushing and maneuvering for dominance.",
+      "Step 4: The match continues until one bull retreats or is overpowered.",
+      "Step 5: Handlers may separate the bulls if the contest becomes too dangerous.",
+      "Step 6: Bulls are judged on strength, technique, and endurance.",
+      "Step 7: Winning bulls gain fame and increase in value significantly.",
+      "Step 8: Owners invest years in training and feeding their champion bulls.",
+      "Step 9: Matches draw large crowds who bet informally on outcomes.",
+      "Step 10: Celebrations follow victories with music and feasting."
+    ],
+    "rating": 0,
+    "views": 9806,
+    "reviewCount": 0,
+    "likes": 4301,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

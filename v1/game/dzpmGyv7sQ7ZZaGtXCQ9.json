@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "dzpmGyv7sQ7ZZaGtXCQ9",
+    "title": "Kabbadi",
+    "description": "Kabaddi is an ancient Indian contact sport that is often described as a high-intensity, professionalized version of team tag mixed with wrestling. Deeply rooted in rural traditions for over 4,000 years, it is the second most popular sport in India after cricket and is the national sport of Bangladesh",
+    "region": "India",
+    "location": "India",
+    "imageUrl": "https://i.pinimg.com/1200x/f2/e6/af/f2e6af6b1239265981564ccc473ed6e1.jpg",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "7",
+    "occasion": "village festivals",
+    "tags": [
+      "Outdoor",
+      "Contact Sport",
+      "Team Sport",
+      "Raid",
+      "Stamina"
+    ],
+    "equipment": [
+      "-"
+    ],
+    "howToPlay": [
+      "Step 1: Form Teams – Split into two teams of 7 players.",
+      "Step 2: The Toss – Flip a coin. The winner chooses to either Raid first or pick a side.",
+      "Step 3: The Chant – One \"Raider\" runs into the opponent's side while yelling \"Kabaddi, Kabaddi\" repeatedly. You must do this in one single breath",
+      "Step 4: Make it Valid – Cross the first line (Baulk Line). If you don't cross it, the raid doesn't count.",
+      "Step 5: Get the Bonus – If the other team has 6 or 7 players, cross the second line (Bonus Line) with one foot in the air to get an easy 1 point.\n",
+      "Step 6: Tag and Run – Touch an opponent and quickly run back to your side before they grab you.",
+      "Step 7: The Tackle – When you are defending, grab the incoming Raider and hold them down until they run out of breath or the 30-second timer ends.",
+      "Step 8: Scoring – You get 1 point for every person you touch (if you return home) or 1 point for every Raider you tackle.\n",
+      "Step 9: The Revival – If your team scores a point, one of your \"out\" players comes back into the game.",
+      "Step 10: Switch – After your raid is over, it’s the other team’s turn. Keep alternating.",
+      "Step 11: Do-or-Die – If you have two empty raids (no points scored), the 3rd raid is \"Do-or-Die.\" You must score a point, or you are automatically out!",
+      "Step 12: Win – The team with the most points at the end of the time limit wins."
+    ],
+    "rating": 4.1,
+    "views": 357,
+    "reviewCount": 6,
+    "likes": 301,
+    "createdAt": "2026-02-11T18:30:00.029Z"
+  }
+}

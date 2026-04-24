@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_ludo_007",
+    "title": "Ludo (Desi Version)",
+    "description": "Pakistani version of the classic board game, descended from the ancient Indian game Pachisi. Played with cowrie shells instead of dice in traditional settings.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Ludo%20(Desi%20Version).png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2-4",
+    "occasion": "Family gatherings, rainy days, evenings",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Family Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Cloth or wooden board",
+      "Cowrie shells (for dice)",
+      "Colored pieces (16 per player)"
+    ],
+    "howToPlay": [
+      "Step 1: Players choose colored pieces and place them in the starting area.",
+      "Step 2: Throw cowrie shells to determine moves (number of shells opening up determines count).",
+      "Step 3: Move pieces around the board according to the throw.",
+      "Step 4: Landing on an opponent's square sends their piece back to start.",
+      "Step 5: Safe squares protect pieces from capture.",
+      "Step 6: To enter the home column, piece must land exactly on the entrance square.",
+      "Step 7: All pieces must reach the center to win.",
+      "Step 8: Strategy involves deciding which pieces to move and when.",
+      "Step 9: The first player to get all pieces home wins.",
+      "Step 10: Traditional version uses cowrie shells instead of modern dice."
+    ],
+    "rating": 0,
+    "views": 12300,
+    "reviewCount": 0,
+    "likes": 5800,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

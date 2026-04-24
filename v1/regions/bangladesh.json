@@ -1,0 +1,330 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "region": "Bangladesh",
+  "totalGames": 8,
+  "games": [
+    {
+      "id": "bgd_boli_003",
+      "title": "Boli Khela (Jabbarer Boli Khela)",
+      "description": "A traditional form of wrestling introduced in the late 19th century, now a major annual event held in Chittagong during the Bengali New Year. Wrestlers compete in sandy pits before thousands of spectators.",
+      "region": "Bangladesh",
+      "location": "Chittagong, Madarsha Union, Laldighi Maidan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Boli%20Khela.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 wrestlers per match, multiple participants",
+      "occasion": "Pahela Baishakh (Bengali New Year), 7th and 12th of Boishakh",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Festival",
+        "Traditional"
+      ],
+      "equipment": [
+        "Sandy wrestling pit",
+        "Traditional loincloth",
+        "Oil for body"
+      ],
+      "howToPlay": [
+        "Step 1: Wrestlers enter the sandy arena accompanied by traditional music.",
+        "Step 2: They warm up and apply oil to their bodies for flexibility.",
+        "Step 3: Two wrestlers face each other and attempt to grip each other's waistbands.",
+        "Step 4: The objective is to throw the opponent onto their back on the sand.",
+        "Step 5: Matches continue until one wrestler pins the other's shoulders down.",
+        "Step 6: Skilled wrestlers use technique, strength, and leverage.",
+        "Step 7: Referees ensure fair play and declare the winner.",
+        "Step 8: Winners receive prizes and gain prestige in their communities.",
+        "Step 9: The event includes multiple matches throughout the day.",
+        "Step 10: Jabbarer Boli Khela specifically commemorates Abdul Jabbar Saodagor who organized it since 1907."
+      ],
+      "rating": 0,
+      "views": 18700,
+      "reviewCount": 0,
+      "likes": 8900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_daria_005",
+      "title": "Dariabanda",
+      "description": "A traditional game played by fishermen's children involving diving and swimming competitions in rivers and coastal waters, testing underwater endurance and swimming skills.",
+      "region": "Bangladesh",
+      "location": "Coastal areas, Chittagong, Cox's Bazar",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Dariabanda.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+",
+      "occasion": "Low tide, free time, holidays",
+      "tags": [
+        "Outdoor",
+        "Water Sport",
+        "Swimming",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Water body (river, pond, sea)",
+        "No special equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: Children gather at a safe swimming spot in a river or coastal area.",
+        "Step 2: Players compete in underwater swimming distance challenges.",
+        "Step 3: Another variation tests who can hold their breath longest underwater.",
+        "Step 4: Diving competitions see who can retrieve objects from the bottom.",
+        "Step 5: Teams may compete in relay swimming races.",
+        "Step 6: Skills learned help children become comfortable in water environments.",
+        "Step 7: Older children teach swimming techniques to younger ones.",
+        "Step 8: Games are often accompanied by splashing and water-based tag variations.",
+        "Step 9: Safety is practiced with older children watching younger participants.",
+        "Step 10: Winners gain respect among their peer group."
+      ],
+      "rating": 0,
+      "views": 3800,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_ekka_008",
+      "title": "Ekka-Dokka",
+      "description": "A traditional hopscotch variant primarily played by girls, using a broken piece of earthen pot (guti). Players hop through numbered boxes while singing a melodious rhyme, kicking the guti through each section.",
+      "region": "Bangladesh",
+      "location": "Rural areas, villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Ekka-Dokka.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Afternoons, festivals, leisure time",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional",
+        "Singing Game"
+      ],
+      "equipment": [
+        "Broken earthen pot piece (guti)",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a large rectangle divided into six boxes on the ground.",
+        "Step 2: Name the boxes: ek-er ghor (first), dui-er ghor (second), etc., with the last called samundra.",
+        "Step 3: Players roll their guti into the first box while standing outside.",
+        "Step 4: Hop on one foot and kick the guti from box to box in sequence.",
+        "Step 5: Continue until reaching the fifth box, then return to start.",
+        "Step 6: After completing, roll the guti to the second box and repeat.",
+        "Step 7: Players sing the ekka-dokka melody throughout the game.",
+        "Step 8: Elimination occurs if guti lands on a line, wrong box, or both feet touch ground.",
+        "Step 9: The player who completes all boxes successfully wins.",
+        "Step 10: Advanced players add complex patterns and faster movements."
+      ],
+      "rating": 0,
+      "views": 1800,
+      "reviewCount": 0,
+      "likes": 620,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_golla_006",
+      "title": "Gollachut",
+      "description": "A traditional chasing game where players run from a central circle (golla) to a boundary area while avoiding being tagged. The game's rhymes may reference ancient escape attempts by slaves.",
+      "region": "Bangladesh",
+      "location": "Rural villages, school playgrounds",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Gollachut.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "6+",
+      "occasion": "After school, holidays, full moon nights",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Running",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Flat open ground",
+        "Chalk or stick to draw circles"
+      ],
+      "howToPlay": [
+        "Step 1: A large circle is drawn on the ground as the 'golla' (safe zone).",
+        "Step 2: A smaller circle or boundary is drawn some distance away as the goal.",
+        "Step 3: One player is chosen as the denner (catcher).",
+        "Step 4: Other players gather inside the golla (safe circle).",
+        "Step 5: Players must run from the golla to the boundary without being tagged.",
+        "Step 6: The denner attempts to tag players as they run between zones.",
+        "Step 7: Tagged players become denners or sit out depending on rules.",
+        "Step 8: Players who reach the boundary safely are safe until next round.",
+        "Step 9: The game continues until all players are tagged or reach safety.",
+        "Step 10: New rounds start with a different denner."
+      ],
+      "rating": 0,
+      "views": 2900,
+      "reviewCount": 0,
+      "likes": 1100,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_kanamachi_007",
+      "title": "Kanamachi (Blind Man's Buff)",
+      "description": "The Bengali version of blind man's buff where one player is blindfolded and tries to catch others, who tease and dodge while singing traditional rhymes.",
+      "region": "Bangladesh",
+      "location": "Throughout Bangladesh",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Kanamachi.png",
+      "category": "Recreational",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "Family gatherings, festivals, school breaks",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Party Game"
+      ],
+      "equipment": [
+        "Cloth for blindfold"
+      ],
+      "howToPlay": [
+        "Step 1: One player is selected as 'Kanamachi' and blindfolded with a cloth.",
+        "Step 2: Other players scatter around and tease the blindfolded player.",
+        "Step 3: Players sing traditional rhymes while dodging the blindfolded player.",
+        "Step 4: The blindfolded player spins around several times before starting.",
+        "Step 5: They must rely on sound to locate and tag other players.",
+        "Step 6: Other players must stay within a designated play area.",
+        "Step 7: When someone is tagged, they become the next blindfolded player.",
+        "Step 8: Players can clap or call out to help the blindfolded player locate them.",
+        "Step 9: The game teaches spatial awareness and listening skills.",
+        "Step 10: Variations include making sounds or giving clues to the seeker."
+      ],
+      "rating": 0,
+      "views": 2100,
+      "reviewCount": 0,
+      "likes": 780,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_lathi_004",
+      "title": "Lathi Khela (Stick Fighting)",
+      "description": "A traditional Bengali martial art form involving skilled stick fighting, historically used by lathials (warriors) employed by zamindars. Now performed during festivals and weddings as a cultural demonstration.",
+      "region": "Bangladesh",
+      "location": "Rural areas, Kushtia, Jessore, villages throughout",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Lathi%20Khela.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+ individuals or teams",
+      "occasion": "Weddings, festivals, puja ceremonies, Eid celebrations",
+      "tags": [
+        "Outdoor",
+        "Martial Art",
+        "Stick Fighting",
+        "Cultural Performance",
+        "Traditional"
+      ],
+      "equipment": [
+        "Long bamboo sticks (Lathi)",
+        "Protective gear (optional)",
+        "Traditional attire"
+      ],
+      "howToPlay": [
+        "Step 1: Practitioners, known as lathials, train in basic stances and swings.",
+        "Step 2: Two opponents face each other holding long bamboo sticks.",
+        "Step 3: They perform choreographed routines demonstrating skill and agility.",
+        "Step 4: In competitive matches, fighters attempt to strike opponents while defending.",
+        "Step 5: Points are awarded for clean hits to permitted body areas.",
+        "Step 6: Fighters use spinning moves, jumps, and acrobatic defenses.",
+        "Step 7: Matches are accompanied by drumming and traditional music.",
+        "Step 8: Group performances show synchronized stick routines.",
+        "Step 9: The game emphasizes discipline, reflexes, and martial tradition.",
+        "Step 10: Annual conventions were historically held in Kushtia, now less frequent."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 5600,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_nouka_002",
+      "title": "Nouka Baich (Boat Racing)",
+      "description": "A spectacular traditional boat race featuring long, narrow canoes (khel naos) paddled by up to 100 rowers. The races are accompanied by traditional songs and attract massive crowds along riverbanks.",
+      "region": "Bangladesh",
+      "location": "Riverine areas, Chittagong, Dhaka, Barisal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Nouka%20Baich%20(Boat%20Race).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "Teams of 25-100 rowers per boat",
+      "occasion": "Monsoon season, festivals, Pahela Baishakh",
+      "tags": [
+        "Outdoor",
+        "Water Sport",
+        "Team Sport",
+        "Festival",
+        "Cultural Heritage"
+      ],
+      "equipment": [
+        "Long narrow canoe (Khel Nauka)",
+        "Paddles",
+        "Traditional rowing uniforms",
+        "Drums for rhythm"
+      ],
+      "howToPlay": [
+        "Step 1: Teams assemble with their decorated long boats, often painted in vibrant colors.",
+        "Step 2: Rowers sit in rows along the length of the boat, each with a paddle.",
+        "Step 3: A drummer sits in the center to maintain rowing rhythm with beats.",
+        "Step 4: Boats line up at the starting point on a river or large water body.",
+        "Step 5: At signal, rowers paddle in perfect synchronization to the drumbeat.",
+        "Step 6: Spectators on riverbanks cheer as boats race toward the finish line.",
+        "Step 7: Traditional 'sari gan' songs are sung to motivate rowers.",
+        "Step 8: Races can cover distances from several hundred meters to kilometers.",
+        "Step 9: Winning teams receive trophies and cash prizes.",
+        "Step 10: The event is a major social and cultural gathering for riverine communities."
+      ],
+      "rating": 0,
+      "views": 25601,
+      "reviewCount": 0,
+      "likes": 14200,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_raja_009",
+      "title": "Raja-Chor-Mantri-Sipahi (King-Thief-Minister-Soldier)",
+      "description": "A role-playing game where four players randomly draw roles of Raja (King), Mantri (Minister), Chor (Thief), and Sipahi (Soldier). The Minister must correctly identify the Thief based on clues.",
+      "region": "Bangladesh",
+      "location": "Throughout Bangladesh",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Raja-Chor-Mantri-Sipahi.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "4 (can be adapted for more)",
+      "occasion": "Indoor gatherings, rainy days, school breaks",
+      "tags": [
+        "Indoor",
+        "Role-playing",
+        "Party Game",
+        "Children's Game",
+        "Strategy"
+      ],
+      "equipment": [
+        "Small paper slips",
+        "Pen",
+        "Notebook for scoring"
+      ],
+      "howToPlay": [
+        "Step 1: Write 'Raja', 'Mantri', 'Chor', and 'Sipahi' on separate slips of paper.",
+        "Step 2: Four players each pick a slip without showing others.",
+        "Step 3: The player who gets 'Raja' reveals their identity and sits as the King.",
+        "Step 4: The 'Mantri' (Minister) must guess which of the remaining two players is the 'Chor' (Thief).",
+        "Step 5: The 'Sipahi' (Soldier) and 'Chor' maintain neutral expressions.",
+        "Step 6: The Mantri asks questions or observes behavior to deduce the Chor.",
+        "Step 7: Raja awards points: Mantri gets 500 points if correct; if wrong, Chor gets the Mantri's 500 points.",
+        "Step 8: Raja gets 1000 points automatically, Sipahi gets 100 points.",
+        "Step 9: Roles are shuffled and the game repeats for multiple rounds.",
+        "Step 10: The player with the highest total points after predetermined rounds wins."
+      ],
+      "rating": 0,
+      "views": 4300,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    }
+  ]
+}

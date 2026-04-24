@@ -1,0 +1,167 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Recreational",
+  "totalGames": 4,
+  "games": [
+    {
+      "id": "mdv_dhon_008",
+      "title": "Dhon Dheki",
+      "description": "A rhythmic team game where players sit in two rows and perform coordinated clapping and movement patterns while singing traditional songs.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Dhon%20Dheki.png",
+      "category": "Recreational",
+      "intensity": "Low",
+      "players": "8+",
+      "occasion": "Festivals, celebrations, community gatherings",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Singing Game",
+        "Team Game",
+        "Cultural"
+      ],
+      "equipment": [
+        "No equipment needed",
+        "Traditional songs"
+      ],
+      "howToPlay": [
+        "Step 1: Players sit facing each other in two parallel rows.",
+        "Step 2: A leader starts a traditional song with specific rhythm.",
+        "Step 3: Players perform synchronized clapping patterns with the song.",
+        "Step 4: Movements become faster and more complex as the song progresses.",
+        "Step 5: Players who miss a clap or break rhythm are eliminated.",
+        "Step 6: The game continues until one row has all players eliminated.",
+        "Step 7: Remaining row wins the round.",
+        "Step 8: Songs often tell stories or convey cultural messages.",
+        "Step 9: Game builds coordination, rhythm, and teamwork.",
+        "Step 10: Popular during Eid and other celebrations."
+      ],
+      "rating": 0,
+      "views": 2800,
+      "reviewCount": 0,
+      "likes": 1200,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_hulha_010",
+      "title": "Hulhavalha",
+      "description": "A traditional hide-and-seek variant played during full moon nights, where seekers use moonlight to find hiders who can move and change positions.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Hulhavalha.png",
+      "category": "Recreational",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "Full moon nights, festivals, community gatherings",
+      "tags": [
+        "Outdoor",
+        "Night Game",
+        "Hide and Seek",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Moonlit night",
+        "Designated play area"
+      ],
+      "howToPlay": [
+        "Step 1: Players gather in a designated area with good hiding spots.",
+        "Step 2: One player is chosen as the seeker and counts to a predetermined number.",
+        "Step 3: Other players hide while the seeker counts.",
+        "Step 4: Unlike traditional hide-and-seek, hiders can move and change hiding spots.",
+        "Step 5: The seeker tries to find and tag hiders using moonlight.",
+        "Step 6: Tagged hiders become seekers or are eliminated.",
+        "Step 7: Game continues until all hiders are found.",
+        "Step 8: Last hider found wins the round.",
+        "Step 9: Moonlight adds atmosphere and challenge to the game.",
+        "Step 10: Popular during full moon festivals and gatherings."
+      ],
+      "rating": 0,
+      "views": 3100,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "lka_kana_008",
+      "title": "Kana Mutti Bindeema",
+      "description": "A traditional game where a blindfolded player attempts to break a clay pot hanging from a height using a long stick, guided by spectators' calls. Tests trust and coordination.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Kana%20Mutti.png",
+      "category": "Recreational",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Avurudu, festivals, community events",
+      "tags": [
+        "Outdoor",
+        "Blindfold Game",
+        "Festival",
+        "Traditional"
+      ],
+      "equipment": [
+        "Clay pot",
+        "Long stick",
+        "Blindfold",
+        "Rope to hang pot"
+      ],
+      "howToPlay": [
+        "Step 1: A clay pot is filled with water or colored powder and hung from a height.",
+        "Step 2: A player is blindfolded and given a long stick.",
+        "Step 3: The player is spun around several times to disorient.",
+        "Step 4: Spectators shout directions to guide the player toward the pot.",
+        "Step 5: The player swings the stick attempting to break the pot.",
+        "Step 6: When the pot breaks, contents shower down.",
+        "Step 7: Players take turns attempting to break the pot.",
+        "Step 8: Requires trust in guidance and spatial awareness.",
+        "Step 9: Popular during New Year celebrations.",
+        "Step 10: Symbolizes breaking away from the old year."
+      ],
+      "rating": 0,
+      "views": 6701,
+      "reviewCount": 0,
+      "likes": 3100,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "bgd_kanamachi_007",
+      "title": "Kanamachi (Blind Man's Buff)",
+      "description": "The Bengali version of blind man's buff where one player is blindfolded and tries to catch others, who tease and dodge while singing traditional rhymes.",
+      "region": "Bangladesh",
+      "location": "Throughout Bangladesh",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Kanamachi.png",
+      "category": "Recreational",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "Family gatherings, festivals, school breaks",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Party Game"
+      ],
+      "equipment": [
+        "Cloth for blindfold"
+      ],
+      "howToPlay": [
+        "Step 1: One player is selected as 'Kanamachi' and blindfolded with a cloth.",
+        "Step 2: Other players scatter around and tease the blindfolded player.",
+        "Step 3: Players sing traditional rhymes while dodging the blindfolded player.",
+        "Step 4: The blindfolded player spins around several times before starting.",
+        "Step 5: They must rely on sound to locate and tag other players.",
+        "Step 6: Other players must stay within a designated play area.",
+        "Step 7: When someone is tagged, they become the next blindfolded player.",
+        "Step 8: Players can clap or call out to help the blindfolded player locate them.",
+        "Step 9: The game teaches spatial awareness and listening skills.",
+        "Step 10: Variations include making sounds or giving clues to the seeker."
+      ],
+      "rating": 0,
+      "views": 2100,
+      "reviewCount": 0,
+      "likes": 780,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    }
+  ]
+}

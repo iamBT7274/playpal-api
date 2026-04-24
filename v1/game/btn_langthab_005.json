@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_langthab_005",
+    "title": "Langthab (Horse Riding Game)",
+    "description": "A traditional equestrian game where riders display their skills through various challenges, including picking up objects from the ground while galloping.",
+    "region": "Bhutan",
+    "location": "Rural areas, especially eastern Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Langthab.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2+ riders",
+    "occasion": "Festivals, tshechus, special celebrations",
+    "tags": [
+      "Outdoor",
+      "Equestrian",
+      "Skill",
+      "Festival"
+    ],
+    "equipment": [
+      "Horses",
+      "Riding gear",
+      "Objects to pick up (scarves, flags)"
+    ],
+    "howToPlay": [
+      "Step 1: Riders gather on horseback in traditional attire.",
+      "Step 2: Small objects like scarves or flags are placed on the ground.",
+      "Step 3: Riders gallop past and attempt to pick up objects while mounted.",
+      "Step 4: Leaning from the horse requires balance and skill.",
+      "Step 5: Successful pickups score points.",
+      "Step 6: Speed and style are also judged.",
+      "Step 7: More advanced challenges involve multiple objects in sequence.",
+      "Step 8: Riders train extensively with their horses to coordinate movements.",
+      "Step 9: The game demonstrates the bond between rider and horse.",
+      "Step 10: Winners are celebrated as skilled horsemen in their communities."
+    ],
+    "rating": 0,
+    "views": 4200,
+    "reviewCount": 0,
+    "likes": 1900,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

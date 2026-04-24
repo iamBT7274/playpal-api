@@ -1,0 +1,1495 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Physical",
+  "totalGames": 37,
+  "games": [
+    {
+      "id": "lka_ankeliya_009",
+      "title": "Ankeliya",
+      "description": "A ritualistic traditional game where two teams use forked sticks to hook and pull an iron ring, accompanied by ceremonies and drumming. Believed to bring prosperity.",
+      "region": "Sri Lanka",
+      "location": "Central highlands, Kandyan region",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Ankeliya.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2 teams",
+      "occasion": "Religious festivals, harvest celebrations",
+      "tags": [
+        "Outdoor",
+        "Ritual Game",
+        "Traditional",
+        "Cultural"
+      ],
+      "equipment": [
+        "Iron ring",
+        "Forked sticks (Anke)",
+        "Traditional drums"
+      ],
+      "howToPlay": [
+        "Step 1: Two teams gather with specially prepared forked sticks.",
+        "Step 2: An iron ring is placed on the ground between them.",
+        "Step 3: Teams use their forked sticks to hook the ring.",
+        "Step 4: They attempt to pull the ring to their side.",
+        "Step 5: Ceremonies and drumming accompany the game.",
+        "Step 6: The game is believed to ensure good harvest.",
+        "Step 7: Requires teamwork and coordinated pulling.",
+        "Step 8: Spectators participate with chants and encouragement.",
+        "Step 9: Rituals are performed before and after the game.",
+        "Step 10: Preserves ancient cultural traditions."
+      ],
+      "rating": 0,
+      "views": 3100,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "ind_atya_006",
+      "title": "Atya Patya",
+      "description": "A traditional tag game described as a 'game of feints' played on a court with nine trenches. Attacking players score points by crossing trenches without being tagged by defenders.",
+      "region": "India",
+      "location": "Maharashtra, rural areas throughout",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Atya%20Patya.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams of 9 players",
+      "occasion": "Rural sports meets, school competitions",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Team Sport",
+        "Traditional"
+      ],
+      "equipment": [
+        "Court with 9 trenches",
+        "No special equipment"
+      ],
+      "howToPlay": [
+        "Step 1: Court features nine parallel trenches extending from a central trench.",
+        "Step 2: Attacking team sends players to cross trenches.",
+        "Step 3: Defenders in trenches try to tag attackers.",
+        "Step 4: Points awarded for each trench crossed without being tagged.",
+        "Step 5: Players use feints and quick movements to evade tags.",
+        "Step 6: Game consists of 4 innings of 7 minutes each.",
+        "Step 7: Each team has two innings to score.",
+        "Step 8: Team with highest total points wins.",
+        "Step 9: Requires agility, strategy, and teamwork.",
+        "Step 10: Described as 'militant chase' for its intensity."
+      ],
+      "rating": 0,
+      "views": 8902,
+      "reviewCount": 0,
+      "likes": 4300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_baibalaa_002",
+      "title": "Baibalaa",
+      "description": "A rugged physical sport similar to kabaddi but played in a circular ring on soft sand. Combines elements of tag and wrestling as players attempt to tag opponents and escape.",
+      "region": "Maldives",
+      "location": "Throughout Maldives, beach areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Baibalaa.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams",
+      "occasion": "Eid al-Adha, national tournaments, beach gatherings",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Beach Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Circular ring on sand",
+        "No special equipment"
+      ],
+      "howToPlay": [
+        "Step 1: A circular ring is marked on soft beach sand.",
+        "Step 2: One team stands inside the ring, the other outside.",
+        "Step 3: A player from outside enters the ring to tag opponents.",
+        "Step 4: The entering player must physically touch an opponent.",
+        "Step 5: Inside team tries to capture and hold the attacker.",
+        "Step 6: Captured players signal surrender and are out for the round.",
+        "Step 7: Attackers earn points for successful tags and escapes.",
+        "Step 8: Teams alternate roles each round.",
+        "Step 9: Soft sand minimizes injury from falls.",
+        "Step 10: Annual national tournaments are held during Eid."
+      ],
+      "rating": 0,
+      "views": 7200,
+      "reviewCount": 0,
+      "likes": 3400,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_baraf_009",
+      "title": "Baraf Pani (Ice Water)",
+      "description": "A freeze tag variant where tagged players become 'frozen' (baraf) and must stand still until a teammate touches them to 'melt' (pani) and free them.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Baraf%20Pani.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "School breaks, park play, family gatherings",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Team Game"
+      ],
+      "equipment": [
+        "Open play area",
+        "No equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: One or more players are chosen as taggers.",
+        "Step 2: When a tagger touches a player, that player becomes 'frozen' (baraf) and must stand still.",
+        "Step 3: Frozen players cannot move until a free teammate touches them.",
+        "Step 4: The touching teammate 'melts' (pani) them, allowing them to run again.",
+        "Step 5: Taggers try to freeze all players.",
+        "Step 6: Free players try to rescue frozen teammates.",
+        "Step 7: Game ends when all players are frozen.",
+        "Step 8: New taggers are chosen for next round.",
+        "Step 9: Develops teamwork and strategic movement.",
+        "Step 10: Popular in schools and neighborhoods."
+      ],
+      "rating": 0,
+      "views": 5100,
+      "reviewCount": 0,
+      "likes": 2300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "mdv_bashi_001",
+      "title": "Bashi",
+      "description": "The former national sport of the Maldives, a women's-only game similar to tennis and dodgeball played on sand courts. Players hit a ball over a net and attempt to eliminate opponents by catching.",
+      "region": "Maldives",
+      "location": "Throughout Maldives, especially Fodhdhoo",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Bashi.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2 teams of 7 or 11 players",
+      "occasion": "Eid celebrations, national holidays, tournaments",
+      "tags": [
+        "Outdoor",
+        "Women's Sport",
+        "Ball Game",
+        "National Sport",
+        "Beach Game"
+      ],
+      "equipment": [
+        "Sand court with net",
+        "Tennis ball (historically rolled coconut leaves)",
+        "Rackets (modern) or bare hands (traditional)"
+      ],
+      "howToPlay": [
+        "Step 1: Teams of 7-11 players take positions on a sand court divided by a net.",
+        "Step 2: One pitcher stands with back to the net and hits the ball over their head.",
+        "Step 3: Opposing team tries to catch the ball without it touching the ground.",
+        "Step 4: Each successful catch eliminates the pitcher.",
+        "Step 5: Pitchers continue until entire team is out.",
+        "Step 6: Each pitcher gets 12 chances before being rotated.",
+        "Step 7: Four bonus points awarded if a pitcher continues without losing.",
+        "Step 8: Game consists of two innings with teams alternating roles.",
+        "Step 9: Points scored for successful catches and plays.",
+        "Step 10: Team with most points wins."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_boli_003",
+      "title": "Boli Khela (Jabbarer Boli Khela)",
+      "description": "A traditional form of wrestling introduced in the late 19th century, now a major annual event held in Chittagong during the Bengali New Year. Wrestlers compete in sandy pits before thousands of spectators.",
+      "region": "Bangladesh",
+      "location": "Chittagong, Madarsha Union, Laldighi Maidan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Boli%20Khela.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 wrestlers per match, multiple participants",
+      "occasion": "Pahela Baishakh (Bengali New Year), 7th and 12th of Boishakh",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Festival",
+        "Traditional"
+      ],
+      "equipment": [
+        "Sandy wrestling pit",
+        "Traditional loincloth",
+        "Oil for body"
+      ],
+      "howToPlay": [
+        "Step 1: Wrestlers enter the sandy arena accompanied by traditional music.",
+        "Step 2: They warm up and apply oil to their bodies for flexibility.",
+        "Step 3: Two wrestlers face each other and attempt to grip each other's waistbands.",
+        "Step 4: The objective is to throw the opponent onto their back on the sand.",
+        "Step 5: Matches continue until one wrestler pins the other's shoulders down.",
+        "Step 6: Skilled wrestlers use technique, strength, and leverage.",
+        "Step 7: Referees ensure fair play and declare the winner.",
+        "Step 8: Winners receive prizes and gain prestige in their communities.",
+        "Step 9: The event includes multiple matches throughout the day.",
+        "Step 10: Jabbarer Boli Khela specifically commemorates Abdul Jabbar Saodagor who organized it since 1907."
+      ],
+      "rating": 0,
+      "views": 18700,
+      "reviewCount": 0,
+      "likes": 8900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "afg_buzkashi_001",
+      "title": "Buzkashi",
+      "description": "The national sport of Afghanistan, Buzkashi is a dramatic horseback game where skilled riders, known as 'Chapandaz,' compete to grab a headless goat or calf carcass and carry it around a flag before dropping it in a designated circle.",
+      "region": "Afghanistan",
+      "location": "Northern Provinces (Balkh, Samangan, Kunduz)",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Buzkashi.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "10+",
+      "occasion": "Festivals, weddings, Nowruz celebrations",
+      "tags": [
+        "Outdoor",
+        "Equestrian",
+        "Team Sport",
+        "High Intensity",
+        "Cultural Heritage",
+        "National Sport"
+      ],
+      "equipment": [
+        "Horses (highly trained)",
+        "Headless goat or calf carcass",
+        "Traditional riding gear",
+        "Flag markers"
+      ],
+      "howToPlay": [
+        "Step 1: Two teams line up on a large field, with a flag or circle at each end serving as the goal.",
+        "Step 2: A headless carcass is placed in the center of the field by referees.",
+        "Step 3: On signal, riders charge to grab the carcass from the ground while mounted.",
+        "Step 4: The rider who secures the carcass attempts to carry it around the opposing team's flag and drop it into their scoring circle.",
+        "Step 5: Other riders try to tackle the carrier or steal the carcass through physical combat.",
+        "Step 6: Riders must maintain control of their horses while handling the heavy carcass.",
+        "Step 7: Points are awarded when a rider successfully circles the flag and deposits the carcass.",
+        "Step 8: The game continues for several hours or until a predetermined score is reached.",
+        "Step 9: Skilled Chapandaz are celebrated as local heroes with their horses decorated elaborately.",
+        "Step 10: Matches are often accompanied by traditional music and large community gatherings."
+      ],
+      "rating": 0,
+      "views": 18707,
+      "reviewCount": 0,
+      "likes": 8900,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "btn_chhukpa_006",
+      "title": "Chhukpa (Water Game)",
+      "description": "A traditional water game where children and adults compete in swimming, diving, and water-based challenges in Bhutan's pristine rivers and streams.",
+      "region": "Bhutan",
+      "location": "Rivers and streams throughout Bhutan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Chhukpa.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Summer, holidays, leisure time",
+      "tags": [
+        "Outdoor",
+        "Water Sport",
+        "Swimming",
+        "Children's Game"
+      ],
+      "equipment": [
+        "River or stream",
+        "No special equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: Children gather at a safe swimming spot in a river.",
+        "Step 2: They compete in swimming races across or downstream.",
+        "Step 3: Diving competitions test who can retrieve stones from the bottom.",
+        "Step 4: Underwater swimming distance challenges test breath control.",
+        "Step 5: Water tag involves chasing and tagging in shallow areas.",
+        "Step 6: Older children teach swimming to younger ones.",
+        "Step 7: The game builds water confidence and swimming skills.",
+        "Step 8: Safety is emphasized with supervision from experienced swimmers.",
+        "Step 9: Winners gain respect among peers.",
+        "Step 10: The game connects children to Bhutan's natural water resources."
+      ],
+      "rating": 0,
+      "views": 1600,
+      "reviewCount": 0,
+      "likes": 610,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "afg_chupan_008",
+      "title": "Chupan Bazi",
+      "description": "A traditional game played by shepherds using their staffs to toss stones or sheep vertebrae, testing accuracy and distance control while tending flocks.",
+      "region": "Afghanistan",
+      "location": "Rural and mountainous regions",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Chupan%20Bazi.png",
+      "category": "Physical",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "While herding, leisure time",
+      "tags": [
+        "Outdoor",
+        "Shepherd Game",
+        "Accuracy",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden staff (Chupan)",
+        "Stones or sheep vertebrae",
+        "Target marker"
+      ],
+      "howToPlay": [
+        "Step 1: Shepherds mark a target line on the ground at varying distances.",
+        "Step 2: Players take turns placing a stone on the end of their staff.",
+        "Step 3: With a flicking motion, they launch the stone toward the target line.",
+        "Step 4: Points are awarded based on how close the stone lands to the line.",
+        "Step 5: Players can also compete to see who can launch stones the farthest.",
+        "Step 6: The game helps pass time during long hours of herding.",
+        "Step 7: Variations include aiming at specific targets like rocks or trees.",
+        "Step 8: Skilled players develop consistent and accurate throwing techniques.",
+        "Step 9: The game requires no special preparation and uses available materials.",
+        "Step 10: Winners are recognized among the herding community."
+      ],
+      "rating": 0,
+      "views": 1400,
+      "reviewCount": 0,
+      "likes": 450,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "npl_dandi_001",
+      "title": "Dandi Biyo",
+      "description": "Considered the oldest game in Nepal, similar to Gilli Danda. Players use a long stick (dandi) to hit a smaller tapered stick (biyo) and compete for distance.",
+      "region": "Nepal",
+      "location": "Throughout Nepal, especially rural areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Dandi%20Biyo.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "After school, festivals, village gatherings",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Ancient",
+        "National Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Dandi (long stick)",
+        "Biyo (small tapered stick)"
+      ],
+      "howToPlay": [
+        "Step 1: A small hole is dug in the ground or a circle drawn.",
+        "Step 2: Place the biyo across the hole with one end raised.",
+        "Step 3: Use the dandi to flick the biyo into the air.",
+        "Step 4: Strike the airborne biyo with the dandi to hit it far.",
+        "Step 5: Fielders try to catch the biyo before it lands.",
+        "Step 6: If caught, batter is out; if not, measure distance using dandi lengths.",
+        "Step 7: Batter scores points equal to number of dandi lengths.",
+        "Step 8: Players take turns batting and fielding.",
+        "Step 9: Player with highest total distance wins.",
+        "Step 10: Considered the national traditional game of Nepal."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "bgd_daria_005",
+      "title": "Dariabanda",
+      "description": "A traditional game played by fishermen's children involving diving and swimming competitions in rivers and coastal waters, testing underwater endurance and swimming skills.",
+      "region": "Bangladesh",
+      "location": "Coastal areas, Chittagong, Cox's Bazar",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Dariabanda.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+",
+      "occasion": "Low tide, free time, holidays",
+      "tags": [
+        "Outdoor",
+        "Water Sport",
+        "Swimming",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Water body (river, pond, sea)",
+        "No special equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: Children gather at a safe swimming spot in a river or coastal area.",
+        "Step 2: Players compete in underwater swimming distance challenges.",
+        "Step 3: Another variation tests who can hold their breath longest underwater.",
+        "Step 4: Diving competitions see who can retrieve objects from the bottom.",
+        "Step 5: Teams may compete in relay swimming races.",
+        "Step 6: Skills learned help children become comfortable in water environments.",
+        "Step 7: Older children teach swimming techniques to younger ones.",
+        "Step 8: Games are often accompanied by splashing and water-based tag variations.",
+        "Step 9: Safety is practiced with older children watching younger participants.",
+        "Step 10: Winners gain respect among their peer group."
+      ],
+      "rating": 0,
+      "views": 3800,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "btn_degore_002",
+      "title": "Degor (Stone Throwing)",
+      "description": "A traditional game where competitors throw flat stones across a river or open field, competing for distance and accuracy. Similar to discus throwing but using natural river stones.",
+      "region": "Bhutan",
+      "location": "Eastern Bhutan, rural villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Degor.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Leisure time, festivals, community gatherings",
+      "tags": [
+        "Outdoor",
+        "Stone Throwing",
+        "Strength",
+        "Accuracy"
+      ],
+      "equipment": [
+        "Flat river stones",
+        "Open field or river crossing"
+      ],
+      "howToPlay": [
+        "Step 1: Players search for flat smooth stones along riverbeds.",
+        "Step 2: A throwing line is marked on the ground.",
+        "Step 3: Players take turns throwing their stones using a spinning motion.",
+        "Step 4: Distance is measured from the throwing line to where the stone lands.",
+        "Step 5: In river versions, players throw stones to the opposite bank.",
+        "Step 6: Accuracy can be tested by aiming at specific targets.",
+        "Step 7: Stones that skip on water are admired for technique.",
+        "Step 8: The farthest throw wins the round.",
+        "Step 9: Players develop strength and throwing mechanics through practice.",
+        "Step 10: Winners may receive simple prizes or bragging rights."
+      ],
+      "rating": 0,
+      "views": 3100,
+      "reviewCount": 0,
+      "likes": 1300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_kushti_010",
+      "title": "Desi Kushti (Traditional Wrestling)",
+      "description": "Traditional South Asian wrestling practiced in akharas (training pits). Once as popular as cricket, with rich history of champions and regional competitions.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan, especially Punjab, Multan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2",
+      "occasion": "Village fairs, festivals, dangal competitions",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Traditional",
+        "Akhara"
+      ],
+      "equipment": [
+        "Clay or sand pit",
+        "Loincloth (langot)",
+        "Oil for body",
+        "Training accessories"
+      ],
+      "howToPlay": [
+        "Step 1: Wrestlers train in akharas under experienced coaches (pehelwans).",
+        "Step 2: Before independence, 100-150 akharas existed in Multan alone.",
+        "Step 3: Matches (dangal) are held in sandy pits.",
+        "Step 4: Wrestlers apply oil to their bodies for flexibility.",
+        "Step 5: They face each other and attempt to pin opponent's shoulders to ground.",
+        "Step 6: Various grappling techniques and holds are used.",
+        "Step 7: Matches continue until one wrestler achieves a pin or submission.",
+        "Step 8: Referees ensure fair play and declare winners.",
+        "Step 9: Winners receive prizes and gain reputation.",
+        "Step 10: Traditional wrestling declined after 1980s but still practiced."
+      ],
+      "rating": 0,
+      "views": 15600,
+      "reviewCount": 0,
+      "likes": 7600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "lka_elle_001",
+      "title": "Elle",
+      "description": "A traditional bat-and-ball game similar to cricket and gillidanda, played with a curved stick (elle) and a wooden ball. Considered one of Sri Lanka's oldest traditional sports.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka, especially rural areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Elle.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2 teams of 8-15 players",
+      "occasion": "Festivals, village gatherings, Sinhala and Tamil New Year",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Team Sport",
+        "Traditional",
+        "National"
+      ],
+      "equipment": [
+        "Curved wooden stick (Elle)",
+        "Wooden ball",
+        "Open field"
+      ],
+      "howToPlay": [
+        "Step 1: Two teams take positions in a large open field.",
+        "Step 2: Similar to cricket, one team bats while the other fields.",
+        "Step 3: The batter uses the curved elle stick to hit the wooden ball.",
+        "Step 4: Runs are scored by running between designated points.",
+        "Step 5: Fielders try to catch the ball or hit the wickets.",
+        "Step 6: The game requires hand-eye coordination and running speed.",
+        "Step 7: Teams switch roles after all batters are out.",
+        "Step 8: The team with most runs wins.",
+        "Step 9: Popular during traditional New Year celebrations.",
+        "Step 10: Preserved as part of Sri Lankan cultural heritage."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "ind_gilli_003",
+      "title": "Gilli Danda",
+      "description": "An ancient game considered a precursor to cricket and baseball, played with a small oval-shaped piece of wood (gilli) and a larger stick (danda) used to strike it.",
+      "region": "India",
+      "location": "Throughout India, rural and urban",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gilli%20Danda.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "After school, village fairs, holidays",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Children's Game",
+        "Ancient"
+      ],
+      "equipment": [
+        "Danda (longer stick, about 2 feet)",
+        "Gilli (smaller tapered stick, about 4-6 inches)"
+      ],
+      "howToPlay": [
+        "Step 1: A small hole is dug in the ground or a circle drawn.",
+        "Step 2: Place the gilli across the hole with one end raised.",
+        "Step 3: Use the danda to flick the gilli into the air.",
+        "Step 4: Strike the airborne gilli with the danda to hit it far.",
+        "Step 5: Fielders try to catch the gilli before it lands.",
+        "Step 6: If caught, batter is out; if not, measure distance using danda lengths.",
+        "Step 7: Batter scores points equal to number of danda lengths.",
+        "Step 8: Players take turns batting and fielding.",
+        "Step 9: The player with highest total distance wins.",
+        "Step 10: Advanced players hit gilli multiple times before it lands."
+      ],
+      "rating": 0,
+      "views": 21801,
+      "reviewCount": 0,
+      "likes": 11200,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_golla_006",
+      "title": "Gollachut",
+      "description": "A traditional chasing game where players run from a central circle (golla) to a boundary area while avoiding being tagged. The game's rhymes may reference ancient escape attempts by slaves.",
+      "region": "Bangladesh",
+      "location": "Rural villages, school playgrounds",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Gollachut.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "6+",
+      "occasion": "After school, holidays, full moon nights",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Running",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Flat open ground",
+        "Chalk or stick to draw circles"
+      ],
+      "howToPlay": [
+        "Step 1: A large circle is drawn on the ground as the 'golla' (safe zone).",
+        "Step 2: A smaller circle or boundary is drawn some distance away as the goal.",
+        "Step 3: One player is chosen as the denner (catcher).",
+        "Step 4: Other players gather inside the golla (safe circle).",
+        "Step 5: Players must run from the golla to the boundary without being tagged.",
+        "Step 6: The denner attempts to tag players as they run between zones.",
+        "Step 7: Tagged players become denners or sit out depending on rules.",
+        "Step 8: Players who reach the boundary safely are safe until next round.",
+        "Step 9: The game continues until all players are tagged or reach safety.",
+        "Step 10: New rounds start with a different denner."
+      ],
+      "rating": 0,
+      "views": 2900,
+      "reviewCount": 0,
+      "likes": 1100,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_gulli_002",
+      "title": "Gulli Danda",
+      "description": "Traditional stick game played across Pakistan, known by various regional names. Considered the predecessor of modern bat-and-ball games.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gilli%20Danda.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "After school, village gatherings, Eid",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Children's Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Danda (long stick)",
+        "Gulli (small tapered stick)"
+      ],
+      "howToPlay": [
+        "Step 1: A small hole is dug in the ground or a circle drawn.",
+        "Step 2: Place the gulli across the hole with one end raised.",
+        "Step 3: Use the danda to flick the gulli into the air.",
+        "Step 4: Strike the airborne gulli with the danda to hit it far.",
+        "Step 5: Fielders try to catch the gulli before it lands.",
+        "Step 6: If caught, batter is out; if not, measure distance using danda lengths.",
+        "Step 7: Batter scores points equal to number of danda lengths.",
+        "Step 8: Players take turns batting and fielding.",
+        "Step 9: The player with highest total distance wins.",
+        "Step 10: Regional variations exist across Pakistan."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 5900,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "xraIfO4Rm1TKlGlu0rpa",
+      "title": "Gully Cricket",
+      "description": "A popular street version of cricket played in neighborhoods across India.",
+      "region": "India",
+      "location": "India",
+      "imageUrl": "https://i.pinimg.com/736x/4e/47/b6/4e47b6cc8d719f957882f9742e22520a.jpg",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "any free moment",
+      "tags": [
+        "Outdoor",
+        "Street Game",
+        "Casual",
+        "Team Sport",
+        "Improvised"
+      ],
+      "equipment": [
+        "Bat ",
+        "Tennis Ball "
+      ],
+      "howToPlay": [
+        "Step 1: Find your \"Pitch\" – Grab a narrow street or a backyard. Use a wall or three sticks as the wickets at one end. ",
+        "Step 2: Choose the Ball – Use a tennis ball (often wrapped in electrical tape to make it swing). ",
+        "Step 3: The Toss – Use a coin or \"bat-flip\" (smooth side vs. rough side) to decide who bats first. ",
+        "Step 4: Set the \"Gully Rules\" – Agree on local rules, like \"one-hand-one-bounce\" (if the ball bounces once, you can catch it with one hand to get the batter out). \n",
+        "Step 5: The Over – Decide how many balls per over (usually 6 balls) and how many overs per game. ",
+        "Step 6: Batting – The batter tries to hit the ball and score runs by running to the other side or hitting designated \"boundary\" walls. \n",
+        "Step 7: Bowling – The bowler must bowl underarm or overarm (depending on street space) to hit the wickets. ",
+        "Step 8: Fielding – Teammates stand around the street to stop the ball or catch it.",
+        "Step 9: Scoring – 1 run for a sprint, or automatic runs (4s and 6s) for hitting specific landmarks like a gate or a tree. ",
+        "Step 10: Getting \"Out\" – You are out if the ball hits the wickets, if you’re caught, or if you hit the ball into a \"forbidden\" area (like a neighbor’s balcony). ",
+        "Step 11: Switch – Once the batting team loses all their wickets or finishes their overs, the teams swap. ",
+        "Step 12: Win – The team that scores the most runs wins the match. "
+      ],
+      "rating": 3.9,
+      "views": 168,
+      "reviewCount": 6,
+      "likes": 232,
+      "createdAt": "2026-02-26T18:30:00.173Z"
+    },
+    {
+      "id": "afg_gursai_004",
+      "title": "Gursai (Wrestling)",
+      "description": "A form of traditional Afghan wrestling similar to other Central Asian styles, where two opponents grapple on soft ground, aiming to pin each other's shoulders to the earth.",
+      "region": "Afghanistan",
+      "location": "Rural villages, Paktia, Khost",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Gursai.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2",
+      "occasion": "Festivals, Nowruz, community gatherings",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Traditional"
+      ],
+      "equipment": [
+        "Soft ground or sand",
+        "Traditional wrestling attire"
+      ],
+      "howToPlay": [
+        "Step 1: Two wrestlers face each other in a marked circular or square pit filled with soft earth.",
+        "Step 2: They begin by shaking hands and attempting to grasp each other's waistbands.",
+        "Step 3: The objective is to throw the opponent onto their back with shoulders touching the ground.",
+        "Step 4: Wrestlers use a combination of strength, technique, and balance to gain advantage.",
+        "Step 5: Grabbing legs below the knee is typically prohibited.",
+        "Step 6: Matches continue until one wrestler achieves a pin or wins by points.",
+        "Step 7: An elder referee officiates and declares the winner.",
+        "Step 8: Victors are celebrated and may receive prizes or cash rewards.",
+        "Step 9: Skilled wrestlers gain reputation and may challenge wrestlers from other villages.",
+        "Step 10: Training begins in childhood with experienced wrestlers mentoring youth."
+      ],
+      "rating": 0,
+      "views": 5500,
+      "reviewCount": 0,
+      "likes": 2800,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "pak_kabaddi_001",
+      "title": "Kabaddi (Pakistan Style)",
+      "description": "Pakistan's version of kabaddi, known as 'Circle Kabaddi' played in a circular field. One of the most popular traditional sports with passionate followings and international competitions.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan, especially Punjab",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2 teams of 8 players",
+      "occasion": "Village fairs, festivals, international tournaments",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Team Sport",
+        "National",
+        "Professional"
+      ],
+      "equipment": [
+        "Circular field",
+        "Boundary lines",
+        "Traditional uniform"
+      ],
+      "howToPlay": [
+        "Step 1: Played in a circular field instead of rectangular court.",
+        "Step 2: Two teams of eight players occupy opposite halves.",
+        "Step 3: Raider enters opponent's half chanting 'kabaddi' without taking breath.",
+        "Step 4: Raider attempts to tag defenders and return to their half.",
+        "Step 5: Defenders try to tackle the raider.",
+        "Step 6: Points scored for successful tags.",
+        "Step 7: Circle kabaddi allows more players and different tackling techniques.",
+        "Step 8: Teams alternate raiders throughout the game.",
+        "Step 9: Pakistan has strong kabaddi tradition with world-class players.",
+        "Step 10: Major tournaments held during national holidays."
+      ],
+      "rating": 0,
+      "views": 28901,
+      "reviewCount": 0,
+      "likes": 15600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "dzpmGyv7sQ7ZZaGtXCQ9",
+      "title": "Kabbadi",
+      "description": "Kabaddi is an ancient Indian contact sport that is often described as a high-intensity, professionalized version of team tag mixed with wrestling. Deeply rooted in rural traditions for over 4,000 years, it is the second most popular sport in India after cricket and is the national sport of Bangladesh",
+      "region": "India",
+      "location": "India",
+      "imageUrl": "https://i.pinimg.com/1200x/f2/e6/af/f2e6af6b1239265981564ccc473ed6e1.jpg",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "7",
+      "occasion": "village festivals",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Team Sport",
+        "Raid",
+        "Stamina"
+      ],
+      "equipment": [
+        "-"
+      ],
+      "howToPlay": [
+        "Step 1: Form Teams – Split into two teams of 7 players.",
+        "Step 2: The Toss – Flip a coin. The winner chooses to either Raid first or pick a side.",
+        "Step 3: The Chant – One \"Raider\" runs into the opponent's side while yelling \"Kabaddi, Kabaddi\" repeatedly. You must do this in one single breath",
+        "Step 4: Make it Valid – Cross the first line (Baulk Line). If you don't cross it, the raid doesn't count.",
+        "Step 5: Get the Bonus – If the other team has 6 or 7 players, cross the second line (Bonus Line) with one foot in the air to get an easy 1 point.\n",
+        "Step 6: Tag and Run – Touch an opponent and quickly run back to your side before they grab you.",
+        "Step 7: The Tackle – When you are defending, grab the incoming Raider and hold them down until they run out of breath or the 30-second timer ends.",
+        "Step 8: Scoring – You get 1 point for every person you touch (if you return home) or 1 point for every Raider you tackle.\n",
+        "Step 9: The Revival – If your team scores a point, one of your \"out\" players comes back into the game.",
+        "Step 10: Switch – After your raid is over, it’s the other team’s turn. Keep alternating.",
+        "Step 11: Do-or-Die – If you have two empty raids (no points scored), the 3rd raid is \"Do-or-Die.\" You must score a point, or you are automatically out!",
+        "Step 12: Win – The team with the most points at the end of the time limit wins."
+      ],
+      "rating": 4.1,
+      "views": 357,
+      "reviewCount": 6,
+      "likes": 301,
+      "createdAt": "2026-02-11T18:30:00.029Z"
+    },
+    {
+      "id": "npl_kabbadi_008",
+      "title": "Kabbadi (Nepali Style)",
+      "description": "Nepali variation of kabaddi with slightly modified rules, particularly popular in rural areas and school competitions.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Kabbadi%20(Nepali%20Style).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2 teams of 7 players",
+      "occasion": "School sports, village tournaments, festivals",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Team Sport",
+        "Traditional"
+      ],
+      "equipment": [
+        "Playing court",
+        "Boundary lines",
+        "Uniforms"
+      ],
+      "howToPlay": [
+        "Step 1: Similar to standard kabaddi with minor rule variations by region.",
+        "Step 2: Two teams of seven occupy opposite halves of a rectangular court.",
+        "Step 3: One team sends a raider into opponent's half chanting 'kabbadi'.",
+        "Step 4: Raider attempts to tag defenders and return to their half.",
+        "Step 5: Defenders try to tackle the raider.",
+        "Step 6: Points scored for successful tags.",
+        "Step 7: Teams alternate raiders throughout the game.",
+        "Step 8: Local rules may vary regarding breathing and tackling.",
+        "Step 9: Popular in both rural and urban areas.",
+        "Step 10: Featured in school-level competitions."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4200,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "ind_khokho_002",
+      "title": "Kho-Kho",
+      "description": "A ancient tag game dating back to 4th century BC, where chasing team members sit in a row and pass turns by touching seated teammates while chasing runners.",
+      "region": "India",
+      "location": "Throughout India, especially Maharashtra",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kho-Kho.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams of 12 players (9 on field)",
+      "occasion": "School sports, tournaments, rural gatherings",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Team Sport",
+        "Ancient",
+        "Speed"
+      ],
+      "equipment": [
+        "Rectangular court",
+        "Two poles at ends",
+        "Uniforms"
+      ],
+      "howToPlay": [
+        "Step 1: A rectangular court has a central lane with two poles at ends.",
+        "Step 2: Chasing team has 9 players on field, 8 sitting in central lane alternately facing opposite directions.",
+        "Step 3: One active chaser runs and tries to tag defending runners.",
+        "Step 4: Active chaser cannot cross central lane or change direction once running toward a pole.",
+        "Step 5: To change direction or halves, chaser must run behind a pole or tag a seated teammate saying 'Kho'.",
+        "Step 6: Tagged defenders leave the field.",
+        "Step 7: Each team gets two turns of 9 minutes each.",
+        "Step 8: Runners try to avoid tags using speed and agility.",
+        "Step 9: Points scored for each successful tag.",
+        "Step 10: Team with highest score wins."
+      ],
+      "rating": 0,
+      "views": 32410,
+      "reviewCount": 0,
+      "likes": 18900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "lka_kotta_002",
+      "title": "Kotta Pora",
+      "description": "A thrilling traditional game where two competitors sit on a horizontal pole suspended over mud or water and attempt to knock each other off using pillows. Tests balance and strength.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka, especially during festivals",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Kotta%20Pora%20(Pillow%20Fight%20).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2",
+      "occasion": "Sinhala and Tamil New Year, village festivals",
+      "tags": [
+        "Outdoor",
+        "Combat Game",
+        "Balance",
+        "Festival",
+        "Spectator Sport"
+      ],
+      "equipment": [
+        "Horizontal pole suspended over mud/water",
+        "Pillows",
+        "Soft landing area (mud or water)"
+      ],
+      "howToPlay": [
+        "Step 1: A long horizontal pole is suspended over a mud pit or water body.",
+        "Step 2: Two competitors sit astride the pole, facing each other.",
+        "Step 3: Each player holds a pillow as their weapon.",
+        "Step 4: Players take turns striking each other with pillows.",
+        "Step 5: The objective is to knock the opponent off the pole.",
+        "Step 6: Players must maintain balance while striking and defending.",
+        "Step 7: The last person remaining on the pole wins.",
+        "Step 8: Falls are cushioned by mud or water below.",
+        "Step 9: The game draws large crowds during festivals.",
+        "Step 10: Winners receive prizes and community recognition."
+      ],
+      "rating": 0,
+      "views": 12401,
+      "reviewCount": 0,
+      "likes": 6200,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "ind_lagori_004",
+      "title": "Lagori (Seven Stones)",
+      "description": "An ancient game dating back 5 millennia, mentioned in Bhagavata Purana. A team throws a ball at a pile of seven stones to knock them down, then tries to rebuild the pile while opponents throw the ball at them.",
+      "region": "India",
+      "location": "Throughout India, especially South India, Maharashtra",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Lagori%20(Seven%20Stones.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams of 3-9 players",
+      "occasion": "Evenings, festivals, school breaks",
+      "tags": [
+        "Outdoor",
+        "Ball Game",
+        "Team Sport",
+        "Ancient",
+        "Dodgeball"
+      ],
+      "equipment": [
+        "7 flat stones",
+        "Soft ball (tennis ball or rubber ball)",
+        "Open area"
+      ],
+      "howToPlay": [
+        "Step 1: Stack seven flat stones in a pile.",
+        "Step 2: One team throws the ball to knock down the stone pile.",
+        "Step 3: The throwing team tries to rebuild the pile while opponents throw the ball to hit them.",
+        "Step 4: If hit by the ball, that player is out.",
+        "Step 5: The rebuilding team must avoid being hit while stacking stones.",
+        "Step 6: If the pile is successfully rebuilt, the team scores points.",
+        "Step 7: Teams then switch roles.",
+        "Step 8: The game requires speed, accuracy, and teamwork.",
+        "Step 9: Players can catch the ball to eliminate throwers.",
+        "Step 10: Multiple rounds determine the winner."
+      ],
+      "rating": 0,
+      "views": 19703,
+      "reviewCount": 0,
+      "likes": 10300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "ind_langdi_007",
+      "title": "Langdi",
+      "description": "A traditional hop-tag game where chasing team players must hop on one foot while trying to tag defenders. Combines elements of tag and hopscotch with deep historical roots in Pandiyan Dynasty.",
+      "region": "India",
+      "location": "Maharashtra, Tamil Nadu (as Nondiyaattam)",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Langdi.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams",
+      "occasion": "Rural sports, festivals, school games",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Hopping",
+        "Ancient"
+      ],
+      "equipment": [
+        "Open field",
+        "Boundary markers"
+      ],
+      "howToPlay": [
+        "Step 1: Teams alternate chasing and defending roles for 4 innings.",
+        "Step 2: Chasing team players must hop on one foot throughout.",
+        "Step 3: They attempt to tag as many defenders as possible.",
+        "Step 4: Each inning lasts 9 minutes.",
+        "Step 5: Defenders run and dodge while chasers hop after them.",
+        "Step 6: Chasers must not put down the raised foot or switch hopping foot.",
+        "Step 7: Successful tags score points.",
+        "Step 8: Teams switch roles after each inning.",
+        "Step 9: Game requires balance, endurance, and agility.",
+        "Step 10: Team with most tags wins."
+      ],
+      "rating": 0,
+      "views": 7600,
+      "reviewCount": 0,
+      "likes": 3800,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "btn_langthab_005",
+      "title": "Langthab (Horse Riding Game)",
+      "description": "A traditional equestrian game where riders display their skills through various challenges, including picking up objects from the ground while galloping.",
+      "region": "Bhutan",
+      "location": "Rural areas, especially eastern Bhutan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Langthab.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+ riders",
+      "occasion": "Festivals, tshechus, special celebrations",
+      "tags": [
+        "Outdoor",
+        "Equestrian",
+        "Skill",
+        "Festival"
+      ],
+      "equipment": [
+        "Horses",
+        "Riding gear",
+        "Objects to pick up (scarves, flags)"
+      ],
+      "howToPlay": [
+        "Step 1: Riders gather on horseback in traditional attire.",
+        "Step 2: Small objects like scarves or flags are placed on the ground.",
+        "Step 3: Riders gallop past and attempt to pick up objects while mounted.",
+        "Step 4: Leaning from the horse requires balance and skill.",
+        "Step 5: Successful pickups score points.",
+        "Step 6: Speed and style are also judged.",
+        "Step 7: More advanced challenges involve multiple objects in sequence.",
+        "Step 8: Riders train extensively with their horses to coordinate movements.",
+        "Step 9: The game demonstrates the bond between rider and horse.",
+        "Step 10: Winners are celebrated as skilled horsemen in their communities."
+      ],
+      "rating": 0,
+      "views": 4200,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_lathi_004",
+      "title": "Lathi Khela (Stick Fighting)",
+      "description": "A traditional Bengali martial art form involving skilled stick fighting, historically used by lathials (warriors) employed by zamindars. Now performed during festivals and weddings as a cultural demonstration.",
+      "region": "Bangladesh",
+      "location": "Rural areas, Kushtia, Jessore, villages throughout",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Lathi%20Khela.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+ individuals or teams",
+      "occasion": "Weddings, festivals, puja ceremonies, Eid celebrations",
+      "tags": [
+        "Outdoor",
+        "Martial Art",
+        "Stick Fighting",
+        "Cultural Performance",
+        "Traditional"
+      ],
+      "equipment": [
+        "Long bamboo sticks (Lathi)",
+        "Protective gear (optional)",
+        "Traditional attire"
+      ],
+      "howToPlay": [
+        "Step 1: Practitioners, known as lathials, train in basic stances and swings.",
+        "Step 2: Two opponents face each other holding long bamboo sticks.",
+        "Step 3: They perform choreographed routines demonstrating skill and agility.",
+        "Step 4: In competitive matches, fighters attempt to strike opponents while defending.",
+        "Step 5: Points are awarded for clean hits to permitted body areas.",
+        "Step 6: Fighters use spinning moves, jumps, and acrobatic defenses.",
+        "Step 7: Matches are accompanied by drumming and traditional music.",
+        "Step 8: Group performances show synchronized stick routines.",
+        "Step 9: The game emphasizes discipline, reflexes, and martial tradition.",
+        "Step 10: Annual conventions were historically held in Kushtia, now less frequent."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 5600,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "afg_lenger_005",
+      "title": "Lenger Bazi",
+      "description": "The famous Afghan kite fighting game where participants coat their kite strings with a glass-and-glue mixture to cut opponents' strings, immortalized in 'The Kite Runner.'",
+      "region": "Afghanistan",
+      "location": "Kabul, Herat, Mazar-i-Sharif",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Lenger%20Bazi.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Spring, Nowruz, winter afternoons, tournaments",
+      "tags": [
+        "Outdoor",
+        "Kite Fighting",
+        "Competitive",
+        "Cultural Icon",
+        "Traditional"
+      ],
+      "equipment": [
+        "Paper kites (Lenger)",
+        "Manja (glass-coated string)",
+        "Spool (Charkha)",
+        "Glass powder and glue mixture"
+      ],
+      "howToPlay": [
+        "Step 1: Players prepare their kites and specially coated strings with a mixture of glue and crushed glass.",
+        "Step 2: Each player launches their kite into the sky, maneuvering to gain height advantage.",
+        "Step 3: The goal is to cross strings with an opponent and pull sharply to cut their line.",
+        "Step 4: Players constantly reel in or release string to control kite position.",
+        "Step 5: Skilled kite flyers use complex maneuvers to entangle opponents.",
+        "Step 6: When a string is cut, the losing kite floats away, chased by children on the ground.",
+        "Step 7: The winner's kite remains flying, and they continue challenging others.",
+        "Step 8: Tournaments can involve dozens of kites competing simultaneously.",
+        "Step 9: Special signals are used to communicate with ground assistants.",
+        "Step 10: The last kite flying is declared the champion."
+      ],
+      "rating": 3.3,
+      "views": 28911,
+      "reviewCount": 3,
+      "likes": 15600,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "lka_nada_010",
+      "title": "Nada Gaman",
+      "description": "Traditional stilt walking competitions where participants race or perform on wooden stilts. Tests balance, coordination, and endurance.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Nada%20Gaman.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Festivals, Avurudu, village fairs",
+      "tags": [
+        "Outdoor",
+        "Balance Game",
+        "Traditional",
+        "Competitive"
+      ],
+      "equipment": [
+        "Wooden stilts",
+        "Open field"
+      ],
+      "howToPlay": [
+        "Step 1: Players construct or obtain wooden stilts with footrests.",
+        "Step 2: They practice walking and balancing on stilts.",
+        "Step 3: Races are held over set distances.",
+        "Step 4: Players compete for speed while maintaining balance.",
+        "Step 5: Trick competitions involve stunts and maneuvers.",
+        "Step 6: Falling off results in disqualification.",
+        "Step 7: Endurance contests see who can stay on stilts longest.",
+        "Step 8: Develops core strength and balance.",
+        "Step 9: Popular during village festivals.",
+        "Step 10: Winners receive prizes and recognition."
+      ],
+      "rating": 0,
+      "views": 2601,
+      "reviewCount": 0,
+      "likes": 1100,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "bgd_nouka_002",
+      "title": "Nouka Baich (Boat Racing)",
+      "description": "A spectacular traditional boat race featuring long, narrow canoes (khel naos) paddled by up to 100 rowers. The races are accompanied by traditional songs and attract massive crowds along riverbanks.",
+      "region": "Bangladesh",
+      "location": "Riverine areas, Chittagong, Dhaka, Barisal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Nouka%20Baich%20(Boat%20Race).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "Teams of 25-100 rowers per boat",
+      "occasion": "Monsoon season, festivals, Pahela Baishakh",
+      "tags": [
+        "Outdoor",
+        "Water Sport",
+        "Team Sport",
+        "Festival",
+        "Cultural Heritage"
+      ],
+      "equipment": [
+        "Long narrow canoe (Khel Nauka)",
+        "Paddles",
+        "Traditional rowing uniforms",
+        "Drums for rhythm"
+      ],
+      "howToPlay": [
+        "Step 1: Teams assemble with their decorated long boats, often painted in vibrant colors.",
+        "Step 2: Rowers sit in rows along the length of the boat, each with a paddle.",
+        "Step 3: A drummer sits in the center to maintain rowing rhythm with beats.",
+        "Step 4: Boats line up at the starting point on a river or large water body.",
+        "Step 5: At signal, rowers paddle in perfect synchronization to the drumbeat.",
+        "Step 6: Spectators on riverbanks cheer as boats race toward the finish line.",
+        "Step 7: Traditional 'sari gan' songs are sung to motivate rowers.",
+        "Step 8: Races can cover distances from several hundred meters to kilometers.",
+        "Step 9: Winning teams receive trophies and cash prizes.",
+        "Step 10: The event is a major social and cultural gathering for riverine communities."
+      ],
+      "rating": 0,
+      "views": 25601,
+      "reviewCount": 0,
+      "likes": 14200,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_oonch_008",
+      "title": "Oonch Neech (High Low)",
+      "description": "A popular tag game where players are safe only when on elevated surfaces (oonch) and vulnerable when on ground level (neech). Tests agility and quick thinking.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Oonch%20Neech.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "School breaks, family gatherings, casual play",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Agility"
+      ],
+      "equipment": [
+        "Area with varied elevations",
+        "No special equipment"
+      ],
+      "howToPlay": [
+        "Step 1: Designate one player as the denner (catcher).",
+        "Step 2: Establish that elevated surfaces (walls, benches, stairs) are 'safe zones'.",
+        "Step 3: Ground level is 'unsafe' where players can be tagged.",
+        "Step 4: Players run and dodge, jumping onto elevated surfaces to avoid tagging.",
+        "Step 5: The denner tries to tag players when they are on ground level.",
+        "Step 6: Tagged players become denners or are eliminated.",
+        "Step 7: Players cannot stay on safe zones indefinitely.",
+        "Step 8: Game continues until all players are tagged.",
+        "Step 9: Last player tagged wins and becomes denner for next round.",
+        "Step 10: Develops agility, speed, and strategic movement."
+      ],
+      "rating": 0,
+      "views": 4600,
+      "reviewCount": 0,
+      "likes": 2000,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_pittu_003",
+      "title": "Pittu Garam (Seven Stones)",
+      "description": "Popular street game where players knock down a pile of seven stones with a ball, then try to rebuild while avoiding being hit by opponents.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Lagori%20(Seven%20Stones.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams of 3-9 players",
+      "occasion": "After school, evenings, Eid celebrations",
+      "tags": [
+        "Outdoor",
+        "Ball Game",
+        "Team Sport",
+        "Street Game"
+      ],
+      "equipment": [
+        "7 flat stones",
+        "Soft ball (tennis ball)",
+        "Open area"
+      ],
+      "howToPlay": [
+        "Step 1: Stack seven flat stones in a pile.",
+        "Step 2: One team throws the ball to knock down the stone pile.",
+        "Step 3: The throwing team tries to rebuild the pile while opponents throw the ball to hit them.",
+        "Step 4: If hit by the ball, that player is out.",
+        "Step 5: The rebuilding team must avoid being hit while stacking stones.",
+        "Step 6: If the pile is successfully rebuilt, the team scores points.",
+        "Step 7: Teams then switch roles.",
+        "Step 8: The game requires speed, accuracy, and teamwork.",
+        "Step 9: Players can catch the ball to eliminate throwers.",
+        "Step 10: Multiple rounds determine the winner."
+      ],
+      "rating": 0,
+      "views": 9802,
+      "reviewCount": 0,
+      "likes": 4600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "lka_porapol_005",
+      "title": "Porapol Gaseema",
+      "description": "A traditional team sport where players throw coconuts at each other's coconuts until all nuts on one side are broken. Popular in southern Sri Lanka during festivals.",
+      "region": "Sri Lanka",
+      "location": "Matara, Devundara, coastal areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Porapol%20Gaseema%20(Coconut%20Throwing).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams",
+      "occasion": "Festivals, Avurudu, special events",
+      "tags": [
+        "Outdoor",
+        "Team Sport",
+        "Traditional",
+        "Festival"
+      ],
+      "equipment": [
+        "Coconuts",
+        "Open field"
+      ],
+      "howToPlay": [
+        "Step 1: Two teams line up facing each other with piles of coconuts.",
+        "Step 2: Teams take turns throwing coconuts at the opposing team's coconuts.",
+        "Step 3: The goal is to break the opponent's coconuts.",
+        "Step 4: Each broken coconut scores points.",
+        "Step 5: Game continues until all coconuts on one side are broken.",
+        "Step 6: The winning coconut is kept in the temple as an offering.",
+        "Step 7: Requires strength and throwing accuracy.",
+        "Step 8: Draws large crowds during festivals.",
+        "Step 9: Traditional in Matara and Devundara areas.",
+        "Step 10: Winners receive community recognition."
+      ],
+      "rating": 0,
+      "views": 7200,
+      "reviewCount": 0,
+      "likes": 3400,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "afg_sherjangi_006",
+      "title": "Sherjangi",
+      "description": "A traditional spectacle where specially bred and trained bulls are pitted against each other in controlled matches, highly popular in northern Afghanistan with passionate local followings.",
+      "region": "Afghanistan",
+      "location": "Northern provinces: Balkh, Samangan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Sherjangi%20(Bullfighting).png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2",
+      "occasion": "Festivals, Nowruz, special events",
+      "tags": [
+        "Outdoor",
+        "Animal Sport",
+        "Spectacle",
+        "Traditional",
+        "Cultural Event"
+      ],
+      "equipment": [
+        "Specially trained bulls",
+        "Open field",
+        "Handlers with ropes",
+        "Referees"
+      ],
+      "howToPlay": [
+        "Step 1: Two champion bulls are brought to a designated field by their handlers and owners.",
+        "Step 2: Bulls are released to face each other, with handlers nearby for safety.",
+        "Step 3: Bulls engage by locking horns, pushing and maneuvering for dominance.",
+        "Step 4: The match continues until one bull retreats or is overpowered.",
+        "Step 5: Handlers may separate the bulls if the contest becomes too dangerous.",
+        "Step 6: Bulls are judged on strength, technique, and endurance.",
+        "Step 7: Winning bulls gain fame and increase in value significantly.",
+        "Step 8: Owners invest years in training and feeding their champion bulls.",
+        "Step 9: Matches draw large crowds who bet informally on outcomes.",
+        "Step 10: Celebrations follow victories with music and feasting."
+      ],
+      "rating": 0,
+      "views": 9806,
+      "reviewCount": 0,
+      "likes": 4301,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "npl_surung_009",
+      "title": "Surung (Tunnel Game)",
+      "description": "A traditional game where players form human tunnels by bending over in lines, while others crawl through. Tests agility and teamwork.",
+      "region": "Nepal",
+      "location": "Rural Nepal, villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Surung.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "6+",
+      "occasion": "School breaks, village gatherings, festivals",
+      "tags": [
+        "Outdoor",
+        "Team Game",
+        "Agility",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Open space",
+        "No equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: Players divide into two teams.",
+        "Step 2: One team forms a tunnel by bending forward and placing hands on knees in a line.",
+        "Step 3: The other team takes turns crawling through the tunnel.",
+        "Step 4: After all players have crawled through, teams switch roles.",
+        "Step 5: The team that completes crawling faster wins.",
+        "Step 6: Variations include obstacles and timed challenges.",
+        "Step 7: Players must maintain tunnel formation throughout.",
+        "Step 8: Game builds teamwork and physical coordination.",
+        "Step 9: Popular during school sports days.",
+        "Step 10: Requires no equipment, making it accessible to all."
+      ],
+      "rating": 0,
+      "views": 2400,
+      "reviewCount": 0,
+      "likes": 980,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "afg_topai_002",
+      "title": "Topai Drana",
+      "description": "A lively horseback game where riders chase each other to snatch a traditional cap (topai) from an opponent and place it on their own head, showcasing equestrian skill and agility.",
+      "region": "Afghanistan",
+      "location": "Kandahar, Kabul, Rural villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Topai%20Drana.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2+",
+      "occasion": "Weddings, Nowruz, community celebrations",
+      "tags": [
+        "Outdoor",
+        "Equestrian",
+        "Agility",
+        "Festival Game"
+      ],
+      "equipment": [
+        "Horses",
+        "Traditional Afghan cap (Topai)",
+        "Riding gear"
+      ],
+      "howToPlay": [
+        "Step 1: Riders gather on a field, with one rider designated as the target wearing a distinctive cap.",
+        "Step 2: On signal, other riders chase the target rider across the field.",
+        "Step 3: The chaser must catch up and snatch the cap from the target's head without dismounting.",
+        "Step 4: Once the cap is stolen, the new wearer must evade other riders trying to take it.",
+        "Step 5: Riders use precise horsemanship to maneuver close to opponents.",
+        "Step 6: The game continues until a rider holds the cap for a predetermined time.",
+        "Step 7: Falling off the horse or dropping the cap results in temporary disqualification.",
+        "Step 8: Skilled riders perform daring maneuvers to protect or steal the cap.",
+        "Step 9: The winner is celebrated with prizes and recognition.",
+        "Step 10: Matches are accompanied by traditional music and cheering crowds."
+      ],
+      "rating": 0,
+      "views": 6200,
+      "reviewCount": 0,
+      "likes": 2100,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    }
+  ]
+}

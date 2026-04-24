@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "npl_bagh_002",
+    "title": "Bagh Chal (Tiger Game)",
+    "description": "A traditional strategic board game representing tigers hunting goats. Four tigers attempt to capture goats while twenty goats try to trap the tigers. Deeply rooted in Nepali culture.",
+    "region": "Nepal",
+    "location": "Throughout Nepal",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Bagh%20Chal.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, teahouses",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "National Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with cross and diagonal lines",
+      "4 tiger pieces",
+      "20 goat pieces"
+    ],
+    "howToPlay": [
+      "Step 1: The board features a cross with diagonal lines forming intersections.",
+      "Step 2: One player controls 4 tigers placed at the board's corners.",
+      "Step 3: The other player controls 20 goats, initially placed off-board.",
+      "Step 4: Goats are placed one by one on any empty intersection.",
+      "Step 5: Tigers move along lines, capturing goats by jumping over them to empty spaces.",
+      "Step 6: Goats cannot capture but aim to surround and trap tigers so they cannot move.",
+      "Step 7: Tigers win by capturing 5 goats or reducing goats' mobility.",
+      "Step 8: Goats win by completely immobilizing all tigers.",
+      "Step 9: The game requires deep strategic thinking and forward planning.",
+      "Step 10: Matches can last from 30 minutes to several hours."
+    ],
+    "rating": 0,
+    "views": 12400,
+    "reviewCount": 0,
+    "likes": 6200,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

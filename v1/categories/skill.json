@@ -1,0 +1,642 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Skill",
+  "totalGames": 16,
+  "games": [
+    {
+      "id": "btn_chaksak_009",
+      "title": "Chaksakpar (Kite Fighting)",
+      "description": "Bhutanese kite fighting where participants fly kites and attempt to cut opponents' strings using specialized line coated with abrasive mixtures.",
+      "region": "Bhutan",
+      "location": "Throughout Bhutan, especially Thimphu valley",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Chaksakpar.png",
+      "category": "Skill",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Winter afternoons, festivals, Losar (New Year)",
+      "tags": [
+        "Outdoor",
+        "Kite Fighting",
+        "Competitive",
+        "Traditional"
+      ],
+      "equipment": [
+        "Paper kites",
+        "Manja (coated fighting string)",
+        "Spool"
+      ],
+      "howToPlay": [
+        "Step 1: Players prepare kites and coat strings with abrasive mixture.",
+        "Step 2: Kites are launched and maneuvered to gain height advantage.",
+        "Step 3: Players cross strings with opponents and cut by sawing motion.",
+        "Step 4: The loser's kite floats away, chased by children on ground.",
+        "Step 5: Skilled flyers use complex maneuvers to entangle opponents.",
+        "Step 6: Multiple kites may compete simultaneously.",
+        "Step 7: The last kite flying wins.",
+        "Step 8: Kite flying season is eagerly anticipated by children and adults.",
+        "Step 9: Different kite designs affect performance.",
+        "Step 10: The game builds patience, reflexes, and strategic thinking."
+      ],
+      "rating": 0,
+      "views": 3400,
+      "reviewCount": 0,
+      "likes": 1500,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "npl_chyangma_010",
+      "title": "Chyangma",
+      "description": "A traditional game played in mountain regions using woven bamboo rings. Players throw rings at a target, competing for accuracy.",
+      "region": "Nepal",
+      "location": "Mountain regions, Himalayan areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Chyangma.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Leisure time, local festivals",
+      "tags": [
+        "Outdoor",
+        "Accuracy Game",
+        "Bamboo Craft",
+        "Traditional"
+      ],
+      "equipment": [
+        "Woven bamboo rings",
+        "Target stake"
+      ],
+      "howToPlay": [
+        "Step 1: Create rings by weaving bamboo strips into circles.",
+        "Step 2: Place a stake or peg in the ground at a distance.",
+        "Step 3: Players take turns throwing rings toward the stake.",
+        "Step 4: Points awarded for rings that land on or near the stake.",
+        "Step 5: Rings that encircle the stake score highest points.",
+        "Step 6: Multiple rounds are played with cumulative scoring.",
+        "Step 7: Players develop throwing accuracy and touch.",
+        "Step 8: The game uses locally available materials.",
+        "Step 9: Often played during leisure time in mountain villages.",
+        "Step 10: Winners receive recognition within the community."
+      ],
+      "rating": 0,
+      "views": 1800,
+      "reviewCount": 0,
+      "likes": 720,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_dhyakki_006",
+      "title": "Dhyakki (Hopscotch)",
+      "description": "Nepali version of hopscotch, primarily played by girls. Players hop through numbered boxes while kicking a flat stone, testing balance and precision.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Dhyakki.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "After school, holidays, leisure",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Flat stone",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a hopscotch grid with numbered boxes on the ground.",
+        "Step 2: Players toss a flat stone into the first box.",
+        "Step 3: Hop on one foot through the boxes, avoiding the box with the stone.",
+        "Step 4: Kick the stone to the next box while hopping.",
+        "Step 5: Continue until reaching the end and turn back.",
+        "Step 6: If successful, toss stone to next box and repeat.",
+        "Step 7: Player loses turn if stone lands on a line, both feet touch ground, or balance is lost.",
+        "Step 8: Player who completes all boxes first wins.",
+        "Step 9: Advanced players add complex patterns and faster movements.",
+        "Step 10: Singing often accompanies the game."
+      ],
+      "rating": 0,
+      "views": 3200,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "bgd_ekka_008",
+      "title": "Ekka-Dokka",
+      "description": "A traditional hopscotch variant primarily played by girls, using a broken piece of earthen pot (guti). Players hop through numbered boxes while singing a melodious rhyme, kicking the guti through each section.",
+      "region": "Bangladesh",
+      "location": "Rural areas, villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Ekka-Dokka.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Afternoons, festivals, leisure time",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional",
+        "Singing Game"
+      ],
+      "equipment": [
+        "Broken earthen pot piece (guti)",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a large rectangle divided into six boxes on the ground.",
+        "Step 2: Name the boxes: ek-er ghor (first), dui-er ghor (second), etc., with the last called samundra.",
+        "Step 3: Players roll their guti into the first box while standing outside.",
+        "Step 4: Hop on one foot and kick the guti from box to box in sequence.",
+        "Step 5: Continue until reaching the fifth box, then return to start.",
+        "Step 6: After completing, roll the guti to the second box and repeat.",
+        "Step 7: Players sing the ekka-dokka melody throughout the game.",
+        "Step 8: Elimination occurs if guti lands on a line, wrong box, or both feet touch ground.",
+        "Step 9: The player who completes all boxes successfully wins.",
+        "Step 10: Advanced players add complex patterns and faster movements."
+      ],
+      "rating": 0,
+      "views": 1800,
+      "reviewCount": 0,
+      "likes": 620,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_feviyya_006",
+      "title": "Feviyya Fathun (Mango Seed Game)",
+      "description": "A children's game using dried mango seeds as playing pieces. Players flick seeds at a target, competing for accuracy and distance.",
+      "region": "Maldives",
+      "location": "Throughout Maldives, especially island villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Feviyya%20Fathun.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Mango season, after school, casual play",
+      "tags": [
+        "Outdoor",
+        "Children's Game",
+        "Accuracy",
+        "Natural Materials"
+      ],
+      "equipment": [
+        "Dried mango seeds (Feviyya)",
+        "Target marker"
+      ],
+      "howToPlay": [
+        "Step 1: Collect and dry mango seeds after eating the fruit.",
+        "Step 2: Mark a throwing line on the ground.",
+        "Step 3: Place a target at a predetermined distance.",
+        "Step 4: Players take turns flicking or throwing seeds toward the target.",
+        "Step 5: Points awarded based on proximity to target.",
+        "Step 6: Seeds that hit the target score highest points.",
+        "Step 7: Players can knock opponents' seeds away.",
+        "Step 8: Multiple rounds are played with cumulative scoring.",
+        "Step 9: Seeds are collected and traded among children.",
+        "Step 10: Winner receives bragging rights and sometimes opponents' seeds."
+      ],
+      "rating": 0,
+      "views": 2100,
+      "reviewCount": 0,
+      "likes": 820,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "ind_gutte_008",
+      "title": "Gutte (Five Stones)",
+      "description": "A traditional game played with five small stones, testing hand-eye coordination and dexterity. Players toss one stone while picking up others from the ground.",
+      "region": "India",
+      "location": "Throughout India",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gutte%20(Five%20Stones).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Indoor gatherings, school breaks, leisure",
+      "tags": [
+        "Indoor",
+        "Pebble Game",
+        "Girls' Game",
+        "Skill"
+      ],
+      "equipment": [
+        "5 small stones or pebbles",
+        "Flat surface"
+      ],
+      "howToPlay": [
+        "Step 1: Scatter five stones on the ground.",
+        "Step 2: Toss one stone into the air.",
+        "Step 3: While it's airborne, pick up one stone from ground.",
+        "Step 4: Catch the falling stone with same hand.",
+        "Step 5: Set aside collected stone and repeat until all gathered.",
+        "Step 6: Next level requires picking up two stones at once.",
+        "Step 7: Higher levels involve picking up three, then four stones.",
+        "Step 8: If player drops or fails to catch, turn passes.",
+        "Step 9: Player completing all levels wins.",
+        "Step 10: Rhymes often accompany gameplay."
+      ],
+      "rating": 0,
+      "views": 5400,
+      "reviewCount": 0,
+      "likes": 2300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "ind_kancha_005",
+      "title": "Kancha (Marbles)",
+      "description": "A classic childhood game played with colorful glass marbles, where players use their shooter marble to knock opponents' marbles out of a circle.",
+      "region": "India",
+      "location": "Throughout India",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kancha%20(Marbles).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2-6",
+      "occasion": "After school, holidays, casual play",
+      "tags": [
+        "Outdoor",
+        "Marbles",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "Glass marbles (various sizes)",
+        "Shooter marble (larger)",
+        "Circle drawn on ground"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a circle on flat ground.",
+        "Step 2: Each player places several marbles inside the circle.",
+        "Step 3: Players take turns shooting their shooter marble from outside the circle.",
+        "Step 4: Flick the shooter with thumb to knock marbles out.",
+        "Step 5: Keep any marbles knocked out of the circle.",
+        "Step 6: If shooter stays inside, player continues; if not, turn passes.",
+        "Step 7: Game continues until all marbles are cleared.",
+        "Step 8: Player with most marbles collected wins.",
+        "Step 9: Special marbles are prized and traded.",
+        "Step 10: Advanced techniques include backspin and curve shots."
+      ],
+      "rating": 0,
+      "views": 15600,
+      "reviewCount": 0,
+      "likes": 7800,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_kancha_004",
+      "title": "Kancha (Marbles)",
+      "description": "Classic marble game played across Pakistan, known as Kancha or Rumi. Children collect and trade colorful glass marbles, competing in skill-based challenges.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kancha%20(Marbles).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2-6",
+      "occasion": "After school, holidays, casual play",
+      "tags": [
+        "Outdoor",
+        "Marbles",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "Glass marbles (various sizes)",
+        "Shooter marble (larger)",
+        "Circle drawn on ground"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a circle on flat ground.",
+        "Step 2: Each player places several marbles inside the circle.",
+        "Step 3: Players take turns shooting their shooter marble from outside the circle.",
+        "Step 4: Flick the shooter with thumb to knock marbles out.",
+        "Step 5: Keep any marbles knocked out of the circle.",
+        "Step 6: If shooter stays inside, player continues; if not, turn passes.",
+        "Step 7: Game continues until all marbles are cleared.",
+        "Step 8: Player with most marbles collected wins.",
+        "Step 9: Special marbles are prized and traded.",
+        "Step 10: Advanced techniques include backspin and curve shots."
+      ],
+      "rating": 0,
+      "views": 7600,
+      "reviewCount": 0,
+      "likes": 3300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "btn_khuru_001",
+      "title": "Khuru (Dart Game)",
+      "description": "A traditional Bhutanese dart game played outdoors with heavy wooden darts and a small softwood target. Players throw darts underhand at a target about 20 meters away, often accompanied by friendly wagers.",
+      "region": "Bhutan",
+      "location": "Throughout Bhutan, especially rural areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Khuru.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+ individuals or teams",
+      "occasion": "Festivals, gatherings, archery matches, leisure time",
+      "tags": [
+        "Outdoor",
+        "Dart Game",
+        "Accuracy",
+        "Traditional",
+        "Social Game"
+      ],
+      "equipment": [
+        "Wooden darts with nail tips",
+        "Small softwood target",
+        "Traditional Bhutanese clothing (optional)"
+      ],
+      "howToPlay": [
+        "Step 1: A small cylindrical target made of softwood is placed about 20 meters away.",
+        "Step 2: Teams or individuals gather, often with traditional drinks and snacks.",
+        "Step 3: Players take turns throwing heavy wooden darts underhand toward the target.",
+        "Step 4: The dart must stick into the target to score points.",
+        "Step 5: Points are awarded based on where the dart lands on the target.",
+        "Step 6: Teammates cheer and tease opponents in good-natured banter.",
+        "Step 7: Matches often involve small bets or prizes.",
+        "Step 8: The game requires precision and consistent throwing technique.",
+        "Step 9: Skilled players are respected in their communities.",
+        "Step 10: Khuru is often played alongside traditional archery matches."
+      ],
+      "rating": 0,
+      "views": 7200,
+      "reviewCount": 0,
+      "likes": 3400,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_kula_007",
+      "title": "Kula Gaddu (Tops Game)",
+      "description": "A traditional spinning top game where children carve wooden tops and compete in spinning duration and battling other tops.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Kula%20Gaddu.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "After school, holidays, leisure time",
+      "tags": [
+        "Outdoor",
+        "Spinning Top",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "Wooden spinning tops (Kula Gaddu)",
+        "String for spinning"
+      ],
+      "howToPlay": [
+        "Step 1: Children carve wooden tops from local wood or purchase them.",
+        "Step 2: Wind string around the top from bottom to top.",
+        "Step 3: Throw the top while pulling the string to make it spin.",
+        "Step 4: Compete to see whose top spins the longest.",
+        "Step 5: In battle mode, players try to knock opponents' tops out of a ring.",
+        "Step 6: Tops can be decorated with colors and patterns.",
+        "Step 7: Skilled players develop techniques for powerful spins.",
+        "Step 8: Tops that spin longest or knock out others win.",
+        "Step 9: Game develops hand-eye coordination and technique.",
+        "Step 10: Winners collect opponents' tops as prizes."
+      ],
+      "rating": 0,
+      "views": 3400,
+      "reviewCount": 0,
+      "likes": 1500,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "lka_pancha_004",
+      "title": "Pancha Demeema",
+      "description": "A traditional game played with five small seashells, a coconut shell, and a pancha chart. Tests hand-eye coordination and counting skills.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Pancha%20Demeema.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Avurudu, family gatherings, leisure",
+      "tags": [
+        "Indoor",
+        "Seashell Game",
+        "Skill",
+        "Traditional"
+      ],
+      "equipment": [
+        "5 small seashells",
+        "Coconut shell",
+        "Pancha chart"
+      ],
+      "howToPlay": [
+        "Step 1: Players sit around a flat surface with the equipment.",
+        "Step 2: Seashells are tossed and patterns are observed.",
+        "Step 3: Points are awarded based on how shells land.",
+        "Step 4: The coconut shell is used as a target or container.",
+        "Step 5: Players take turns tossing and collecting.",
+        "Step 6: The pancha chart guides scoring.",
+        "Step 7: Requires concentration and precise tossing.",
+        "Step 8: Often played during Avurudu celebrations.",
+        "Step 9: Passed down through generations.",
+        "Step 10: Combines chance with skill."
+      ],
+      "rating": 0,
+      "views": 3401,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "btn_phobjur_010",
+      "title": "Phobjur",
+      "description": "A traditional archery variation where competitors shoot at small wooden targets from great distances, incorporating elaborate celebrations and team camaraderie.",
+      "region": "Bhutan",
+      "location": "Rural Bhutan, especially Haa Valley",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Phobjur.png",
+      "category": "Skill",
+      "intensity": "Medium",
+      "players": "Teams of 5-13 players",
+      "occasion": "Festivals, Losar, community celebrations",
+      "tags": [
+        "Outdoor",
+        "Archery",
+        "Team Sport",
+        "Traditional",
+        "National Sport"
+      ],
+      "equipment": [
+        "Bamboo bows",
+        "Wooden arrows",
+        "Wooden targets",
+        "Traditional attire"
+      ],
+      "howToPlay": [
+        "Step 1: Teams assemble with traditional bamboo bows and arrows.",
+        "Step 2: Small wooden targets are placed at distances up to 140 meters.",
+        "Step 3: Teams take turns shooting at the targets.",
+        "Step 4: Hits are celebrated with group dances and songs.",
+        "Step 5: Women often perform mocking dances to distract opponents.",
+        "Step 6: Points are awarded for hitting the target.",
+        "Step 7: The game continues until a team reaches a winning score.",
+        "Step 8: Elaborate celebrations follow each hit.",
+        "Step 9: Traditional food and drinks accompany matches.",
+        "Step 10: Archery is considered Bhutan's national sport."
+      ],
+      "rating": 0,
+      "views": 6300,
+      "reviewCount": 0,
+      "likes": 3100,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "btn_pundo_003",
+      "title": "Pundo",
+      "description": "A traditional game similar to bowling, played with flat stones. Players slide stones along the ground toward a target stone, competing for accuracy.",
+      "region": "Bhutan",
+      "location": "Throughout Bhutan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Pundo.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Leisure time, village gatherings",
+      "tags": [
+        "Outdoor",
+        "Bowling",
+        "Accuracy",
+        "Traditional"
+      ],
+      "equipment": [
+        "Flat stones",
+        "Target marker"
+      ],
+      "howToPlay": [
+        "Step 1: A target stone is placed at one end of a smooth playing area.",
+        "Step 2: Players stand at a marked throwing line.",
+        "Step 3: Each player slides their flat stone along the ground toward the target.",
+        "Step 4: Points are awarded based on how close the stone lands to the target.",
+        "Step 5: Players can knock opponents' stones away from the target.",
+        "Step 6: The player whose stone is closest after all throws scores.",
+        "Step 7: Multiple rounds are played with cumulative scoring.",
+        "Step 8: Players develop touch and control for precise sliding.",
+        "Step 9: The game requires minimal equipment and space.",
+        "Step 10: Friendly competition and socializing accompany the game."
+      ],
+      "rating": 0,
+      "views": 2400,
+      "reviewCount": 0,
+      "likes": 980,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_ranmaa_009",
+      "title": "Ran Maa (Gold Leaf Game)",
+      "description": "A traditional game using woven palm leaves, where players create intricate patterns and compete in design complexity and speed of weaving.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Ran%20Maa.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Leisure time, cultural events",
+      "tags": [
+        "Indoor",
+        "Craft Game",
+        "Traditional",
+        "Skill"
+      ],
+      "equipment": [
+        "Dried palm leaves",
+        "Natural dyes (optional)"
+      ],
+      "howToPlay": [
+        "Step 1: Collect and prepare dried palm leaves.",
+        "Step 2: Cut leaves into uniform strips.",
+        "Step 3: Players weave strips into predetermined patterns.",
+        "Step 4: Competition based on speed of weaving.",
+        "Step 5: Alternatively, judges evaluate design complexity and beauty.",
+        "Step 6: Traditional patterns are taught by elders to youth.",
+        "Step 7: Completed weavings can be used as decorations.",
+        "Step 8: Game preserves traditional craft skills.",
+        "Step 9: Winners recognized for their craftsmanship.",
+        "Step 10: Often played during cultural festivals."
+      ],
+      "rating": 0,
+      "views": 1601,
+      "reviewCount": 0,
+      "likes": 580,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "btn_soksum_004",
+      "title": "Soksum",
+      "description": "A traditional game involving throwing a wooden stick through a moving wheel, testing timing and accuracy. Often played during festivals and celebrations.",
+      "region": "Bhutan",
+      "location": "Rural Bhutan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Soksum.png",
+      "category": "Skill",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "Festivals, community events",
+      "tags": [
+        "Outdoor",
+        "Accuracy",
+        "Timing",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden wheel",
+        "Small sticks or spears"
+      ],
+      "howToPlay": [
+        "Step 1: A large wooden wheel is rolled along the ground by one player.",
+        "Step 2: Other players stand at a distance with small sticks or spears.",
+        "Step 3: As the wheel passes, players attempt to throw their sticks through the moving wheel's spokes.",
+        "Step 4: Successful throws that pass through score points.",
+        "Step 5: Players take turns rolling the wheel and throwing.",
+        "Step 6: The game requires precise timing and aim.",
+        "Step 7: Multiple rounds are played with cumulative scoring.",
+        "Step 8: Skilled players can hit the wheel consistently.",
+        "Step 9: The game tests hand-eye coordination under dynamic conditions.",
+        "Step 10: Winners receive recognition and sometimes small prizes."
+      ],
+      "rating": 0,
+      "views": 1800,
+      "reviewCount": 0,
+      "likes": 720,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "pak_stapoo_005",
+      "title": "Stapoo (Hopscotch)",
+      "description": "Pakistani version of hopscotch, primarily played by girls. Players hop through numbered boxes while kicking a flat stone, often accompanied by traditional rhymes.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Stapoo%20(Hopscotch).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "After school, family gatherings, leisure",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Flat stone or tile piece",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a hopscotch grid with numbered boxes on the ground.",
+        "Step 2: Players toss a flat stone into the first box.",
+        "Step 3: Hop on one foot through the boxes, avoiding the box with the stone.",
+        "Step 4: Kick the stone to the next box while hopping.",
+        "Step 5: Continue until reaching the end and turn back.",
+        "Step 6: If successful, toss stone to next box and repeat.",
+        "Step 7: Player loses turn if stone lands on a line, both feet touch ground, or balance is lost.",
+        "Step 8: Player who completes all boxes first wins.",
+        "Step 9: Advanced players add complex patterns and faster movements.",
+        "Step 10: Singing often accompanies the game."
+      ],
+      "rating": 0,
+      "views": 5401,
+      "reviewCount": 0,
+      "likes": 2300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    }
+  ]
+}

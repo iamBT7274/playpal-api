@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_oonch_008",
+    "title": "Oonch Neech (High Low)",
+    "description": "A popular tag game where players are safe only when on elevated surfaces (oonch) and vulnerable when on ground level (neech). Tests agility and quick thinking.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Oonch%20Neech.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "5+",
+    "occasion": "School breaks, family gatherings, casual play",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Children's Game",
+      "Agility"
+    ],
+    "equipment": [
+      "Area with varied elevations",
+      "No special equipment"
+    ],
+    "howToPlay": [
+      "Step 1: Designate one player as the denner (catcher).",
+      "Step 2: Establish that elevated surfaces (walls, benches, stairs) are 'safe zones'.",
+      "Step 3: Ground level is 'unsafe' where players can be tagged.",
+      "Step 4: Players run and dodge, jumping onto elevated surfaces to avoid tagging.",
+      "Step 5: The denner tries to tag players when they are on ground level.",
+      "Step 6: Tagged players become denners or are eliminated.",
+      "Step 7: Players cannot stay on safe zones indefinitely.",
+      "Step 8: Game continues until all players are tagged.",
+      "Step 9: Last player tagged wins and becomes denner for next round.",
+      "Step 10: Develops agility, speed, and strategic movement."
+    ],
+    "rating": 0,
+    "views": 4600,
+    "reviewCount": 0,
+    "likes": 2000,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

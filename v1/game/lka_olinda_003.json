@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_olinda_003",
+    "title": "Olinda Keliya",
+    "description": "A traditional board game played with olinda seeds, popular among women. Similar to mancala games, involving strategy and counting skills.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Olinda%20Keliya.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, Avurudu",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Women's Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with pits",
+      "Olinda seeds (Abrus precatorius)"
+    ],
+    "howToPlay": [
+      "Step 1: The board has rows of pits carved into wood.",
+      "Step 2: Fill each pit with a specific number of olinda seeds.",
+      "Step 3: Players take turns picking up seeds from one pit and distributing them.",
+      "Step 4: Capturing seeds based on where the last seed lands.",
+      "Step 5: Game continues until all seeds are captured.",
+      "Step 6: Player with most seeds wins.",
+      "Step 7: Requires counting and strategic planning.",
+      "Step 8: Traditionally played by women during leisure time.",
+      "Step 9: Seeds have cultural and medicinal significance.",
+      "Step 10: Passed down through generations."
+    ],
+    "rating": 0,
+    "views": 5600,
+    "reviewCount": 0,
+    "likes": 2500,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

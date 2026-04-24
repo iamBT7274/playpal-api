@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_thinn_003",
+    "title": "Thinn Hama",
+    "description": "A strategic multi-generational board game similar to checkers, played with 18 pieces per player on a marked board. Players aim to create three-in-a-row to capture opponent pieces.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Thinn%20Hama.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, leisure",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden or cardboard board with grid",
+      "36 pieces (18 each, often shells or stones)"
+    ],
+    "howToPlay": [
+      "Step 1: Board features intersecting lines forming a grid.",
+      "Step 2: Players place pieces one at a time on intersections.",
+      "Step 3: Objective is to get three pieces in a straight line.",
+      "Step 4: When a player forms three in a row, they remove one opponent piece.",
+      "Step 5: Players cannot place three in a row initially.",
+      "Step 6: After all pieces are placed, players move one piece per turn.",
+      "Step 7: Movement is limited to adjacent intersections along lines.",
+      "Step 8: Game continues until one player has only two pieces left.",
+      "Step 9: Remaining player with more pieces wins.",
+      "Step 10: Requires strategic positioning and forward planning."
+    ],
+    "rating": 0,
+    "views": 4801,
+    "reviewCount": 0,
+    "likes": 2100,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

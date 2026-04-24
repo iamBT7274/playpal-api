@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_phobjur_010",
+    "title": "Phobjur",
+    "description": "A traditional archery variation where competitors shoot at small wooden targets from great distances, incorporating elaborate celebrations and team camaraderie.",
+    "region": "Bhutan",
+    "location": "Rural Bhutan, especially Haa Valley",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Phobjur.png",
+    "category": "Skill",
+    "intensity": "Medium",
+    "players": "Teams of 5-13 players",
+    "occasion": "Festivals, Losar, community celebrations",
+    "tags": [
+      "Outdoor",
+      "Archery",
+      "Team Sport",
+      "Traditional",
+      "National Sport"
+    ],
+    "equipment": [
+      "Bamboo bows",
+      "Wooden arrows",
+      "Wooden targets",
+      "Traditional attire"
+    ],
+    "howToPlay": [
+      "Step 1: Teams assemble with traditional bamboo bows and arrows.",
+      "Step 2: Small wooden targets are placed at distances up to 140 meters.",
+      "Step 3: Teams take turns shooting at the targets.",
+      "Step 4: Hits are celebrated with group dances and songs.",
+      "Step 5: Women often perform mocking dances to distract opponents.",
+      "Step 6: Points are awarded for hitting the target.",
+      "Step 7: The game continues until a team reaches a winning score.",
+      "Step 8: Elaborate celebrations follow each hit.",
+      "Step 9: Traditional food and drinks accompany matches.",
+      "Step 10: Archery is considered Bhutan's national sport."
+    ],
+    "rating": 0,
+    "views": 6300,
+    "reviewCount": 0,
+    "likes": 3100,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_pallan_010",
+    "title": "Pallanguzhi",
+    "description": "A traditional mancala game played on a wooden board with 14 pits, using small seeds or shells. Popular among women and girls, requiring arithmetic skills and strategic thinking.",
+    "region": "India",
+    "location": "Tamil Nadu, South India",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Pallanguzhi.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, leisure",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Mancala",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with 2 rows of 7 pits",
+      "Seeds or shells (146 total)"
+    ],
+    "howToPlay": [
+      "Step 1: Fill each pit with 5 or 6 seeds depending on variation.",
+      "Step 2: Players sit facing each other with the board between them.",
+      "Step 3: First player picks up all seeds from any pit on their side.",
+      "Step 4: Drop one seed in each subsequent pit in counterclockwise direction.",
+      "Step 5: If last seed lands in a pit with seeds, pick up those and continue.",
+      "Step 6: If last seed lands in an empty pit on your side, capture opponent's opposite pit seeds.",
+      "Step 7: Turn ends when last seed lands in empty pit on opponent's side.",
+      "Step 8: Game continues until one side has no seeds.",
+      "Step 9: Player with most captured seeds wins.",
+      "Step 10: Requires counting skills and forward planning."
+    ],
+    "rating": 0,
+    "views": 4100,
+    "reviewCount": 0,
+    "likes": 1900,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

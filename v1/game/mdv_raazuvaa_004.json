@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_raazuvaa_004",
+    "title": "Raazuvaa",
+    "description": "The Maldivian version of chess with unique rules, believed to have evolved from incomplete transmission of chess knowledge. Pieces move differently while maintaining similar objectives.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Raazuvaa.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, leisure",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Chess Variant",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with distinctive Maldivian lacquer work",
+      "32 carved pieces",
+      "Any dark and light theme (not necessarily black/white)"
+    ],
+    "howToPlay": [
+      "Step 1: Board is set up with pieces in positions similar to chess but with variations.",
+      "Step 2: Pawns move differently than in standard chess.",
+      "Step 3: Castling rules may differ from international chess.",
+      "Step 4: King and queen placement follows local tradition.",
+      "Step 5: Objective remains to checkmate the opponent's king.",
+      "Step 6: Players alternate moves, strategizing to control the board.",
+      "Step 7: Pieces have distinctive Maldivian carved patterns.",
+      "Step 8: The game develops concentration and strategic thinking.",
+      "Step 9: Boards are often decorated with traditional lacquer work.",
+      "Step 10: Popular as a souvenir representing Maldivian culture."
+    ],
+    "rating": 0,
+    "views": 5600,
+    "reviewCount": 0,
+    "likes": 2600,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

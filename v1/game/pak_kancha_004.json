@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_kancha_004",
+    "title": "Kancha (Marbles)",
+    "description": "Classic marble game played across Pakistan, known as Kancha or Rumi. Children collect and trade colorful glass marbles, competing in skill-based challenges.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kancha%20(Marbles).png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2-6",
+    "occasion": "After school, holidays, casual play",
+    "tags": [
+      "Outdoor",
+      "Marbles",
+      "Children's Game",
+      "Skill"
+    ],
+    "equipment": [
+      "Glass marbles (various sizes)",
+      "Shooter marble (larger)",
+      "Circle drawn on ground"
+    ],
+    "howToPlay": [
+      "Step 1: Draw a circle on flat ground.",
+      "Step 2: Each player places several marbles inside the circle.",
+      "Step 3: Players take turns shooting their shooter marble from outside the circle.",
+      "Step 4: Flick the shooter with thumb to knock marbles out.",
+      "Step 5: Keep any marbles knocked out of the circle.",
+      "Step 6: If shooter stays inside, player continues; if not, turn passes.",
+      "Step 7: Game continues until all marbles are cleared.",
+      "Step 8: Player with most marbles collected wins.",
+      "Step 9: Special marbles are prized and traded.",
+      "Step 10: Advanced techniques include backspin and curve shots."
+    ],
+    "rating": 0,
+    "views": 7600,
+    "reviewCount": 0,
+    "likes": 3300,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

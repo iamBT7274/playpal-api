@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_dhorsum_007",
+    "title": "Dhor Sum",
+    "description": "A traditional board game similar to checkers, played on a wooden board with seeds or stones as pieces. Requires strategic thinking and planning.",
+    "region": "Bhutan",
+    "location": "Throughout Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Dhor%20Sum.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, indoor gatherings, leisure time",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Strategy",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with grid pattern",
+      "Seeds or stones as playing pieces"
+    ],
+    "howToPlay": [
+      "Step 1: The board features a grid of lines forming intersections.",
+      "Step 2: Each player has a set of distinct pieces (different colors or types).",
+      "Step 3: Players alternate placing pieces on the board.",
+      "Step 4: The objective is to align pieces in specific patterns.",
+      "Step 5: Players can capture opponent pieces by jumping.",
+      "Step 6: Strategic positioning is key to controlling the board.",
+      "Step 7: The game continues until one player cannot move or achieves victory condition.",
+      "Step 8: Elders often teach the game to younger generations.",
+      "Step 9: Matches can last from 15 minutes to over an hour.",
+      "Step 10: The game develops critical thinking and patience."
+    ],
+    "rating": 0,
+    "views": 2900,
+    "reviewCount": 0,
+    "likes": 1300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

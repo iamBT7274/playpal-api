@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_chhukpa_006",
+    "title": "Chhukpa (Water Game)",
+    "description": "A traditional water game where children and adults compete in swimming, diving, and water-based challenges in Bhutan's pristine rivers and streams.",
+    "region": "Bhutan",
+    "location": "Rivers and streams throughout Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Chhukpa.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Summer, holidays, leisure time",
+    "tags": [
+      "Outdoor",
+      "Water Sport",
+      "Swimming",
+      "Children's Game"
+    ],
+    "equipment": [
+      "River or stream",
+      "No special equipment needed"
+    ],
+    "howToPlay": [
+      "Step 1: Children gather at a safe swimming spot in a river.",
+      "Step 2: They compete in swimming races across or downstream.",
+      "Step 3: Diving competitions test who can retrieve stones from the bottom.",
+      "Step 4: Underwater swimming distance challenges test breath control.",
+      "Step 5: Water tag involves chasing and tagging in shallow areas.",
+      "Step 6: Older children teach swimming to younger ones.",
+      "Step 7: The game builds water confidence and swimming skills.",
+      "Step 8: Safety is emphasized with supervision from experienced swimmers.",
+      "Step 9: Winners gain respect among peers.",
+      "Step 10: The game connects children to Bhutan's natural water resources."
+    ],
+    "rating": 0,
+    "views": 1600,
+    "reviewCount": 0,
+    "likes": 610,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

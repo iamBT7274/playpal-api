@@ -1,0 +1,491 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Strategy",
+  "totalGames": 12,
+  "games": [
+    {
+      "id": "npl_bagh_002",
+      "title": "Bagh Chal (Tiger Game)",
+      "description": "A traditional strategic board game representing tigers hunting goats. Four tigers attempt to capture goats while twenty goats try to trap the tigers. Deeply rooted in Nepali culture.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Bagh%20Chal.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, teahouses",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "National Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with cross and diagonal lines",
+        "4 tiger pieces",
+        "20 goat pieces"
+      ],
+      "howToPlay": [
+        "Step 1: The board features a cross with diagonal lines forming intersections.",
+        "Step 2: One player controls 4 tigers placed at the board's corners.",
+        "Step 3: The other player controls 20 goats, initially placed off-board.",
+        "Step 4: Goats are placed one by one on any empty intersection.",
+        "Step 5: Tigers move along lines, capturing goats by jumping over them to empty spaces.",
+        "Step 6: Goats cannot capture but aim to surround and trap tigers so they cannot move.",
+        "Step 7: Tigers win by capturing 5 goats or reducing goats' mobility.",
+        "Step 8: Goats win by completely immobilizing all tigers.",
+        "Step 9: The game requires deep strategic thinking and forward planning.",
+        "Step 10: Matches can last from 30 minutes to several hours."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 6200,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "afg_baghchal_010",
+      "title": "Baghchal",
+      "description": "A strategic board game simulating the conflict between tigers and goats, where four tigers try to hunt twenty goats while goats attempt to trap the tigers.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Baghchal.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Teahouses, evenings, winter gatherings",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Traditional",
+        "Intellectual"
+      ],
+      "equipment": [
+        "Wooden board with cross and diagonal lines",
+        "4 tiger pieces",
+        "20 goat pieces"
+      ],
+      "howToPlay": [
+        "Step 1: The board features a cross with diagonal lines forming intersections.",
+        "Step 2: One player controls 4 tigers placed at the board's corners.",
+        "Step 3: The other player controls 20 goats, initially placed off-board.",
+        "Step 4: Goats are placed one by one on any empty intersection.",
+        "Step 5: Tigers move along lines, capturing goats by jumping over them to empty spaces.",
+        "Step 6: Goats cannot capture but aim to surround and trap tigers so they cannot move.",
+        "Step 7: Tigers win by capturing 5 goats or reducing goats' mobility.",
+        "Step 8: Goats win by completely immobilizing all tigers.",
+        "Step 9: The game requires deep strategic thinking and forward planning.",
+        "Step 10: Matches can last from 30 minutes to several hours."
+      ],
+      "rating": 0,
+      "views": 4303,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "ind_chaupar_009",
+      "title": "Chaupar / Pachisi",
+      "description": "The 'Game of Kings,' an ancient board game played by Mughal emperors and Indian royalty. Precursor to Ludo, involving strategy and chance with cowrie shells as dice.",
+      "region": "India",
+      "location": "Throughout India, especially Rajasthan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Chaupar%20(Pachisi).png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2-4",
+      "occasion": "Evenings, family gatherings, festivals",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Royal Game",
+        "Ancient"
+      ],
+      "equipment": [
+        "Cloth or wooden cross-shaped board",
+        "Cowrie shells (for dice)",
+        "Wooden pieces (16 per player)"
+      ],
+      "howToPlay": [
+        "Step 1: The cross-shaped board has squares arranged in a symmetrical pattern.",
+        "Step 2: Each player chooses colored pieces and places them in the center.",
+        "Step 3: Players throw cowrie shells to determine moves.",
+        "Step 4: The number of shells landing with opening up determines the move count.",
+        "Step 5: Players move pieces along the squares toward the center.",
+        "Step 6: Landing on an opponent's square sends their piece back to start.",
+        "Step 7: Safe squares protect pieces from capture.",
+        "Step 8: All pieces must reach the center to win.",
+        "Step 9: Strategy involves deciding which pieces to move and when.",
+        "Step 10: The first player to get all pieces home wins."
+      ],
+      "rating": 0,
+      "views": 12300,
+      "reviewCount": 0,
+      "likes": 6100,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "btn_dhorsum_007",
+      "title": "Dhor Sum",
+      "description": "A traditional board game similar to checkers, played on a wooden board with seeds or stones as pieces. Requires strategic thinking and planning.",
+      "region": "Bhutan",
+      "location": "Throughout Bhutan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Dhor%20Sum.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, indoor gatherings, leisure time",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with grid pattern",
+        "Seeds or stones as playing pieces"
+      ],
+      "howToPlay": [
+        "Step 1: The board features a grid of lines forming intersections.",
+        "Step 2: Each player has a set of distinct pieces (different colors or types).",
+        "Step 3: Players alternate placing pieces on the board.",
+        "Step 4: The objective is to align pieces in specific patterns.",
+        "Step 5: Players can capture opponent pieces by jumping.",
+        "Step 6: Strategic positioning is key to controlling the board.",
+        "Step 7: The game continues until one player cannot move or achieves victory condition.",
+        "Step 8: Elders often teach the game to younger generations.",
+        "Step 9: Matches can last from 15 minutes to over an hour.",
+        "Step 10: The game develops critical thinking and patience."
+      ],
+      "rating": 0,
+      "views": 2900,
+      "reviewCount": 0,
+      "likes": 1300,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "afg_khasai_003",
+      "title": "Khasai",
+      "description": "A traditional marble game played by children, using small glass or clay marbles, requiring precision and strategic shooting skills.",
+      "region": "Afghanistan",
+      "location": "Herat, Mazar-i-Sharif",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Khasai.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "After school, holidays, casual play",
+      "tags": [
+        "Outdoor",
+        "Marbles",
+        "Children's Game",
+        "Skill-based"
+      ],
+      "equipment": [
+        "Glass or clay marbles (Khasai)",
+        "Small hole or circle drawn on ground"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a small circle on flat ground and place several marbles inside.",
+        "Step 2: Players take turns shooting their 'shooter' marble from outside the circle.",
+        "Step 3: The goal is to knock marbles out of the circle while keeping the shooter inside.",
+        "Step 4: If a player knocks a marble out, they keep it and take another turn.",
+        "Step 5: If the shooter rolls outside the circle, the turn passes to the next player.",
+        "Step 6: Players must use their thumb to flick the shooter with precision.",
+        "Step 7: Advanced players develop techniques like backspin and curve shots.",
+        "Step 8: The game ends when all marbles are cleared from the circle.",
+        "Step 9: The player with the most marbles collected wins.",
+        "Step 10: Marbles are often traded and collected as prized possessions."
+      ],
+      "rating": 0,
+      "views": 3800,
+      "reviewCount": 0,
+      "likes": 1200,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "pak_ludo_007",
+      "title": "Ludo (Desi Version)",
+      "description": "Pakistani version of the classic board game, descended from the ancient Indian game Pachisi. Played with cowrie shells instead of dice in traditional settings.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Ludo%20(Desi%20Version).png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2-4",
+      "occasion": "Family gatherings, rainy days, evenings",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Family Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Cloth or wooden board",
+        "Cowrie shells (for dice)",
+        "Colored pieces (16 per player)"
+      ],
+      "howToPlay": [
+        "Step 1: Players choose colored pieces and place them in the starting area.",
+        "Step 2: Throw cowrie shells to determine moves (number of shells opening up determines count).",
+        "Step 3: Move pieces around the board according to the throw.",
+        "Step 4: Landing on an opponent's square sends their piece back to start.",
+        "Step 5: Safe squares protect pieces from capture.",
+        "Step 6: To enter the home column, piece must land exactly on the entrance square.",
+        "Step 7: All pieces must reach the center to win.",
+        "Step 8: Strategy involves deciding which pieces to move and when.",
+        "Step 9: The first player to get all pieces home wins.",
+        "Step 10: Traditional version uses cowrie shells instead of modern dice."
+      ],
+      "rating": 0,
+      "views": 12300,
+      "reviewCount": 0,
+      "likes": 5800,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "mdv_ohvalhu_005",
+      "title": "Ohvalhu Gondi (Game of Eight Holes)",
+      "description": "A traditional mancala-style game played on a wooden board with eight holes on each side. Players distribute cowrie shells or pebbles, trying to accumulate the most in their home hole.",
+      "region": "Maldives",
+      "location": "Dhiffushi, throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Ohvalhu%20Gondi.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, beach leisure",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Board Game",
+        "Mancala",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with 16 holes (8 per side)",
+        "2 larger home holes at ends",
+        "Cowrie shells or pebbles"
+      ],
+      "howToPlay": [
+        "Step 1: Each player sits on opposite sides of the board.",
+        "Step 2: Fill each of the 8 holes with an equal number of shells.",
+        "Step 3: Players take turns picking up all shells from one hole on their side.",
+        "Step 4: Distribute one shell in each subsequent hole counterclockwise.",
+        "Step 5: Skip opponent's home hole but include your own home hole.",
+        "Step 6: If last shell lands in your home hole, you get another turn.",
+        "Step 7: If last shell lands in an empty hole on your side, capture opponent's opposite hole shells.",
+        "Step 8: Game continues until all holes are empty.",
+        "Step 9: Player with most shells in their home hole wins.",
+        "Step 10: In villages, boards were drawn on beach sand using coconut shells."
+      ],
+      "rating": 0,
+      "views": 3900,
+      "reviewCount": 0,
+      "likes": 1700,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "lka_olinda_003",
+      "title": "Olinda Keliya",
+      "description": "A traditional board game played with olinda seeds, popular among women. Similar to mancala games, involving strategy and counting skills.",
+      "region": "Sri Lanka",
+      "location": "Throughout Sri Lanka",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Olinda%20Keliya.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, Avurudu",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Women's Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with pits",
+        "Olinda seeds (Abrus precatorius)"
+      ],
+      "howToPlay": [
+        "Step 1: The board has rows of pits carved into wood.",
+        "Step 2: Fill each pit with a specific number of olinda seeds.",
+        "Step 3: Players take turns picking up seeds from one pit and distributing them.",
+        "Step 4: Capturing seeds based on where the last seed lands.",
+        "Step 5: Game continues until all seeds are captured.",
+        "Step 6: Player with most seeds wins.",
+        "Step 7: Requires counting and strategic planning.",
+        "Step 8: Traditionally played by women during leisure time.",
+        "Step 9: Seeds have cultural and medicinal significance.",
+        "Step 10: Passed down through generations."
+      ],
+      "rating": 0,
+      "views": 5600,
+      "reviewCount": 0,
+      "likes": 2500,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "ind_pallan_010",
+      "title": "Pallanguzhi",
+      "description": "A traditional mancala game played on a wooden board with 14 pits, using small seeds or shells. Popular among women and girls, requiring arithmetic skills and strategic thinking.",
+      "region": "India",
+      "location": "Tamil Nadu, South India",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Pallanguzhi.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, leisure",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Mancala",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with 2 rows of 7 pits",
+        "Seeds or shells (146 total)"
+      ],
+      "howToPlay": [
+        "Step 1: Fill each pit with 5 or 6 seeds depending on variation.",
+        "Step 2: Players sit facing each other with the board between them.",
+        "Step 3: First player picks up all seeds from any pit on their side.",
+        "Step 4: Drop one seed in each subsequent pit in counterclockwise direction.",
+        "Step 5: If last seed lands in a pit with seeds, pick up those and continue.",
+        "Step 6: If last seed lands in an empty pit on your side, capture opponent's opposite pit seeds.",
+        "Step 7: Turn ends when last seed lands in empty pit on opponent's side.",
+        "Step 8: Game continues until one side has no seeds.",
+        "Step 9: Player with most captured seeds wins.",
+        "Step 10: Requires counting skills and forward planning."
+      ],
+      "rating": 0,
+      "views": 4100,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_raazuvaa_004",
+      "title": "Raazuvaa",
+      "description": "The Maldivian version of chess with unique rules, believed to have evolved from incomplete transmission of chess knowledge. Pieces move differently while maintaining similar objectives.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Raazuvaa.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, leisure",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Chess Variant",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with distinctive Maldivian lacquer work",
+        "32 carved pieces",
+        "Any dark and light theme (not necessarily black/white)"
+      ],
+      "howToPlay": [
+        "Step 1: Board is set up with pieces in positions similar to chess but with variations.",
+        "Step 2: Pawns move differently than in standard chess.",
+        "Step 3: Castling rules may differ from international chess.",
+        "Step 4: King and queen placement follows local tradition.",
+        "Step 5: Objective remains to checkmate the opponent's king.",
+        "Step 6: Players alternate moves, strategizing to control the board.",
+        "Step 7: Pieces have distinctive Maldivian carved patterns.",
+        "Step 8: The game develops concentration and strategic thinking.",
+        "Step 9: Boards are often decorated with traditional lacquer work.",
+        "Step 10: Popular as a souvenir representing Maldivian culture."
+      ],
+      "rating": 0,
+      "views": 5600,
+      "reviewCount": 0,
+      "likes": 2600,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "bgd_raja_009",
+      "title": "Raja-Chor-Mantri-Sipahi (King-Thief-Minister-Soldier)",
+      "description": "A role-playing game where four players randomly draw roles of Raja (King), Mantri (Minister), Chor (Thief), and Sipahi (Soldier). The Minister must correctly identify the Thief based on clues.",
+      "region": "Bangladesh",
+      "location": "Throughout Bangladesh",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Raja-Chor-Mantri-Sipahi.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "4 (can be adapted for more)",
+      "occasion": "Indoor gatherings, rainy days, school breaks",
+      "tags": [
+        "Indoor",
+        "Role-playing",
+        "Party Game",
+        "Children's Game",
+        "Strategy"
+      ],
+      "equipment": [
+        "Small paper slips",
+        "Pen",
+        "Notebook for scoring"
+      ],
+      "howToPlay": [
+        "Step 1: Write 'Raja', 'Mantri', 'Chor', and 'Sipahi' on separate slips of paper.",
+        "Step 2: Four players each pick a slip without showing others.",
+        "Step 3: The player who gets 'Raja' reveals their identity and sits as the King.",
+        "Step 4: The 'Mantri' (Minister) must guess which of the remaining two players is the 'Chor' (Thief).",
+        "Step 5: The 'Sipahi' (Soldier) and 'Chor' maintain neutral expressions.",
+        "Step 6: The Mantri asks questions or observes behavior to deduce the Chor.",
+        "Step 7: Raja awards points: Mantri gets 500 points if correct; if wrong, Chor gets the Mantri's 500 points.",
+        "Step 8: Raja gets 1000 points automatically, Sipahi gets 100 points.",
+        "Step 9: Roles are shuffled and the game repeats for multiple rounds.",
+        "Step 10: The player with the highest total points after predetermined rounds wins."
+      ],
+      "rating": 0,
+      "views": 4300,
+      "reviewCount": 0,
+      "likes": 1900,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    },
+    {
+      "id": "mdv_thinn_003",
+      "title": "Thinn Hama",
+      "description": "A strategic multi-generational board game similar to checkers, played with 18 pieces per player on a marked board. Players aim to create three-in-a-row to capture opponent pieces.",
+      "region": "Maldives",
+      "location": "Throughout Maldives",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Thinn%20Hama.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, leisure",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden or cardboard board with grid",
+        "36 pieces (18 each, often shells or stones)"
+      ],
+      "howToPlay": [
+        "Step 1: Board features intersecting lines forming a grid.",
+        "Step 2: Players place pieces one at a time on intersections.",
+        "Step 3: Objective is to get three pieces in a straight line.",
+        "Step 4: When a player forms three in a row, they remove one opponent piece.",
+        "Step 5: Players cannot place three in a row initially.",
+        "Step 6: After all pieces are placed, players move one piece per turn.",
+        "Step 7: Movement is limited to adjacent intersections along lines.",
+        "Step 8: Game continues until one player has only two pieces left.",
+        "Step 9: Remaining player with more pieces wins.",
+        "Step 10: Requires strategic positioning and forward planning."
+      ],
+      "rating": 0,
+      "views": 4801,
+      "reviewCount": 0,
+      "likes": 2100,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    }
+  ]
+}

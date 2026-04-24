@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_ranmaa_009",
+    "title": "Ran Maa (Gold Leaf Game)",
+    "description": "A traditional game using woven palm leaves, where players create intricate patterns and compete in design complexity and speed of weaving.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Ran%20Maa.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Leisure time, cultural events",
+    "tags": [
+      "Indoor",
+      "Craft Game",
+      "Traditional",
+      "Skill"
+    ],
+    "equipment": [
+      "Dried palm leaves",
+      "Natural dyes (optional)"
+    ],
+    "howToPlay": [
+      "Step 1: Collect and prepare dried palm leaves.",
+      "Step 2: Cut leaves into uniform strips.",
+      "Step 3: Players weave strips into predetermined patterns.",
+      "Step 4: Competition based on speed of weaving.",
+      "Step 5: Alternatively, judges evaluate design complexity and beauty.",
+      "Step 6: Traditional patterns are taught by elders to youth.",
+      "Step 7: Completed weavings can be used as decorations.",
+      "Step 8: Game preserves traditional craft skills.",
+      "Step 9: Winners recognized for their craftsmanship.",
+      "Step 10: Often played during cultural festivals."
+    ],
+    "rating": 0,
+    "views": 1601,
+    "reviewCount": 0,
+    "likes": 580,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

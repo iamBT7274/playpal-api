@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_gulli_002",
+    "title": "Gulli Danda",
+    "description": "Traditional stick game played across Pakistan, known by various regional names. Considered the predecessor of modern bat-and-ball games.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gilli%20Danda.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "After school, village gatherings, Eid",
+    "tags": [
+      "Outdoor",
+      "Bat-and-Ball",
+      "Children's Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Danda (long stick)",
+      "Gulli (small tapered stick)"
+    ],
+    "howToPlay": [
+      "Step 1: A small hole is dug in the ground or a circle drawn.",
+      "Step 2: Place the gulli across the hole with one end raised.",
+      "Step 3: Use the danda to flick the gulli into the air.",
+      "Step 4: Strike the airborne gulli with the danda to hit it far.",
+      "Step 5: Fielders try to catch the gulli before it lands.",
+      "Step 6: If caught, batter is out; if not, measure distance using danda lengths.",
+      "Step 7: Batter scores points equal to number of danda lengths.",
+      "Step 8: Players take turns batting and fielding.",
+      "Step 9: The player with highest total distance wins.",
+      "Step 10: Regional variations exist across Pakistan."
+    ],
+    "rating": 0,
+    "views": 12400,
+    "reviewCount": 0,
+    "likes": 5900,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

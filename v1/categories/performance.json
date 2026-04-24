@@ -1,0 +1,49 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Performance",
+  "totalGames": 1,
+  "games": [
+    {
+      "id": "btn_singye_008",
+      "title": "Singye Cham (Snow Lion Game)",
+      "description": "A traditional performance-game where participants dress as snow lions and perform playful acrobatic movements, combining elements of dance, sport, and cultural ritual.",
+      "region": "Bhutan",
+      "location": "Monasteries, tshechu festivals",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Singye%20Cham.png",
+      "category": "Performance",
+      "intensity": "Medium",
+      "players": "2+ performers",
+      "occasion": "Tshechu festivals, religious ceremonies, special celebrations",
+      "tags": [
+        "Outdoor",
+        "Performance",
+        "Cultural",
+        "Dance",
+        "Festival"
+      ],
+      "equipment": [
+        "Snow lion costumes",
+        "Traditional musical instruments",
+        "Performance space"
+      ],
+      "howToPlay": [
+        "Step 1: Performers dress in elaborate snow lion costumes.",
+        "Step 2: Two performers typically operate one lion costume (front and back).",
+        "Step 3: The lions perform playful movements, jumps, and acrobatics.",
+        "Step 4: They interact with the audience and other performers.",
+        "Step 5: Traditional music accompanies the performance.",
+        "Step 6: The game aspect involves chasing and playful competition between lions.",
+        "Step 7: Performances are part of larger festival celebrations.",
+        "Step 8: The snow lion is a national symbol of Bhutan.",
+        "Step 9: Skilled performers train extensively in coordination and movement.",
+        "Step 10: The tradition preserves Bhutanese cultural heritage."
+      ],
+      "rating": 0,
+      "views": 5800,
+      "reviewCount": 0,
+      "likes": 2800,
+      "createdAt": "2026-03-17T16:34:49.431Z"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_gutte_008",
+    "title": "Gutte (Five Stones)",
+    "description": "A traditional game played with five small stones, testing hand-eye coordination and dexterity. Players toss one stone while picking up others from the ground.",
+    "region": "India",
+    "location": "Throughout India",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gutte%20(Five%20Stones).png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Indoor gatherings, school breaks, leisure",
+    "tags": [
+      "Indoor",
+      "Pebble Game",
+      "Girls' Game",
+      "Skill"
+    ],
+    "equipment": [
+      "5 small stones or pebbles",
+      "Flat surface"
+    ],
+    "howToPlay": [
+      "Step 1: Scatter five stones on the ground.",
+      "Step 2: Toss one stone into the air.",
+      "Step 3: While it's airborne, pick up one stone from ground.",
+      "Step 4: Catch the falling stone with same hand.",
+      "Step 5: Set aside collected stone and repeat until all gathered.",
+      "Step 6: Next level requires picking up two stones at once.",
+      "Step 7: Higher levels involve picking up three, then four stones.",
+      "Step 8: If player drops or fails to catch, turn passes.",
+      "Step 9: Player completing all levels wins.",
+      "Step 10: Rhymes often accompany gameplay."
+    ],
+    "rating": 0,
+    "views": 5400,
+    "reviewCount": 0,
+    "likes": 2300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

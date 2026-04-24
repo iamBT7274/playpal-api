@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_lathi_004",
+    "title": "Lathi Khela (Stick Fighting)",
+    "description": "A traditional Bengali martial art form involving skilled stick fighting, historically used by lathials (warriors) employed by zamindars. Now performed during festivals and weddings as a cultural demonstration.",
+    "region": "Bangladesh",
+    "location": "Rural areas, Kushtia, Jessore, villages throughout",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Lathi%20Khela.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2+ individuals or teams",
+    "occasion": "Weddings, festivals, puja ceremonies, Eid celebrations",
+    "tags": [
+      "Outdoor",
+      "Martial Art",
+      "Stick Fighting",
+      "Cultural Performance",
+      "Traditional"
+    ],
+    "equipment": [
+      "Long bamboo sticks (Lathi)",
+      "Protective gear (optional)",
+      "Traditional attire"
+    ],
+    "howToPlay": [
+      "Step 1: Practitioners, known as lathials, train in basic stances and swings.",
+      "Step 2: Two opponents face each other holding long bamboo sticks.",
+      "Step 3: They perform choreographed routines demonstrating skill and agility.",
+      "Step 4: In competitive matches, fighters attempt to strike opponents while defending.",
+      "Step 5: Points are awarded for clean hits to permitted body areas.",
+      "Step 6: Fighters use spinning moves, jumps, and acrobatic defenses.",
+      "Step 7: Matches are accompanied by drumming and traditional music.",
+      "Step 8: Group performances show synchronized stick routines.",
+      "Step 9: The game emphasizes discipline, reflexes, and martial tradition.",
+      "Step 10: Annual conventions were historically held in Kushtia, now less frequent."
+    ],
+    "rating": 0,
+    "views": 12400,
+    "reviewCount": 0,
+    "likes": 5600,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

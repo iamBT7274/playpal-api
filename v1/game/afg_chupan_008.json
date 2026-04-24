@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_chupan_008",
+    "title": "Chupan Bazi",
+    "description": "A traditional game played by shepherds using their staffs to toss stones or sheep vertebrae, testing accuracy and distance control while tending flocks.",
+    "region": "Afghanistan",
+    "location": "Rural and mountainous regions",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Chupan%20Bazi.png",
+    "category": "Physical",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "While herding, leisure time",
+    "tags": [
+      "Outdoor",
+      "Shepherd Game",
+      "Accuracy",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden staff (Chupan)",
+      "Stones or sheep vertebrae",
+      "Target marker"
+    ],
+    "howToPlay": [
+      "Step 1: Shepherds mark a target line on the ground at varying distances.",
+      "Step 2: Players take turns placing a stone on the end of their staff.",
+      "Step 3: With a flicking motion, they launch the stone toward the target line.",
+      "Step 4: Points are awarded based on how close the stone lands to the line.",
+      "Step 5: Players can also compete to see who can launch stones the farthest.",
+      "Step 6: The game helps pass time during long hours of herding.",
+      "Step 7: Variations include aiming at specific targets like rocks or trees.",
+      "Step 8: Skilled players develop consistent and accurate throwing techniques.",
+      "Step 9: The game requires no special preparation and uses available materials.",
+      "Step 10: Winners are recognized among the herding community."
+    ],
+    "rating": 0,
+    "views": 1400,
+    "reviewCount": 0,
+    "likes": 450,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

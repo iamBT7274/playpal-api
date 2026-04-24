@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_pundo_003",
+    "title": "Pundo",
+    "description": "A traditional game similar to bowling, played with flat stones. Players slide stones along the ground toward a target stone, competing for accuracy.",
+    "region": "Bhutan",
+    "location": "Throughout Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Pundo.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Leisure time, village gatherings",
+    "tags": [
+      "Outdoor",
+      "Bowling",
+      "Accuracy",
+      "Traditional"
+    ],
+    "equipment": [
+      "Flat stones",
+      "Target marker"
+    ],
+    "howToPlay": [
+      "Step 1: A target stone is placed at one end of a smooth playing area.",
+      "Step 2: Players stand at a marked throwing line.",
+      "Step 3: Each player slides their flat stone along the ground toward the target.",
+      "Step 4: Points are awarded based on how close the stone lands to the target.",
+      "Step 5: Players can knock opponents' stones away from the target.",
+      "Step 6: The player whose stone is closest after all throws scores.",
+      "Step 7: Multiple rounds are played with cumulative scoring.",
+      "Step 8: Players develop touch and control for precise sliding.",
+      "Step 9: The game requires minimal equipment and space.",
+      "Step 10: Friendly competition and socializing accompany the game."
+    ],
+    "rating": 0,
+    "views": 2400,
+    "reviewCount": 0,
+    "likes": 980,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_nouka_002",
+    "title": "Nouka Baich (Boat Racing)",
+    "description": "A spectacular traditional boat race featuring long, narrow canoes (khel naos) paddled by up to 100 rowers. The races are accompanied by traditional songs and attract massive crowds along riverbanks.",
+    "region": "Bangladesh",
+    "location": "Riverine areas, Chittagong, Dhaka, Barisal",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Nouka%20Baich%20(Boat%20Race).png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "Teams of 25-100 rowers per boat",
+    "occasion": "Monsoon season, festivals, Pahela Baishakh",
+    "tags": [
+      "Outdoor",
+      "Water Sport",
+      "Team Sport",
+      "Festival",
+      "Cultural Heritage"
+    ],
+    "equipment": [
+      "Long narrow canoe (Khel Nauka)",
+      "Paddles",
+      "Traditional rowing uniforms",
+      "Drums for rhythm"
+    ],
+    "howToPlay": [
+      "Step 1: Teams assemble with their decorated long boats, often painted in vibrant colors.",
+      "Step 2: Rowers sit in rows along the length of the boat, each with a paddle.",
+      "Step 3: A drummer sits in the center to maintain rowing rhythm with beats.",
+      "Step 4: Boats line up at the starting point on a river or large water body.",
+      "Step 5: At signal, rowers paddle in perfect synchronization to the drumbeat.",
+      "Step 6: Spectators on riverbanks cheer as boats race toward the finish line.",
+      "Step 7: Traditional 'sari gan' songs are sung to motivate rowers.",
+      "Step 8: Races can cover distances from several hundred meters to kilometers.",
+      "Step 9: Winning teams receive trophies and cash prizes.",
+      "Step 10: The event is a major social and cultural gathering for riverine communities."
+    ],
+    "rating": 0,
+    "views": 25601,
+    "reviewCount": 0,
+    "likes": 14200,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

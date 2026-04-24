@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "npl_dhyakki_006",
+    "title": "Dhyakki (Hopscotch)",
+    "description": "Nepali version of hopscotch, primarily played by girls. Players hop through numbered boxes while kicking a flat stone, testing balance and precision.",
+    "region": "Nepal",
+    "location": "Throughout Nepal",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Dhyakki.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "After school, holidays, leisure",
+    "tags": [
+      "Outdoor",
+      "Hopscotch",
+      "Girls' Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Flat stone",
+      "Chalk or stick to draw boxes"
+    ],
+    "howToPlay": [
+      "Step 1: Draw a hopscotch grid with numbered boxes on the ground.",
+      "Step 2: Players toss a flat stone into the first box.",
+      "Step 3: Hop on one foot through the boxes, avoiding the box with the stone.",
+      "Step 4: Kick the stone to the next box while hopping.",
+      "Step 5: Continue until reaching the end and turn back.",
+      "Step 6: If successful, toss stone to next box and repeat.",
+      "Step 7: Player loses turn if stone lands on a line, both feet touch ground, or balance is lost.",
+      "Step 8: Player who completes all boxes first wins.",
+      "Step 9: Advanced players add complex patterns and faster movements.",
+      "Step 10: Singing often accompanies the game."
+    ],
+    "rating": 0,
+    "views": 3200,
+    "reviewCount": 0,
+    "likes": 1400,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

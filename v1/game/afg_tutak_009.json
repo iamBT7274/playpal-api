@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_tutak_009",
+    "title": "Tutak Bazi",
+    "description": "A game involving small clay whistles shaped like birds or animals, where children compete to create the loudest or most melodic sounds through controlled blowing techniques.",
+    "region": "Afghanistan",
+    "location": "Throughout Afghanistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Tutak%20Bazi.png",
+    "category": "Board",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Festivals, markets, playtime",
+    "tags": [
+      "Indoor",
+      "Outdoor",
+      "Musical Game",
+      "Children's Game"
+    ],
+    "equipment": [
+      "Clay whistles (Tutak)",
+      "Water (sometimes to improve sound)"
+    ],
+    "howToPlay": [
+      "Step 1: Children purchase or make small clay whistles from local potters.",
+      "Step 2: Players fill the whistle partially with water to create warbling effects.",
+      "Step 3: They take turns blowing into the whistle to produce sounds.",
+      "Step 4: Competitions judge who can create the loudest, longest, or most musical sound.",
+      "Step 5: Players develop techniques for controlling pitch and volume.",
+      "Step 6: Group performances create layered musical effects.",
+      "Step 7: Whistles are often decorated with colorful paints.",
+      "Step 8: The game teaches breath control and musical appreciation.",
+      "Step 9: Broken whistles are replaced with new ones from traveling potters.",
+      "Step 10: The tradition connects children to Afghan folk art and craftsmanship."
+    ],
+    "rating": 0,
+    "views": 902,
+    "reviewCount": 0,
+    "likes": 280,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

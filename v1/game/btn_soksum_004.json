@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_soksum_004",
+    "title": "Soksum",
+    "description": "A traditional game involving throwing a wooden stick through a moving wheel, testing timing and accuracy. Often played during festivals and celebrations.",
+    "region": "Bhutan",
+    "location": "Rural Bhutan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Soksum.png",
+    "category": "Skill",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Festivals, community events",
+    "tags": [
+      "Outdoor",
+      "Accuracy",
+      "Timing",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden wheel",
+      "Small sticks or spears"
+    ],
+    "howToPlay": [
+      "Step 1: A large wooden wheel is rolled along the ground by one player.",
+      "Step 2: Other players stand at a distance with small sticks or spears.",
+      "Step 3: As the wheel passes, players attempt to throw their sticks through the moving wheel's spokes.",
+      "Step 4: Successful throws that pass through score points.",
+      "Step 5: Players take turns rolling the wheel and throwing.",
+      "Step 6: The game requires precise timing and aim.",
+      "Step 7: Multiple rounds are played with cumulative scoring.",
+      "Step 8: Skilled players can hit the wheel consistently.",
+      "Step 9: The game tests hand-eye coordination under dynamic conditions.",
+      "Step 10: Winners receive recognition and sometimes small prizes."
+    ],
+    "rating": 0,
+    "views": 1800,
+    "reviewCount": 0,
+    "likes": 720,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

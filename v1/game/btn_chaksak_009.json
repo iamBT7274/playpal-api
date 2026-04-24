@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_chaksak_009",
+    "title": "Chaksakpar (Kite Fighting)",
+    "description": "Bhutanese kite fighting where participants fly kites and attempt to cut opponents' strings using specialized line coated with abrasive mixtures.",
+    "region": "Bhutan",
+    "location": "Throughout Bhutan, especially Thimphu valley",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Chaksakpar.png",
+    "category": "Skill",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Winter afternoons, festivals, Losar (New Year)",
+    "tags": [
+      "Outdoor",
+      "Kite Fighting",
+      "Competitive",
+      "Traditional"
+    ],
+    "equipment": [
+      "Paper kites",
+      "Manja (coated fighting string)",
+      "Spool"
+    ],
+    "howToPlay": [
+      "Step 1: Players prepare kites and coat strings with abrasive mixture.",
+      "Step 2: Kites are launched and maneuvered to gain height advantage.",
+      "Step 3: Players cross strings with opponents and cut by sawing motion.",
+      "Step 4: The loser's kite floats away, chased by children on ground.",
+      "Step 5: Skilled flyers use complex maneuvers to entangle opponents.",
+      "Step 6: Multiple kites may compete simultaneously.",
+      "Step 7: The last kite flying wins.",
+      "Step 8: Kite flying season is eagerly anticipated by children and adults.",
+      "Step 9: Different kite designs affect performance.",
+      "Step 10: The game builds patience, reflexes, and strategic thinking."
+    ],
+    "rating": 0,
+    "views": 3400,
+    "reviewCount": 0,
+    "likes": 1500,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

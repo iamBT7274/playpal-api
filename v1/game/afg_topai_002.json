@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_topai_002",
+    "title": "Topai Drana",
+    "description": "A lively horseback game where riders chase each other to snatch a traditional cap (topai) from an opponent and place it on their own head, showcasing equestrian skill and agility.",
+    "region": "Afghanistan",
+    "location": "Kandahar, Kabul, Rural villages",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Topai%20Drana.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2+",
+    "occasion": "Weddings, Nowruz, community celebrations",
+    "tags": [
+      "Outdoor",
+      "Equestrian",
+      "Agility",
+      "Festival Game"
+    ],
+    "equipment": [
+      "Horses",
+      "Traditional Afghan cap (Topai)",
+      "Riding gear"
+    ],
+    "howToPlay": [
+      "Step 1: Riders gather on a field, with one rider designated as the target wearing a distinctive cap.",
+      "Step 2: On signal, other riders chase the target rider across the field.",
+      "Step 3: The chaser must catch up and snatch the cap from the target's head without dismounting.",
+      "Step 4: Once the cap is stolen, the new wearer must evade other riders trying to take it.",
+      "Step 5: Riders use precise horsemanship to maneuver close to opponents.",
+      "Step 6: The game continues until a rider holds the cap for a predetermined time.",
+      "Step 7: Falling off the horse or dropping the cap results in temporary disqualification.",
+      "Step 8: Skilled riders perform daring maneuvers to protect or steal the cap.",
+      "Step 9: The winner is celebrated with prizes and recognition.",
+      "Step 10: Matches are accompanied by traditional music and cheering crowds."
+    ],
+    "rating": 0,
+    "views": 6200,
+    "reviewCount": 0,
+    "likes": 2100,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

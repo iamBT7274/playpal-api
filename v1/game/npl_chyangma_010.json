@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "npl_chyangma_010",
+    "title": "Chyangma",
+    "description": "A traditional game played in mountain regions using woven bamboo rings. Players throw rings at a target, competing for accuracy.",
+    "region": "Nepal",
+    "location": "Mountain regions, Himalayan areas",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Chyangma.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Leisure time, local festivals",
+    "tags": [
+      "Outdoor",
+      "Accuracy Game",
+      "Bamboo Craft",
+      "Traditional"
+    ],
+    "equipment": [
+      "Woven bamboo rings",
+      "Target stake"
+    ],
+    "howToPlay": [
+      "Step 1: Create rings by weaving bamboo strips into circles.",
+      "Step 2: Place a stake or peg in the ground at a distance.",
+      "Step 3: Players take turns throwing rings toward the stake.",
+      "Step 4: Points awarded for rings that land on or near the stake.",
+      "Step 5: Rings that encircle the stake score highest points.",
+      "Step 6: Multiple rounds are played with cumulative scoring.",
+      "Step 7: Players develop throwing accuracy and touch.",
+      "Step 8: The game uses locally available materials.",
+      "Step 9: Often played during leisure time in mountain villages.",
+      "Step 10: Winners receive recognition within the community."
+    ],
+    "rating": 0,
+    "views": 1800,
+    "reviewCount": 0,
+    "likes": 720,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

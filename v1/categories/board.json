@@ -1,0 +1,126 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "category": "Board",
+  "totalGames": 3,
+  "games": [
+    {
+      "id": "dS5h1vpJIiXiDa7oDaj5",
+      "title": "Carrom",
+      "description": "\"Carrom is a popular South Asian tabletop flick-and-pocket game, often called \"finger billiards,\" played on a square wooden board. Players use a heavier striker disc to knock lighter carrom men (coins) into four corner pockets, aiming to sink all their assigned pieces (white or black) and the red queen before their opponent.\"",
+      "region": "India",
+      "location": "India",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP19aZmzBkxI_cUsD8QR77ISrii4v6VvXXdw&s",
+      "category": "Board",
+      "intensity": "Medium",
+      "players": "4",
+      "occasion": "Family Gatherings",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Focus",
+        "Multiplayer"
+      ],
+      "equipment": [
+        "Carrom Board",
+        "Carrom Men(Coins)",
+        "Striker"
+      ],
+      "howToPlay": [
+        "Step 1: Set the board on a flat stand and sprinkle powder for smooth sliding.",
+        " Step 2: Arrange coins in the center with the red Queen in the middle. ",
+        "Step 3: Sit opposite your opponent; the person with white coins breaks first. ",
+        "Step 4: Place the striker on your baseline, touching both parallel lines. ",
+        "Step 5: Flick the striker using one finger to hit your colored coins into pockets. ",
+        "Step 6: Keep your turn as long as you continue to pocket your own coins. ",
+        "Step 7: Pocket the Queen only after you have pocketed at least one of your coins. ",
+        "Step 8: Cover the Queen by pocketing one of your own coins immediately after hitting her in.",
+        " Step 9: Pay a penalty by returning one coin to the center if you pocket the striker. ",
+        "Step 10: Win the round by being the first to pocket all your coins and the Queen."
+      ],
+      "rating": 4,
+      "views": 39,
+      "reviewCount": 5,
+      "likes": 503,
+      "createdAt": "2026-03-01T18:30:00.007Z"
+    },
+    {
+      "id": "afg_kichiri_007",
+      "title": "Kichiri Bazi",
+      "description": "A simple yet strategic game played with small pebbles, similar to jacks, requiring hand-eye coordination and quick reflexes, popular among girls and young women.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Kichiri%20Bazi.png",
+      "category": "Board",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Indoor gatherings, school breaks",
+      "tags": [
+        "Indoor",
+        "Pebble Game",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "5-7 small pebbles or stones",
+        "Flat surface"
+      ],
+      "howToPlay": [
+        "Step 1: Players sit in a circle on the floor with a set of pebbles in the center.",
+        "Step 2: The first player scatters the pebbles on the ground.",
+        "Step 3: The player tosses one pebble into the air and quickly picks up another pebble from the ground before catching the falling pebble.",
+        "Step 4: The collected pebble is set aside, and the process repeats until all pebbles are gathered.",
+        "Step 5: Advanced rounds require picking up multiple pebbles at once.",
+        "Step 6: If a player fails to catch the tossed pebble or drops collected ones, turn passes.",
+        "Step 7: Players progress through increasingly difficult levels.",
+        "Step 8: The player who successfully completes all levels first wins.",
+        "Step 9: Variations include different picking patterns and tossing techniques.",
+        "Step 10: Songs and rhymes often accompany the gameplay."
+      ],
+      "rating": 0,
+      "views": 2100,
+      "reviewCount": 0,
+      "likes": 680,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    },
+    {
+      "id": "afg_tutak_009",
+      "title": "Tutak Bazi",
+      "description": "A game involving small clay whistles shaped like birds or animals, where children compete to create the loudest or most melodic sounds through controlled blowing techniques.",
+      "region": "Afghanistan",
+      "location": "Throughout Afghanistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Tutak%20Bazi.png",
+      "category": "Board",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Festivals, markets, playtime",
+      "tags": [
+        "Indoor",
+        "Outdoor",
+        "Musical Game",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Clay whistles (Tutak)",
+        "Water (sometimes to improve sound)"
+      ],
+      "howToPlay": [
+        "Step 1: Children purchase or make small clay whistles from local potters.",
+        "Step 2: Players fill the whistle partially with water to create warbling effects.",
+        "Step 3: They take turns blowing into the whistle to produce sounds.",
+        "Step 4: Competitions judge who can create the loudest, longest, or most musical sound.",
+        "Step 5: Players develop techniques for controlling pitch and volume.",
+        "Step 6: Group performances create layered musical effects.",
+        "Step 7: Whistles are often decorated with colorful paints.",
+        "Step 8: The game teaches breath control and musical appreciation.",
+        "Step 9: Broken whistles are replaced with new ones from traveling potters.",
+        "Step 10: The tradition connects children to Afghan folk art and craftsmanship."
+      ],
+      "rating": 0,
+      "views": 902,
+      "reviewCount": 0,
+      "likes": 280,
+      "createdAt": "2026-03-17T08:25:45.415Z"
+    }
+  ]
+}

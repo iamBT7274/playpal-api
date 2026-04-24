@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_ankeliya_009",
+    "title": "Ankeliya",
+    "description": "A ritualistic traditional game where two teams use forked sticks to hook and pull an iron ring, accompanied by ceremonies and drumming. Believed to bring prosperity.",
+    "region": "Sri Lanka",
+    "location": "Central highlands, Kandyan region",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Ankeliya.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2 teams",
+    "occasion": "Religious festivals, harvest celebrations",
+    "tags": [
+      "Outdoor",
+      "Ritual Game",
+      "Traditional",
+      "Cultural"
+    ],
+    "equipment": [
+      "Iron ring",
+      "Forked sticks (Anke)",
+      "Traditional drums"
+    ],
+    "howToPlay": [
+      "Step 1: Two teams gather with specially prepared forked sticks.",
+      "Step 2: An iron ring is placed on the ground between them.",
+      "Step 3: Teams use their forked sticks to hook the ring.",
+      "Step 4: They attempt to pull the ring to their side.",
+      "Step 5: Ceremonies and drumming accompany the game.",
+      "Step 6: The game is believed to ensure good harvest.",
+      "Step 7: Requires teamwork and coordinated pulling.",
+      "Step 8: Spectators participate with chants and encouragement.",
+      "Step 9: Rituals are performed before and after the game.",
+      "Step 10: Preserves ancient cultural traditions."
+    ],
+    "rating": 0,
+    "views": 3100,
+    "reviewCount": 0,
+    "likes": 1400,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "lastUpdated": "2026-04-24T15:17:24.772Z",
+  "statistics": {
+    "totalGames": 74,
+    "totalRegions": 8,
+    "totalCategories": 7,
+    "gamesByRegion": {
+      "Sri Lanka": 8,
+      "India": 13,
+      "Nepal": 6,
+      "Afghanistan": 10,
+      "Maldives": 10,
+      "Pakistan": 9,
+      "Bangladesh": 8,
+      "Bhutan": 10
+    },
+    "gamesByCategory": {
+      "Physical": 37,
+      "Strategy": 12,
+      "Board": 3,
+      "Skill": 16,
+      "Recreational": 4,
+      "Seasonal": 1,
+      "Performance": 1
+    }
+  },
+  "categories": [
+    "Board",
+    "Performance",
+    "Physical",
+    "Recreational",
+    "Seasonal",
+    "Skill",
+    "Strategy"
+  ],
+  "regions": [
+    "Afghanistan",
+    "Bangladesh",
+    "Bhutan",
+    "India",
+    "Maldives",
+    "Nepal",
+    "Pakistan",
+    "Sri Lanka"
+  ]
+}

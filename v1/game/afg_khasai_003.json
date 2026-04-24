@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_khasai_003",
+    "title": "Khasai",
+    "description": "A traditional marble game played by children, using small glass or clay marbles, requiring precision and strategic shooting skills.",
+    "region": "Afghanistan",
+    "location": "Herat, Mazar-i-Sharif",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Khasai.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "After school, holidays, casual play",
+    "tags": [
+      "Outdoor",
+      "Marbles",
+      "Children's Game",
+      "Skill-based"
+    ],
+    "equipment": [
+      "Glass or clay marbles (Khasai)",
+      "Small hole or circle drawn on ground"
+    ],
+    "howToPlay": [
+      "Step 1: Draw a small circle on flat ground and place several marbles inside.",
+      "Step 2: Players take turns shooting their 'shooter' marble from outside the circle.",
+      "Step 3: The goal is to knock marbles out of the circle while keeping the shooter inside.",
+      "Step 4: If a player knocks a marble out, they keep it and take another turn.",
+      "Step 5: If the shooter rolls outside the circle, the turn passes to the next player.",
+      "Step 6: Players must use their thumb to flick the shooter with precision.",
+      "Step 7: Advanced players develop techniques like backspin and curve shots.",
+      "Step 8: The game ends when all marbles are cleared from the circle.",
+      "Step 9: The player with the most marbles collected wins.",
+      "Step 10: Marbles are often traded and collected as prized possessions."
+    ],
+    "rating": 0,
+    "views": 3800,
+    "reviewCount": 0,
+    "likes": 1200,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

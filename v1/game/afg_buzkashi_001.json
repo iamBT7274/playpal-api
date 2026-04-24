@@ -1,0 +1,47 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_buzkashi_001",
+    "title": "Buzkashi",
+    "description": "The national sport of Afghanistan, Buzkashi is a dramatic horseback game where skilled riders, known as 'Chapandaz,' compete to grab a headless goat or calf carcass and carry it around a flag before dropping it in a designated circle.",
+    "region": "Afghanistan",
+    "location": "Northern Provinces (Balkh, Samangan, Kunduz)",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Buzkashi.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "10+",
+    "occasion": "Festivals, weddings, Nowruz celebrations",
+    "tags": [
+      "Outdoor",
+      "Equestrian",
+      "Team Sport",
+      "High Intensity",
+      "Cultural Heritage",
+      "National Sport"
+    ],
+    "equipment": [
+      "Horses (highly trained)",
+      "Headless goat or calf carcass",
+      "Traditional riding gear",
+      "Flag markers"
+    ],
+    "howToPlay": [
+      "Step 1: Two teams line up on a large field, with a flag or circle at each end serving as the goal.",
+      "Step 2: A headless carcass is placed in the center of the field by referees.",
+      "Step 3: On signal, riders charge to grab the carcass from the ground while mounted.",
+      "Step 4: The rider who secures the carcass attempts to carry it around the opposing team's flag and drop it into their scoring circle.",
+      "Step 5: Other riders try to tackle the carrier or steal the carcass through physical combat.",
+      "Step 6: Riders must maintain control of their horses while handling the heavy carcass.",
+      "Step 7: Points are awarded when a rider successfully circles the flag and deposits the carcass.",
+      "Step 8: The game continues for several hours or until a predetermined score is reached.",
+      "Step 9: Skilled Chapandaz are celebrated as local heroes with their horses decorated elaborately.",
+      "Step 10: Matches are often accompanied by traditional music and large community gatherings."
+    ],
+    "rating": 0,
+    "views": 18707,
+    "reviewCount": 0,
+    "likes": 8900,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

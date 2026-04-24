@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_degore_002",
+    "title": "Degor (Stone Throwing)",
+    "description": "A traditional game where competitors throw flat stones across a river or open field, competing for distance and accuracy. Similar to discus throwing but using natural river stones.",
+    "region": "Bhutan",
+    "location": "Eastern Bhutan, rural villages",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Degor.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Leisure time, festivals, community gatherings",
+    "tags": [
+      "Outdoor",
+      "Stone Throwing",
+      "Strength",
+      "Accuracy"
+    ],
+    "equipment": [
+      "Flat river stones",
+      "Open field or river crossing"
+    ],
+    "howToPlay": [
+      "Step 1: Players search for flat smooth stones along riverbeds.",
+      "Step 2: A throwing line is marked on the ground.",
+      "Step 3: Players take turns throwing their stones using a spinning motion.",
+      "Step 4: Distance is measured from the throwing line to where the stone lands.",
+      "Step 5: In river versions, players throw stones to the opposite bank.",
+      "Step 6: Accuracy can be tested by aiming at specific targets.",
+      "Step 7: Stones that skip on water are admired for technique.",
+      "Step 8: The farthest throw wins the round.",
+      "Step 9: Players develop strength and throwing mechanics through practice.",
+      "Step 10: Winners may receive simple prizes or bragging rights."
+    ],
+    "rating": 0,
+    "views": 3100,
+    "reviewCount": 0,
+    "likes": 1300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

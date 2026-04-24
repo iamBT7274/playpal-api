@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_kabaddi_001",
+    "title": "Kabaddi (Pakistan Style)",
+    "description": "Pakistan's version of kabaddi, known as 'Circle Kabaddi' played in a circular field. One of the most popular traditional sports with passionate followings and international competitions.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan, especially Punjab",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+    "category": "Physical",
+    "intensity": "Very High",
+    "players": "2 teams of 8 players",
+    "occasion": "Village fairs, festivals, international tournaments",
+    "tags": [
+      "Outdoor",
+      "Contact Sport",
+      "Team Sport",
+      "National",
+      "Professional"
+    ],
+    "equipment": [
+      "Circular field",
+      "Boundary lines",
+      "Traditional uniform"
+    ],
+    "howToPlay": [
+      "Step 1: Played in a circular field instead of rectangular court.",
+      "Step 2: Two teams of eight players occupy opposite halves.",
+      "Step 3: Raider enters opponent's half chanting 'kabaddi' without taking breath.",
+      "Step 4: Raider attempts to tag defenders and return to their half.",
+      "Step 5: Defenders try to tackle the raider.",
+      "Step 6: Points scored for successful tags.",
+      "Step 7: Circle kabaddi allows more players and different tackling techniques.",
+      "Step 8: Teams alternate raiders throughout the game.",
+      "Step 9: Pakistan has strong kabaddi tradition with world-class players.",
+      "Step 10: Major tournaments held during national holidays."
+    ],
+    "rating": 0,
+    "views": 28901,
+    "reviewCount": 0,
+    "likes": 15600,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

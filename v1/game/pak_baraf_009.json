@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "pak_baraf_009",
+    "title": "Baraf Pani (Ice Water)",
+    "description": "A freeze tag variant where tagged players become 'frozen' (baraf) and must stand still until a teammate touches them to 'melt' (pani) and free them.",
+    "region": "Pakistan",
+    "location": "Throughout Pakistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Baraf%20Pani.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "5+",
+    "occasion": "School breaks, park play, family gatherings",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Children's Game",
+      "Team Game"
+    ],
+    "equipment": [
+      "Open play area",
+      "No equipment needed"
+    ],
+    "howToPlay": [
+      "Step 1: One or more players are chosen as taggers.",
+      "Step 2: When a tagger touches a player, that player becomes 'frozen' (baraf) and must stand still.",
+      "Step 3: Frozen players cannot move until a free teammate touches them.",
+      "Step 4: The touching teammate 'melts' (pani) them, allowing them to run again.",
+      "Step 5: Taggers try to freeze all players.",
+      "Step 6: Free players try to rescue frozen teammates.",
+      "Step 7: Game ends when all players are frozen.",
+      "Step 8: New taggers are chosen for next round.",
+      "Step 9: Develops teamwork and strategic movement.",
+      "Step 10: Popular in schools and neighborhoods."
+    ],
+    "rating": 0,
+    "views": 5100,
+    "reviewCount": 0,
+    "likes": 2300,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_ohvalhu_005",
+    "title": "Ohvalhu Gondi (Game of Eight Holes)",
+    "description": "A traditional mancala-style game played on a wooden board with eight holes on each side. Players distribute cowrie shells or pebbles, trying to accumulate the most in their home hole.",
+    "region": "Maldives",
+    "location": "Dhiffushi, throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Ohvalhu%20Gondi.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Evenings, family gatherings, beach leisure",
+    "tags": [
+      "Indoor",
+      "Outdoor",
+      "Board Game",
+      "Mancala",
+      "Traditional"
+    ],
+    "equipment": [
+      "Wooden board with 16 holes (8 per side)",
+      "2 larger home holes at ends",
+      "Cowrie shells or pebbles"
+    ],
+    "howToPlay": [
+      "Step 1: Each player sits on opposite sides of the board.",
+      "Step 2: Fill each of the 8 holes with an equal number of shells.",
+      "Step 3: Players take turns picking up all shells from one hole on their side.",
+      "Step 4: Distribute one shell in each subsequent hole counterclockwise.",
+      "Step 5: Skip opponent's home hole but include your own home hole.",
+      "Step 6: If last shell lands in your home hole, you get another turn.",
+      "Step 7: If last shell lands in an empty hole on your side, capture opponent's opposite hole shells.",
+      "Step 8: Game continues until all holes are empty.",
+      "Step 9: Player with most shells in their home hole wins.",
+      "Step 10: In villages, boards were drawn on beach sand using coconut shells."
+    ],
+    "rating": 0,
+    "views": 3900,
+    "reviewCount": 0,
+    "likes": 1700,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

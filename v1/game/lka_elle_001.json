@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_elle_001",
+    "title": "Elle",
+    "description": "A traditional bat-and-ball game similar to cricket and gillidanda, played with a curved stick (elle) and a wooden ball. Considered one of Sri Lanka's oldest traditional sports.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka, especially rural areas",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Elle.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2 teams of 8-15 players",
+    "occasion": "Festivals, village gatherings, Sinhala and Tamil New Year",
+    "tags": [
+      "Outdoor",
+      "Bat-and-Ball",
+      "Team Sport",
+      "Traditional",
+      "National"
+    ],
+    "equipment": [
+      "Curved wooden stick (Elle)",
+      "Wooden ball",
+      "Open field"
+    ],
+    "howToPlay": [
+      "Step 1: Two teams take positions in a large open field.",
+      "Step 2: Similar to cricket, one team bats while the other fields.",
+      "Step 3: The batter uses the curved elle stick to hit the wooden ball.",
+      "Step 4: Runs are scored by running between designated points.",
+      "Step 5: Fielders try to catch the ball or hit the wickets.",
+      "Step 6: The game requires hand-eye coordination and running speed.",
+      "Step 7: Teams switch roles after all batters are out.",
+      "Step 8: The team with most runs wins.",
+      "Step 9: Popular during traditional New Year celebrations.",
+      "Step 10: Preserved as part of Sri Lankan cultural heritage."
+    ],
+    "rating": 0,
+    "views": 8900,
+    "reviewCount": 0,
+    "likes": 4300,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

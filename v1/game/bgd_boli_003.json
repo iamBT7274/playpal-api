@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_boli_003",
+    "title": "Boli Khela (Jabbarer Boli Khela)",
+    "description": "A traditional form of wrestling introduced in the late 19th century, now a major annual event held in Chittagong during the Bengali New Year. Wrestlers compete in sandy pits before thousands of spectators.",
+    "region": "Bangladesh",
+    "location": "Chittagong, Madarsha Union, Laldighi Maidan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Boli%20Khela.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 wrestlers per match, multiple participants",
+    "occasion": "Pahela Baishakh (Bengali New Year), 7th and 12th of Boishakh",
+    "tags": [
+      "Outdoor",
+      "Wrestling",
+      "Combat Sport",
+      "Festival",
+      "Traditional"
+    ],
+    "equipment": [
+      "Sandy wrestling pit",
+      "Traditional loincloth",
+      "Oil for body"
+    ],
+    "howToPlay": [
+      "Step 1: Wrestlers enter the sandy arena accompanied by traditional music.",
+      "Step 2: They warm up and apply oil to their bodies for flexibility.",
+      "Step 3: Two wrestlers face each other and attempt to grip each other's waistbands.",
+      "Step 4: The objective is to throw the opponent onto their back on the sand.",
+      "Step 5: Matches continue until one wrestler pins the other's shoulders down.",
+      "Step 6: Skilled wrestlers use technique, strength, and leverage.",
+      "Step 7: Referees ensure fair play and declare the winner.",
+      "Step 8: Winners receive prizes and gain prestige in their communities.",
+      "Step 9: The event includes multiple matches throughout the day.",
+      "Step 10: Jabbarer Boli Khela specifically commemorates Abdul Jabbar Saodagor who organized it since 1907."
+    ],
+    "rating": 0,
+    "views": 18700,
+    "reviewCount": 0,
+    "likes": 8900,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

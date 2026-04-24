@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "btn_khuru_001",
+    "title": "Khuru (Dart Game)",
+    "description": "A traditional Bhutanese dart game played outdoors with heavy wooden darts and a small softwood target. Players throw darts underhand at a target about 20 meters away, often accompanied by friendly wagers.",
+    "region": "Bhutan",
+    "location": "Throughout Bhutan, especially rural areas",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bhutan/Khuru.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+ individuals or teams",
+    "occasion": "Festivals, gatherings, archery matches, leisure time",
+    "tags": [
+      "Outdoor",
+      "Dart Game",
+      "Accuracy",
+      "Traditional",
+      "Social Game"
+    ],
+    "equipment": [
+      "Wooden darts with nail tips",
+      "Small softwood target",
+      "Traditional Bhutanese clothing (optional)"
+    ],
+    "howToPlay": [
+      "Step 1: A small cylindrical target made of softwood is placed about 20 meters away.",
+      "Step 2: Teams or individuals gather, often with traditional drinks and snacks.",
+      "Step 3: Players take turns throwing heavy wooden darts underhand toward the target.",
+      "Step 4: The dart must stick into the target to score points.",
+      "Step 5: Points are awarded based on where the dart lands on the target.",
+      "Step 6: Teammates cheer and tease opponents in good-natured banter.",
+      "Step 7: Matches often involve small bets or prizes.",
+      "Step 8: The game requires precision and consistent throwing technique.",
+      "Step 9: Skilled players are respected in their communities.",
+      "Step 10: Khuru is often played alongside traditional archery matches."
+    ],
+    "rating": 0,
+    "views": 7200,
+    "reviewCount": 0,
+    "likes": 3400,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

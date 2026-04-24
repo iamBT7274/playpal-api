@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_kula_007",
+    "title": "Kula Gaddu (Tops Game)",
+    "description": "A traditional spinning top game where children carve wooden tops and compete in spinning duration and battling other tops.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Kula%20Gaddu.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "After school, holidays, leisure time",
+    "tags": [
+      "Outdoor",
+      "Spinning Top",
+      "Children's Game",
+      "Skill"
+    ],
+    "equipment": [
+      "Wooden spinning tops (Kula Gaddu)",
+      "String for spinning"
+    ],
+    "howToPlay": [
+      "Step 1: Children carve wooden tops from local wood or purchase them.",
+      "Step 2: Wind string around the top from bottom to top.",
+      "Step 3: Throw the top while pulling the string to make it spin.",
+      "Step 4: Compete to see whose top spins the longest.",
+      "Step 5: In battle mode, players try to knock opponents' tops out of a ring.",
+      "Step 6: Tops can be decorated with colors and patterns.",
+      "Step 7: Skilled players develop techniques for powerful spins.",
+      "Step 8: Tops that spin longest or knock out others win.",
+      "Step 9: Game develops hand-eye coordination and technique.",
+      "Step 10: Winners collect opponents' tops as prizes."
+    ],
+    "rating": 0,
+    "views": 3400,
+    "reviewCount": 0,
+    "likes": 1500,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_pancha_004",
+    "title": "Pancha Demeema",
+    "description": "A traditional game played with five small seashells, a coconut shell, and a pancha chart. Tests hand-eye coordination and counting skills.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Pancha%20Demeema.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Avurudu, family gatherings, leisure",
+    "tags": [
+      "Indoor",
+      "Seashell Game",
+      "Skill",
+      "Traditional"
+    ],
+    "equipment": [
+      "5 small seashells",
+      "Coconut shell",
+      "Pancha chart"
+    ],
+    "howToPlay": [
+      "Step 1: Players sit around a flat surface with the equipment.",
+      "Step 2: Seashells are tossed and patterns are observed.",
+      "Step 3: Points are awarded based on how shells land.",
+      "Step 4: The coconut shell is used as a target or container.",
+      "Step 5: Players take turns tossing and collecting.",
+      "Step 6: The pancha chart guides scoring.",
+      "Step 7: Requires concentration and precise tossing.",
+      "Step 8: Often played during Avurudu celebrations.",
+      "Step 9: Passed down through generations.",
+      "Step 10: Combines chance with skill."
+    ],
+    "rating": 0,
+    "views": 3401,
+    "reviewCount": 0,
+    "likes": 1400,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_ekka_008",
+    "title": "Ekka-Dokka",
+    "description": "A traditional hopscotch variant primarily played by girls, using a broken piece of earthen pot (guti). Players hop through numbered boxes while singing a melodious rhyme, kicking the guti through each section.",
+    "region": "Bangladesh",
+    "location": "Rural areas, villages",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Ekka-Dokka.png",
+    "category": "Skill",
+    "intensity": "Low",
+    "players": "2+",
+    "occasion": "Afternoons, festivals, leisure time",
+    "tags": [
+      "Outdoor",
+      "Hopscotch",
+      "Girls' Game",
+      "Traditional",
+      "Singing Game"
+    ],
+    "equipment": [
+      "Broken earthen pot piece (guti)",
+      "Chalk or stick to draw boxes"
+    ],
+    "howToPlay": [
+      "Step 1: Draw a large rectangle divided into six boxes on the ground.",
+      "Step 2: Name the boxes: ek-er ghor (first), dui-er ghor (second), etc., with the last called samundra.",
+      "Step 3: Players roll their guti into the first box while standing outside.",
+      "Step 4: Hop on one foot and kick the guti from box to box in sequence.",
+      "Step 5: Continue until reaching the fifth box, then return to start.",
+      "Step 6: After completing, roll the guti to the second box and repeat.",
+      "Step 7: Players sing the ekka-dokka melody throughout the game.",
+      "Step 8: Elimination occurs if guti lands on a line, wrong box, or both feet touch ground.",
+      "Step 9: The player who completes all boxes successfully wins.",
+      "Step 10: Advanced players add complex patterns and faster movements."
+    ],
+    "rating": 0,
+    "views": 1800,
+    "reviewCount": 0,
+    "likes": 620,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

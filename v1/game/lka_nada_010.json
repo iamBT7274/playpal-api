@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_nada_010",
+    "title": "Nada Gaman",
+    "description": "Traditional stilt walking competitions where participants race or perform on wooden stilts. Tests balance, coordination, and endurance.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Nada%20Gaman.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "Festivals, Avurudu, village fairs",
+    "tags": [
+      "Outdoor",
+      "Balance Game",
+      "Traditional",
+      "Competitive"
+    ],
+    "equipment": [
+      "Wooden stilts",
+      "Open field"
+    ],
+    "howToPlay": [
+      "Step 1: Players construct or obtain wooden stilts with footrests.",
+      "Step 2: They practice walking and balancing on stilts.",
+      "Step 3: Races are held over set distances.",
+      "Step 4: Players compete for speed while maintaining balance.",
+      "Step 5: Trick competitions involve stunts and maneuvers.",
+      "Step 6: Falling off results in disqualification.",
+      "Step 7: Endurance contests see who can stay on stilts longest.",
+      "Step 8: Develops core strength and balance.",
+      "Step 9: Popular during village festivals.",
+      "Step 10: Winners receive prizes and recognition."
+    ],
+    "rating": 0,
+    "views": 2601,
+    "reviewCount": 0,
+    "likes": 1100,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

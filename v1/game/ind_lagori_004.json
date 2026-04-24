@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_lagori_004",
+    "title": "Lagori (Seven Stones)",
+    "description": "An ancient game dating back 5 millennia, mentioned in Bhagavata Purana. A team throws a ball at a pile of seven stones to knock them down, then tries to rebuild the pile while opponents throw the ball at them.",
+    "region": "India",
+    "location": "Throughout India, especially South India, Maharashtra",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Lagori%20(Seven%20Stones.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams of 3-9 players",
+    "occasion": "Evenings, festivals, school breaks",
+    "tags": [
+      "Outdoor",
+      "Ball Game",
+      "Team Sport",
+      "Ancient",
+      "Dodgeball"
+    ],
+    "equipment": [
+      "7 flat stones",
+      "Soft ball (tennis ball or rubber ball)",
+      "Open area"
+    ],
+    "howToPlay": [
+      "Step 1: Stack seven flat stones in a pile.",
+      "Step 2: One team throws the ball to knock down the stone pile.",
+      "Step 3: The throwing team tries to rebuild the pile while opponents throw the ball to hit them.",
+      "Step 4: If hit by the ball, that player is out.",
+      "Step 5: The rebuilding team must avoid being hit while stacking stones.",
+      "Step 6: If the pile is successfully rebuilt, the team scores points.",
+      "Step 7: Teams then switch roles.",
+      "Step 8: The game requires speed, accuracy, and teamwork.",
+      "Step 9: Players can catch the ball to eliminate throwers.",
+      "Step 10: Multiple rounds determine the winner."
+    ],
+    "rating": 0,
+    "views": 19703,
+    "reviewCount": 0,
+    "likes": 10300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

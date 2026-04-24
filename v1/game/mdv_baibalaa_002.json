@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_baibalaa_002",
+    "title": "Baibalaa",
+    "description": "A rugged physical sport similar to kabaddi but played in a circular ring on soft sand. Combines elements of tag and wrestling as players attempt to tag opponents and escape.",
+    "region": "Maldives",
+    "location": "Throughout Maldives, beach areas",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Baibalaa.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams",
+    "occasion": "Eid al-Adha, national tournaments, beach gatherings",
+    "tags": [
+      "Outdoor",
+      "Contact Sport",
+      "Beach Game",
+      "Traditional"
+    ],
+    "equipment": [
+      "Circular ring on sand",
+      "No special equipment"
+    ],
+    "howToPlay": [
+      "Step 1: A circular ring is marked on soft beach sand.",
+      "Step 2: One team stands inside the ring, the other outside.",
+      "Step 3: A player from outside enters the ring to tag opponents.",
+      "Step 4: The entering player must physically touch an opponent.",
+      "Step 5: Inside team tries to capture and hold the attacker.",
+      "Step 6: Captured players signal surrender and are out for the round.",
+      "Step 7: Attackers earn points for successful tags and escapes.",
+      "Step 8: Teams alternate roles each round.",
+      "Step 9: Soft sand minimizes injury from falls.",
+      "Step 10: Annual national tournaments are held during Eid."
+    ],
+    "rating": 0,
+    "views": 7200,
+    "reviewCount": 0,
+    "likes": 3400,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

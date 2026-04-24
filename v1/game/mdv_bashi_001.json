@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_bashi_001",
+    "title": "Bashi",
+    "description": "The former national sport of the Maldives, a women's-only game similar to tennis and dodgeball played on sand courts. Players hit a ball over a net and attempt to eliminate opponents by catching.",
+    "region": "Maldives",
+    "location": "Throughout Maldives, especially Fodhdhoo",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Bashi.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2 teams of 7 or 11 players",
+    "occasion": "Eid celebrations, national holidays, tournaments",
+    "tags": [
+      "Outdoor",
+      "Women's Sport",
+      "Ball Game",
+      "National Sport",
+      "Beach Game"
+    ],
+    "equipment": [
+      "Sand court with net",
+      "Tennis ball (historically rolled coconut leaves)",
+      "Rackets (modern) or bare hands (traditional)"
+    ],
+    "howToPlay": [
+      "Step 1: Teams of 7-11 players take positions on a sand court divided by a net.",
+      "Step 2: One pitcher stands with back to the net and hits the ball over their head.",
+      "Step 3: Opposing team tries to catch the ball without it touching the ground.",
+      "Step 4: Each successful catch eliminates the pitcher.",
+      "Step 5: Pitchers continue until entire team is out.",
+      "Step 6: Each pitcher gets 12 chances before being rotated.",
+      "Step 7: Four bonus points awarded if a pitcher continues without losing.",
+      "Step 8: Game consists of two innings with teams alternating roles.",
+      "Step 9: Points scored for successful catches and plays.",
+      "Step 10: Team with most points wins."
+    ],
+    "rating": 0,
+    "views": 8900,
+    "reviewCount": 0,
+    "likes": 4300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

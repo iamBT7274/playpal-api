@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_kotta_002",
+    "title": "Kotta Pora",
+    "description": "A thrilling traditional game where two competitors sit on a horizontal pole suspended over mud or water and attempt to knock each other off using pillows. Tests balance and strength.",
+    "region": "Sri Lanka",
+    "location": "Throughout Sri Lanka, especially during festivals",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Kotta%20Pora%20(Pillow%20Fight%20).png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2",
+    "occasion": "Sinhala and Tamil New Year, village festivals",
+    "tags": [
+      "Outdoor",
+      "Combat Game",
+      "Balance",
+      "Festival",
+      "Spectator Sport"
+    ],
+    "equipment": [
+      "Horizontal pole suspended over mud/water",
+      "Pillows",
+      "Soft landing area (mud or water)"
+    ],
+    "howToPlay": [
+      "Step 1: A long horizontal pole is suspended over a mud pit or water body.",
+      "Step 2: Two competitors sit astride the pole, facing each other.",
+      "Step 3: Each player holds a pillow as their weapon.",
+      "Step 4: Players take turns striking each other with pillows.",
+      "Step 5: The objective is to knock the opponent off the pole.",
+      "Step 6: Players must maintain balance while striking and defending.",
+      "Step 7: The last person remaining on the pole wins.",
+      "Step 8: Falls are cushioned by mud or water below.",
+      "Step 9: The game draws large crowds during festivals.",
+      "Step 10: Winners receive prizes and community recognition."
+    ],
+    "rating": 0,
+    "views": 12401,
+    "reviewCount": 0,
+    "likes": 6200,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

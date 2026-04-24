@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_khokho_002",
+    "title": "Kho-Kho",
+    "description": "A ancient tag game dating back to 4th century BC, where chasing team members sit in a row and pass turns by touching seated teammates while chasing runners.",
+    "region": "India",
+    "location": "Throughout India, especially Maharashtra",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kho-Kho.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams of 12 players (9 on field)",
+    "occasion": "School sports, tournaments, rural gatherings",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Team Sport",
+      "Ancient",
+      "Speed"
+    ],
+    "equipment": [
+      "Rectangular court",
+      "Two poles at ends",
+      "Uniforms"
+    ],
+    "howToPlay": [
+      "Step 1: A rectangular court has a central lane with two poles at ends.",
+      "Step 2: Chasing team has 9 players on field, 8 sitting in central lane alternately facing opposite directions.",
+      "Step 3: One active chaser runs and tries to tag defending runners.",
+      "Step 4: Active chaser cannot cross central lane or change direction once running toward a pole.",
+      "Step 5: To change direction or halves, chaser must run behind a pole or tag a seated teammate saying 'Kho'.",
+      "Step 6: Tagged defenders leave the field.",
+      "Step 7: Each team gets two turns of 9 minutes each.",
+      "Step 8: Runners try to avoid tags using speed and agility.",
+      "Step 9: Points scored for each successful tag.",
+      "Step 10: Team with highest score wins."
+    ],
+    "rating": 0,
+    "views": 32410,
+    "reviewCount": 0,
+    "likes": 18900,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PlayPal API — Traditional Games from South Asia</title>
+  <meta name="description" content="Free open-source REST API providing data on 74+ traditional games from 8 South Asian countries.">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    * { margin:0; padding:0; box-sizing:border-box; }
+    :root {
+      --bg: #0a0f1a; --surface: #111827; --surface2: #1e293b;
+      --border: #1e293b; --border2: #334155;
+      --text: #f1f5f9; --text2: #94a3b8; --text3: #64748b;
+      --teal: #0d9488; --teal-glow: #14b8a6; --teal-bg: rgba(13,148,136,.1);
+      --amber: #f59e0b; --rose: #f43f5e; --violet: #8b5cf6;
+      --radius: 16px; --code-bg: #0d1117;
+    }
+    body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--text); line-height:1.7; }
+    a { color:var(--teal-glow); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    code, .mono { font-family:'JetBrains Mono',monospace; }
+
+    .hero {
+      text-align:center; padding:80px 20px 60px;
+      background: radial-gradient(ellipse at 50% 0%, rgba(13,148,136,.15) 0%, transparent 60%);
+    }
+    .hero-badge { display:inline-block; padding:6px 16px; border-radius:99px; font-size:13px; font-weight:600; background:var(--teal-bg); color:var(--teal-glow); border:1px solid rgba(13,148,136,.3); margin-bottom:20px; }
+    .hero h1 { font-size:clamp(2.2rem,5vw,3.8rem); font-weight:900; letter-spacing:-1.5px; margin-bottom:12px; }
+    .hero h1 span { background:linear-gradient(135deg,var(--teal-glow),var(--amber)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+    .hero p { font-size:18px; color:var(--text2); max-width:600px; margin:0 auto 32px; }
+    .hero-stats { display:flex; gap:32px; justify-content:center; flex-wrap:wrap; }
+    .hero-stat { text-align:center; }
+    .hero-stat .num { font-size:32px; font-weight:800; color:var(--teal-glow); }
+    .hero-stat .label { font-size:13px; color:var(--text3); font-weight:500; }
+
+    .container { max-width:900px; margin:0 auto; padding:0 20px; }
+
+    .section { margin-bottom:64px; }
+    .section-title { font-size:24px; font-weight:800; margin-bottom:8px; letter-spacing:-.5px; }
+    .section-sub { color:var(--text2); margin-bottom:24px; font-size:15px; }
+
+    .base-url-box {
+      background:var(--surface); border:1px solid var(--border2); border-radius:var(--radius);
+      padding:20px 24px; margin-bottom:40px; display:flex; align-items:center; gap:12px; flex-wrap:wrap;
+    }
+    .base-url-box .label { font-size:12px; font-weight:600; color:var(--text3); text-transform:uppercase; letter-spacing:1px; }
+    .base-url-box code { font-size:16px; color:var(--teal-glow); background:var(--teal-bg); padding:6px 14px; border-radius:8px; }
+
+    .endpoint-card {
+      background:var(--surface); border:1px solid var(--border); border-radius:var(--radius);
+      margin-bottom:16px; overflow:hidden; transition:border-color .2s;
+    }
+    .endpoint-card:hover { border-color:var(--border2); }
+    .ep-header { padding:18px 24px; display:flex; align-items:center; gap:12px; cursor:pointer; }
+    .ep-method { font-size:11px; font-weight:700; padding:4px 10px; border-radius:6px; background:#064e3b; color:#34d399; letter-spacing:.5px; }
+    .ep-path { font-family:'JetBrains Mono',monospace; font-size:14px; color:var(--text); }
+    .ep-desc { font-size:13px; color:var(--text3); margin-left:auto; }
+    .ep-body { padding:0 24px 20px; display:none; border-top:1px solid var(--border); }
+    .ep-body.open { display:block; padding-top:16px; }
+    .ep-body p { font-size:14px; color:var(--text2); margin-bottom:12px; }
+
+    .code-block {
+      background:var(--code-bg); border:1px solid var(--border); border-radius:12px;
+      padding:16px 20px; overflow-x:auto; font-size:13px; line-height:1.6; margin:12px 0;
+      position:relative;
+    }
+    .code-block .lang { position:absolute; top:8px; right:12px; font-size:11px; color:var(--text3); font-weight:600; }
+    .code-block pre { margin:0; white-space:pre; }
+    .code-block .k { color:#ff7b72; } .code-block .s { color:#a5d6ff; }
+    .code-block .c { color:#8b949e; } .code-block .f { color:#d2a8ff; }
+    .code-block .v { color:#79c0ff; } .code-block .n { color:#ffa657; }
+
+    .field-table { width:100%; border-collapse:collapse; margin:16px 0; font-size:14px; }
+    .field-table th { text-align:left; padding:10px 12px; border-bottom:2px solid var(--border2); color:var(--text3); font-size:12px; text-transform:uppercase; letter-spacing:.5px; }
+    .field-table td { padding:10px 12px; border-bottom:1px solid var(--border); }
+    .field-table .fname { font-family:'JetBrains Mono',monospace; color:var(--teal-glow); font-size:13px; }
+    .field-table .ftype { font-size:12px; color:var(--amber); background:rgba(245,158,11,.1); padding:2px 8px; border-radius:4px; }
+
+    .tag-list { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
+    .tag { padding:6px 14px; border-radius:8px; font-size:13px; font-weight:500; background:var(--surface2); color:var(--text2); border:1px solid var(--border); }
+
+    .steps { counter-reset:step; margin:40px 0; }
+    .step { display:flex; gap:16px; margin-bottom:24px; align-items:flex-start; }
+    .step::before { counter-increment:step; content:counter(step); min-width:36px; height:36px; display:flex; align-items:center; justify-content:center; border-radius:10px; background:var(--teal-bg); color:var(--teal-glow); font-weight:800; font-size:15px; border:1px solid rgba(13,148,136,.3); }
+    .step-content h3 { font-size:16px; font-weight:700; margin-bottom:4px; }
+    .step-content p { font-size:14px; color:var(--text2); }
+
+    footer { text-align:center; padding:40px 20px; border-top:1px solid var(--border); color:var(--text3); font-size:13px; }
+    @media(max-width:640px) { .ep-desc { display:none; } .hero-stats { gap:20px; } }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <div class="hero-badge">v1.0.0 — Open Source & Free</div>
+  <h1><span>PlayPal</span> API</h1>
+  <p>A free, open REST API serving 74+ traditional games from 8 South Asian countries. No API key required.</p>
+  <div class="hero-stats">
+    <div class="hero-stat"><div class="num">74</div><div class="label">Games</div></div>
+    <div class="hero-stat"><div class="num">8</div><div class="label">Regions</div></div>
+    <div class="hero-stat"><div class="num">7</div><div class="label">Categories</div></div>
+    <div class="hero-stat"><div class="num">0</div><div class="label">API Keys Needed</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="base-url-box">
+    <div class="label">Base URL</div>
+    <code id="baseUrl">https://iamBT7274.github.io/playpal-api/v1</code>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Endpoints</div>
+    <div class="section-sub">All endpoints return JSON. No authentication required. CORS enabled.</div>
+
+    <div class="endpoint-card" onclick="toggle(this)">
+      <div class="ep-header">
+        <span class="ep-method">GET</span>
+        <span class="ep-path">/v1/games.json</span>
+        <span class="ep-desc">All games with metadata</span>
+      </div>
+      <div class="ep-body">
+        <p>Returns every game in the database along with API metadata, statistics, and available categories/regions.</p>
+        <div class="code-block"><span class="lang">Example</span><pre><span class="f">fetch</span>(<span class="s">'https://iamBT7274.github.io/playpal-api/v1/games.json'</span>)
+  .<span class="f">then</span>(<span class="v">res</span> => <span class="v">res</span>.<span class="f">json</span>())
+  .<span class="f">then</span>(<span class="v">data</span> => <span class="v">console</span>.<span class="f">log</span>(<span class="v">data</span>.<span class="v">games</span>));</pre></div>
+      </div>
+    </div>
+
+    <div class="endpoint-card" onclick="toggle(this)">
+      <div class="ep-header">
+        <span class="ep-method">GET</span>
+        <span class="ep-path">/v1/stats.json</span>
+        <span class="ep-desc">Statistics & metadata only</span>
+      </div>
+      <div class="ep-body">
+        <p>Lightweight endpoint returning only stats: game counts by region, by category, and available filter values.</p>
+      </div>
+    </div>
+
+    <div class="endpoint-card" onclick="toggle(this)">
+      <div class="ep-header">
+        <span class="ep-method">GET</span>
+        <span class="ep-path">/v1/regions/{region}.json</span>
+        <span class="ep-desc">Games from a specific region</span>
+      </div>
+      <div class="ep-body">
+        <p>Returns all games from a given region. Region names are lowercase with hyphens.</p>
+        <div class="tag-list">
+          <span class="tag">afghanistan</span><span class="tag">bangladesh</span><span class="tag">bhutan</span>
+          <span class="tag">india</span><span class="tag">maldives</span><span class="tag">nepal</span>
+          <span class="tag">pakistan</span><span class="tag">sri-lanka</span>
+        </div>
+        <div class="code-block"><span class="lang">Example</span><pre><span class="f">fetch</span>(<span class="s">'https://iamBT7274.github.io/playpal-api/v1/regions/india.json'</span>)
+  .<span class="f">then</span>(<span class="v">res</span> => <span class="v">res</span>.<span class="f">json</span>())
+  .<span class="f">then</span>(<span class="v">data</span> => <span class="v">console</span>.<span class="f">log</span>(<span class="v">data</span>.<span class="v">games</span>));</pre></div>
+      </div>
+    </div>
+
+    <div class="endpoint-card" onclick="toggle(this)">
+      <div class="ep-header">
+        <span class="ep-method">GET</span>
+        <span class="ep-path">/v1/categories/{category}.json</span>
+        <span class="ep-desc">Games by category</span>
+      </div>
+      <div class="ep-body">
+        <p>Returns all games in a specific category.</p>
+        <div class="tag-list">
+          <span class="tag">board</span><span class="tag">performance</span><span class="tag">physical</span>
+          <span class="tag">recreational</span><span class="tag">seasonal</span><span class="tag">skill</span>
+          <span class="tag">strategy</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="endpoint-card" onclick="toggle(this)">
+      <div class="ep-header">
+        <span class="ep-method">GET</span>
+        <span class="ep-path">/v1/game/{id}.json</span>
+        <span class="ep-desc">Single game by ID</span>
+      </div>
+      <div class="ep-body">
+        <p>Returns full details for one game using its document ID.</p>
+        <div class="code-block"><span class="lang">Example</span><pre><span class="f">fetch</span>(<span class="s">'https://iamBT7274.github.io/playpal-api/v1/game/afg_buzkashi_001.json'</span>)
+  .<span class="f">then</span>(<span class="v">res</span> => <span class="v">res</span>.<span class="f">json</span>())
+  .<span class="f">then</span>(<span class="v">data</span> => <span class="v">console</span>.<span class="f">log</span>(<span class="v">data</span>.<span class="v">game</span>));</pre></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Game Object Schema</div>
+    <div class="section-sub">Each game object contains the following fields.</div>
+    <table class="field-table">
+      <thead><tr><th>Field</th><th>Type</th><th>Description</th></tr></thead>
+      <tbody>
+        <tr><td class="fname">id</td><td><span class="ftype">string</span></td><td>Unique identifier</td></tr>
+        <tr><td class="fname">title</td><td><span class="ftype">string</span></td><td>Game name</td></tr>
+        <tr><td class="fname">description</td><td><span class="ftype">string</span></td><td>Detailed description of the game</td></tr>
+        <tr><td class="fname">region</td><td><span class="ftype">string</span></td><td>Country / region of origin</td></tr>
+        <tr><td class="fname">location</td><td><span class="ftype">string</span></td><td>Specific location within the region</td></tr>
+        <tr><td class="fname">imageUrl</td><td><span class="ftype">string</span></td><td>URL to the game's image</td></tr>
+        <tr><td class="fname">category</td><td><span class="ftype">string</span></td><td>Game category (Physical, Strategy, Board, etc.)</td></tr>
+        <tr><td class="fname">intensity</td><td><span class="ftype">string</span></td><td>Physical intensity level (Low, Medium, High)</td></tr>
+        <tr><td class="fname">players</td><td><span class="ftype">string</span></td><td>Number of players required</td></tr>
+        <tr><td class="fname">occasion</td><td><span class="ftype">string</span></td><td>When the game is typically played</td></tr>
+        <tr><td class="fname">tags</td><td><span class="ftype">string[]</span></td><td>Descriptive tags</td></tr>
+        <tr><td class="fname">equipment</td><td><span class="ftype">string[]</span></td><td>Equipment needed to play</td></tr>
+        <tr><td class="fname">howToPlay</td><td><span class="ftype">string[]</span></td><td>Step-by-step instructions</td></tr>
+        <tr><td class="fname">rating</td><td><span class="ftype">number</span></td><td>Average user rating (0–5)</td></tr>
+        <tr><td class="fname">views</td><td><span class="ftype">number</span></td><td>Total view count</td></tr>
+        <tr><td class="fname">likes</td><td><span class="ftype">number</span></td><td>Total likes</td></tr>
+        <tr><td class="fname">reviewCount</td><td><span class="ftype">number</span></td><td>Number of reviews</td></tr>
+        <tr><td class="fname">createdAt</td><td><span class="ftype">string</span></td><td>ISO 8601 timestamp</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Quick Start Examples</div>
+    <div class="section-sub">Use from any language or framework — no API key, no signup.</div>
+
+    <p style="font-weight:700;margin-bottom:8px;">JavaScript (Browser / Node)</p>
+    <div class="code-block"><span class="lang">JS</span><pre><span class="k">const</span> BASE = <span class="s">'https://iamBT7274.github.io/playpal-api/v1'</span>;
+
+<span class="c">// Get all games</span>
+<span class="k">const</span> all = <span class="k">await</span> <span class="f">fetch</span>(<span class="s">`${BASE}/games.json`</span>).<span class="f">then</span>(<span class="v">r</span> => <span class="v">r</span>.<span class="f">json</span>());
+
+<span class="c">// Filter by region</span>
+<span class="k">const</span> indian = <span class="k">await</span> <span class="f">fetch</span>(<span class="s">`${BASE}/regions/india.json`</span>).<span class="f">then</span>(<span class="v">r</span> => <span class="v">r</span>.<span class="f">json</span>());
+
+<span class="c">// Get a single game</span>
+<span class="k">const</span> game = <span class="k">await</span> <span class="f">fetch</span>(<span class="s">`${BASE}/game/afg_buzkashi_001.json`</span>).<span class="f">then</span>(<span class="v">r</span> => <span class="v">r</span>.<span class="f">json</span>());</pre></div>
+
+    <p style="font-weight:700;margin:20px 0 8px;">Python</p>
+    <div class="code-block"><span class="lang">Python</span><pre><span class="k">import</span> requests
+
+BASE = <span class="s">"https://iamBT7274.github.io/playpal-api/v1"</span>
+
+<span class="c"># Get all games</span>
+data = requests.<span class="f">get</span>(f<span class="s">"{BASE}/games.json"</span>).<span class="f">json</span>()
+<span class="k">for</span> game <span class="k">in</span> data[<span class="s">"games"</span>]:
+    <span class="f">print</span>(game[<span class="s">"title"</span>], <span class="s">"-"</span>, game[<span class="s">"region"</span>])</pre></div>
+
+    <p style="font-weight:700;margin:20px 0 8px;">Flutter / Dart</p>
+    <div class="code-block"><span class="lang">Dart</span><pre><span class="k">import</span> <span class="s">'package:http/http.dart'</span> <span class="k">as</span> http;
+<span class="k">import</span> <span class="s">'dart:convert'</span>;
+
+<span class="k">final</span> res = <span class="k">await</span> http.<span class="f">get</span>(Uri.<span class="f">parse</span>(
+  <span class="s">'https://iamBT7274.github.io/playpal-api/v1/games.json'</span>
+));
+<span class="k">final</span> data = <span class="f">jsonDecode</span>(res.body);
+<span class="k">final</span> games = data[<span class="s">'games'</span>] <span class="k">as</span> List;</pre></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">How to Host This API</div>
+    <div class="section-sub">Deploy on GitHub Pages in 5 minutes — free forever.</div>
+    <div class="steps">
+      <div class="step"><div class="step-content">
+        <h3>Create a new GitHub repository</h3>
+        <p>Go to github.com → New Repository → name it <code>playpal-api</code> → Public → Create</p>
+      </div></div>
+      <div class="step"><div class="step-content">
+        <h3>Push the api folder</h3>
+        <p>From your <code>playpal/api</code> folder, run the git commands shown below to push everything.</p>
+      </div></div>
+      <div class="step"><div class="step-content">
+        <h3>Enable GitHub Pages</h3>
+        <p>Go to repo Settings → Pages → Source: "Deploy from a branch" → Branch: <code>main</code>, folder: <code>/ (root)</code> → Save</p>
+      </div></div>
+      <div class="step"><div class="step-content">
+        <h3>Access your API</h3>
+        <p>Your API will be live at <code>https://iamBT7274.github.io/playpal-api/v1/games.json</code> within a few minutes!</p>
+      </div></div>
+    </div>
+
+    <p style="font-weight:700;margin-bottom:8px;">Git Commands</p>
+    <div class="code-block"><span class="lang">Terminal</span><pre><span class="c"># Run these from the playpal/api folder</span>
+<span class="v">cd</span> api
+git init
+git add .
+git commit -m <span class="s">"Initial PlayPal API release v1.0.0"</span>
+git branch -M main
+git remote add origin https://github.com/iamBT7274/playpal-api.git
+git push -u origin main</pre></div>
+  </div>
+
+</div>
+
+<footer>
+  <p>PlayPal API v1.0.0 — Built with ❤ for preserving traditional games</p>
+  <p style="margin-top:4px;">Open source under MIT License</p>
+</footer>
+
+<script>
+function toggle(card) {
+  const body = card.querySelector('.ep-body');
+  body.classList.toggle('open');
+}
+</script>
+</body>
+</html>

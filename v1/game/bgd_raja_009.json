@@ -1,0 +1,45 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_raja_009",
+    "title": "Raja-Chor-Mantri-Sipahi (King-Thief-Minister-Soldier)",
+    "description": "A role-playing game where four players randomly draw roles of Raja (King), Mantri (Minister), Chor (Thief), and Sipahi (Soldier). The Minister must correctly identify the Thief based on clues.",
+    "region": "Bangladesh",
+    "location": "Throughout Bangladesh",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Raja-Chor-Mantri-Sipahi.png",
+    "category": "Strategy",
+    "intensity": "Low",
+    "players": "4 (can be adapted for more)",
+    "occasion": "Indoor gatherings, rainy days, school breaks",
+    "tags": [
+      "Indoor",
+      "Role-playing",
+      "Party Game",
+      "Children's Game",
+      "Strategy"
+    ],
+    "equipment": [
+      "Small paper slips",
+      "Pen",
+      "Notebook for scoring"
+    ],
+    "howToPlay": [
+      "Step 1: Write 'Raja', 'Mantri', 'Chor', and 'Sipahi' on separate slips of paper.",
+      "Step 2: Four players each pick a slip without showing others.",
+      "Step 3: The player who gets 'Raja' reveals their identity and sits as the King.",
+      "Step 4: The 'Mantri' (Minister) must guess which of the remaining two players is the 'Chor' (Thief).",
+      "Step 5: The 'Sipahi' (Soldier) and 'Chor' maintain neutral expressions.",
+      "Step 6: The Mantri asks questions or observes behavior to deduce the Chor.",
+      "Step 7: Raja awards points: Mantri gets 500 points if correct; if wrong, Chor gets the Mantri's 500 points.",
+      "Step 8: Raja gets 1000 points automatically, Sipahi gets 100 points.",
+      "Step 9: Roles are shuffled and the game repeats for multiple rounds.",
+      "Step 10: The player with the highest total points after predetermined rounds wins."
+    ],
+    "rating": 0,
+    "views": 4300,
+    "reviewCount": 0,
+    "likes": 1900,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "npl_kabbadi_008",
+    "title": "Kabbadi (Nepali Style)",
+    "description": "Nepali variation of kabaddi with slightly modified rules, particularly popular in rural areas and school competitions.",
+    "region": "Nepal",
+    "location": "Throughout Nepal",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Kabbadi%20(Nepali%20Style).png",
+    "category": "Physical",
+    "intensity": "Very High",
+    "players": "2 teams of 7 players",
+    "occasion": "School sports, village tournaments, festivals",
+    "tags": [
+      "Outdoor",
+      "Contact Sport",
+      "Team Sport",
+      "Traditional"
+    ],
+    "equipment": [
+      "Playing court",
+      "Boundary lines",
+      "Uniforms"
+    ],
+    "howToPlay": [
+      "Step 1: Similar to standard kabaddi with minor rule variations by region.",
+      "Step 2: Two teams of seven occupy opposite halves of a rectangular court.",
+      "Step 3: One team sends a raider into opponent's half chanting 'kabbadi'.",
+      "Step 4: Raider attempts to tag defenders and return to their half.",
+      "Step 5: Defenders try to tackle the raider.",
+      "Step 6: Points scored for successful tags.",
+      "Step 7: Teams alternate raiders throughout the game.",
+      "Step 8: Local rules may vary regarding breathing and tackling.",
+      "Step 9: Popular in both rural and urban areas.",
+      "Step 10: Featured in school-level competitions."
+    ],
+    "rating": 0,
+    "views": 8900,
+    "reviewCount": 0,
+    "likes": 4200,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}

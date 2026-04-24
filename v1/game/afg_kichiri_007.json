@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_kichiri_007",
+    "title": "Kichiri Bazi",
+    "description": "A simple yet strategic game played with small pebbles, similar to jacks, requiring hand-eye coordination and quick reflexes, popular among girls and young women.",
+    "region": "Afghanistan",
+    "location": "Throughout Afghanistan",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Kichiri%20Bazi.png",
+    "category": "Board",
+    "intensity": "Low",
+    "players": "2",
+    "occasion": "Indoor gatherings, school breaks",
+    "tags": [
+      "Indoor",
+      "Pebble Game",
+      "Children's Game",
+      "Skill"
+    ],
+    "equipment": [
+      "5-7 small pebbles or stones",
+      "Flat surface"
+    ],
+    "howToPlay": [
+      "Step 1: Players sit in a circle on the floor with a set of pebbles in the center.",
+      "Step 2: The first player scatters the pebbles on the ground.",
+      "Step 3: The player tosses one pebble into the air and quickly picks up another pebble from the ground before catching the falling pebble.",
+      "Step 4: The collected pebble is set aside, and the process repeats until all pebbles are gathered.",
+      "Step 5: Advanced rounds require picking up multiple pebbles at once.",
+      "Step 6: If a player fails to catch the tossed pebble or drops collected ones, turn passes.",
+      "Step 7: Players progress through increasingly difficult levels.",
+      "Step 8: The player who successfully completes all levels first wins.",
+      "Step 9: Variations include different picking patterns and tossing techniques.",
+      "Step 10: Songs and rhymes often accompany the gameplay."
+    ],
+    "rating": 0,
+    "views": 2100,
+    "reviewCount": 0,
+    "likes": 680,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

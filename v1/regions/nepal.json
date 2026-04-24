@@ -1,0 +1,246 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "region": "Nepal",
+  "totalGames": 6,
+  "games": [
+    {
+      "id": "npl_bagh_002",
+      "title": "Bagh Chal (Tiger Game)",
+      "description": "A traditional strategic board game representing tigers hunting goats. Four tigers attempt to capture goats while twenty goats try to trap the tigers. Deeply rooted in Nepali culture.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Bagh%20Chal.png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2",
+      "occasion": "Evenings, family gatherings, teahouses",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Strategy",
+        "National Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Wooden board with cross and diagonal lines",
+        "4 tiger pieces",
+        "20 goat pieces"
+      ],
+      "howToPlay": [
+        "Step 1: The board features a cross with diagonal lines forming intersections.",
+        "Step 2: One player controls 4 tigers placed at the board's corners.",
+        "Step 3: The other player controls 20 goats, initially placed off-board.",
+        "Step 4: Goats are placed one by one on any empty intersection.",
+        "Step 5: Tigers move along lines, capturing goats by jumping over them to empty spaces.",
+        "Step 6: Goats cannot capture but aim to surround and trap tigers so they cannot move.",
+        "Step 7: Tigers win by capturing 5 goats or reducing goats' mobility.",
+        "Step 8: Goats win by completely immobilizing all tigers.",
+        "Step 9: The game requires deep strategic thinking and forward planning.",
+        "Step 10: Matches can last from 30 minutes to several hours."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 6200,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_chyangma_010",
+      "title": "Chyangma",
+      "description": "A traditional game played in mountain regions using woven bamboo rings. Players throw rings at a target, competing for accuracy.",
+      "region": "Nepal",
+      "location": "Mountain regions, Himalayan areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Chyangma.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "Leisure time, local festivals",
+      "tags": [
+        "Outdoor",
+        "Accuracy Game",
+        "Bamboo Craft",
+        "Traditional"
+      ],
+      "equipment": [
+        "Woven bamboo rings",
+        "Target stake"
+      ],
+      "howToPlay": [
+        "Step 1: Create rings by weaving bamboo strips into circles.",
+        "Step 2: Place a stake or peg in the ground at a distance.",
+        "Step 3: Players take turns throwing rings toward the stake.",
+        "Step 4: Points awarded for rings that land on or near the stake.",
+        "Step 5: Rings that encircle the stake score highest points.",
+        "Step 6: Multiple rounds are played with cumulative scoring.",
+        "Step 7: Players develop throwing accuracy and touch.",
+        "Step 8: The game uses locally available materials.",
+        "Step 9: Often played during leisure time in mountain villages.",
+        "Step 10: Winners receive recognition within the community."
+      ],
+      "rating": 0,
+      "views": 1800,
+      "reviewCount": 0,
+      "likes": 720,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_dandi_001",
+      "title": "Dandi Biyo",
+      "description": "Considered the oldest game in Nepal, similar to Gilli Danda. Players use a long stick (dandi) to hit a smaller tapered stick (biyo) and compete for distance.",
+      "region": "Nepal",
+      "location": "Throughout Nepal, especially rural areas",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Dandi%20Biyo.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "After school, festivals, village gatherings",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Ancient",
+        "National Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Dandi (long stick)",
+        "Biyo (small tapered stick)"
+      ],
+      "howToPlay": [
+        "Step 1: A small hole is dug in the ground or a circle drawn.",
+        "Step 2: Place the biyo across the hole with one end raised.",
+        "Step 3: Use the dandi to flick the biyo into the air.",
+        "Step 4: Strike the airborne biyo with the dandi to hit it far.",
+        "Step 5: Fielders try to catch the biyo before it lands.",
+        "Step 6: If caught, batter is out; if not, measure distance using dandi lengths.",
+        "Step 7: Batter scores points equal to number of dandi lengths.",
+        "Step 8: Players take turns batting and fielding.",
+        "Step 9: Player with highest total distance wins.",
+        "Step 10: Considered the national traditional game of Nepal."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_dhyakki_006",
+      "title": "Dhyakki (Hopscotch)",
+      "description": "Nepali version of hopscotch, primarily played by girls. Players hop through numbered boxes while kicking a flat stone, testing balance and precision.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Dhyakki.png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "After school, holidays, leisure",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Flat stone",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a hopscotch grid with numbered boxes on the ground.",
+        "Step 2: Players toss a flat stone into the first box.",
+        "Step 3: Hop on one foot through the boxes, avoiding the box with the stone.",
+        "Step 4: Kick the stone to the next box while hopping.",
+        "Step 5: Continue until reaching the end and turn back.",
+        "Step 6: If successful, toss stone to next box and repeat.",
+        "Step 7: Player loses turn if stone lands on a line, both feet touch ground, or balance is lost.",
+        "Step 8: Player who completes all boxes first wins.",
+        "Step 9: Advanced players add complex patterns and faster movements.",
+        "Step 10: Singing often accompanies the game."
+      ],
+      "rating": 0,
+      "views": 3200,
+      "reviewCount": 0,
+      "likes": 1400,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_kabbadi_008",
+      "title": "Kabbadi (Nepali Style)",
+      "description": "Nepali variation of kabaddi with slightly modified rules, particularly popular in rural areas and school competitions.",
+      "region": "Nepal",
+      "location": "Throughout Nepal",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Kabbadi%20(Nepali%20Style).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2 teams of 7 players",
+      "occasion": "School sports, village tournaments, festivals",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Team Sport",
+        "Traditional"
+      ],
+      "equipment": [
+        "Playing court",
+        "Boundary lines",
+        "Uniforms"
+      ],
+      "howToPlay": [
+        "Step 1: Similar to standard kabaddi with minor rule variations by region.",
+        "Step 2: Two teams of seven occupy opposite halves of a rectangular court.",
+        "Step 3: One team sends a raider into opponent's half chanting 'kabbadi'.",
+        "Step 4: Raider attempts to tag defenders and return to their half.",
+        "Step 5: Defenders try to tackle the raider.",
+        "Step 6: Points scored for successful tags.",
+        "Step 7: Teams alternate raiders throughout the game.",
+        "Step 8: Local rules may vary regarding breathing and tackling.",
+        "Step 9: Popular in both rural and urban areas.",
+        "Step 10: Featured in school-level competitions."
+      ],
+      "rating": 0,
+      "views": 8900,
+      "reviewCount": 0,
+      "likes": 4200,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "npl_surung_009",
+      "title": "Surung (Tunnel Game)",
+      "description": "A traditional game where players form human tunnels by bending over in lines, while others crawl through. Tests agility and teamwork.",
+      "region": "Nepal",
+      "location": "Rural Nepal, villages",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/nepal/Surung.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "6+",
+      "occasion": "School breaks, village gatherings, festivals",
+      "tags": [
+        "Outdoor",
+        "Team Game",
+        "Agility",
+        "Children's Game"
+      ],
+      "equipment": [
+        "Open space",
+        "No equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: Players divide into two teams.",
+        "Step 2: One team forms a tunnel by bending forward and placing hands on knees in a line.",
+        "Step 3: The other team takes turns crawling through the tunnel.",
+        "Step 4: After all players have crawled through, teams switch roles.",
+        "Step 5: The team that completes crawling faster wins.",
+        "Step 6: Variations include obstacles and timed challenges.",
+        "Step 7: Players must maintain tunnel formation throughout.",
+        "Step 8: Game builds teamwork and physical coordination.",
+        "Step 9: Popular during school sports days.",
+        "Step 10: Requires no equipment, making it accessible to all."
+      ],
+      "rating": 0,
+      "views": 2400,
+      "reviewCount": 0,
+      "likes": 980,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    }
+  ]
+}

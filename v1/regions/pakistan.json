@@ -1,0 +1,367 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "region": "Pakistan",
+  "totalGames": 9,
+  "games": [
+    {
+      "id": "pak_baraf_009",
+      "title": "Baraf Pani (Ice Water)",
+      "description": "A freeze tag variant where tagged players become 'frozen' (baraf) and must stand still until a teammate touches them to 'melt' (pani) and free them.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Baraf%20Pani.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "School breaks, park play, family gatherings",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Team Game"
+      ],
+      "equipment": [
+        "Open play area",
+        "No equipment needed"
+      ],
+      "howToPlay": [
+        "Step 1: One or more players are chosen as taggers.",
+        "Step 2: When a tagger touches a player, that player becomes 'frozen' (baraf) and must stand still.",
+        "Step 3: Frozen players cannot move until a free teammate touches them.",
+        "Step 4: The touching teammate 'melts' (pani) them, allowing them to run again.",
+        "Step 5: Taggers try to freeze all players.",
+        "Step 6: Free players try to rescue frozen teammates.",
+        "Step 7: Game ends when all players are frozen.",
+        "Step 8: New taggers are chosen for next round.",
+        "Step 9: Develops teamwork and strategic movement.",
+        "Step 10: Popular in schools and neighborhoods."
+      ],
+      "rating": 0,
+      "views": 5100,
+      "reviewCount": 0,
+      "likes": 2300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_kushti_010",
+      "title": "Desi Kushti (Traditional Wrestling)",
+      "description": "Traditional South Asian wrestling practiced in akharas (training pits). Once as popular as cricket, with rich history of champions and regional competitions.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan, especially Punjab, Multan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2",
+      "occasion": "Village fairs, festivals, dangal competitions",
+      "tags": [
+        "Outdoor",
+        "Wrestling",
+        "Combat Sport",
+        "Traditional",
+        "Akhara"
+      ],
+      "equipment": [
+        "Clay or sand pit",
+        "Loincloth (langot)",
+        "Oil for body",
+        "Training accessories"
+      ],
+      "howToPlay": [
+        "Step 1: Wrestlers train in akharas under experienced coaches (pehelwans).",
+        "Step 2: Before independence, 100-150 akharas existed in Multan alone.",
+        "Step 3: Matches (dangal) are held in sandy pits.",
+        "Step 4: Wrestlers apply oil to their bodies for flexibility.",
+        "Step 5: They face each other and attempt to pin opponent's shoulders to ground.",
+        "Step 6: Various grappling techniques and holds are used.",
+        "Step 7: Matches continue until one wrestler achieves a pin or submission.",
+        "Step 8: Referees ensure fair play and declare winners.",
+        "Step 9: Winners receive prizes and gain reputation.",
+        "Step 10: Traditional wrestling declined after 1980s but still practiced."
+      ],
+      "rating": 0,
+      "views": 15600,
+      "reviewCount": 0,
+      "likes": 7600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_gulli_002",
+      "title": "Gulli Danda",
+      "description": "Traditional stick game played across Pakistan, known by various regional names. Considered the predecessor of modern bat-and-ball games.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gilli%20Danda.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "2+",
+      "occasion": "After school, village gatherings, Eid",
+      "tags": [
+        "Outdoor",
+        "Bat-and-Ball",
+        "Children's Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Danda (long stick)",
+        "Gulli (small tapered stick)"
+      ],
+      "howToPlay": [
+        "Step 1: A small hole is dug in the ground or a circle drawn.",
+        "Step 2: Place the gulli across the hole with one end raised.",
+        "Step 3: Use the danda to flick the gulli into the air.",
+        "Step 4: Strike the airborne gulli with the danda to hit it far.",
+        "Step 5: Fielders try to catch the gulli before it lands.",
+        "Step 6: If caught, batter is out; if not, measure distance using danda lengths.",
+        "Step 7: Batter scores points equal to number of danda lengths.",
+        "Step 8: Players take turns batting and fielding.",
+        "Step 9: The player with highest total distance wins.",
+        "Step 10: Regional variations exist across Pakistan."
+      ],
+      "rating": 0,
+      "views": 12400,
+      "reviewCount": 0,
+      "likes": 5900,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_kabaddi_001",
+      "title": "Kabaddi (Pakistan Style)",
+      "description": "Pakistan's version of kabaddi, known as 'Circle Kabaddi' played in a circular field. One of the most popular traditional sports with passionate followings and international competitions.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan, especially Punjab",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Desi%20Kushti%20(Pehlwani).png",
+      "category": "Physical",
+      "intensity": "Very High",
+      "players": "2 teams of 8 players",
+      "occasion": "Village fairs, festivals, international tournaments",
+      "tags": [
+        "Outdoor",
+        "Contact Sport",
+        "Team Sport",
+        "National",
+        "Professional"
+      ],
+      "equipment": [
+        "Circular field",
+        "Boundary lines",
+        "Traditional uniform"
+      ],
+      "howToPlay": [
+        "Step 1: Played in a circular field instead of rectangular court.",
+        "Step 2: Two teams of eight players occupy opposite halves.",
+        "Step 3: Raider enters opponent's half chanting 'kabaddi' without taking breath.",
+        "Step 4: Raider attempts to tag defenders and return to their half.",
+        "Step 5: Defenders try to tackle the raider.",
+        "Step 6: Points scored for successful tags.",
+        "Step 7: Circle kabaddi allows more players and different tackling techniques.",
+        "Step 8: Teams alternate raiders throughout the game.",
+        "Step 9: Pakistan has strong kabaddi tradition with world-class players.",
+        "Step 10: Major tournaments held during national holidays."
+      ],
+      "rating": 0,
+      "views": 28901,
+      "reviewCount": 0,
+      "likes": 15600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_kancha_004",
+      "title": "Kancha (Marbles)",
+      "description": "Classic marble game played across Pakistan, known as Kancha or Rumi. Children collect and trade colorful glass marbles, competing in skill-based challenges.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Kancha%20(Marbles).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2-6",
+      "occasion": "After school, holidays, casual play",
+      "tags": [
+        "Outdoor",
+        "Marbles",
+        "Children's Game",
+        "Skill"
+      ],
+      "equipment": [
+        "Glass marbles (various sizes)",
+        "Shooter marble (larger)",
+        "Circle drawn on ground"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a circle on flat ground.",
+        "Step 2: Each player places several marbles inside the circle.",
+        "Step 3: Players take turns shooting their shooter marble from outside the circle.",
+        "Step 4: Flick the shooter with thumb to knock marbles out.",
+        "Step 5: Keep any marbles knocked out of the circle.",
+        "Step 6: If shooter stays inside, player continues; if not, turn passes.",
+        "Step 7: Game continues until all marbles are cleared.",
+        "Step 8: Player with most marbles collected wins.",
+        "Step 9: Special marbles are prized and traded.",
+        "Step 10: Advanced techniques include backspin and curve shots."
+      ],
+      "rating": 0,
+      "views": 7600,
+      "reviewCount": 0,
+      "likes": 3300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_ludo_007",
+      "title": "Ludo (Desi Version)",
+      "description": "Pakistani version of the classic board game, descended from the ancient Indian game Pachisi. Played with cowrie shells instead of dice in traditional settings.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Ludo%20(Desi%20Version).png",
+      "category": "Strategy",
+      "intensity": "Low",
+      "players": "2-4",
+      "occasion": "Family gatherings, rainy days, evenings",
+      "tags": [
+        "Indoor",
+        "Board Game",
+        "Family Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Cloth or wooden board",
+        "Cowrie shells (for dice)",
+        "Colored pieces (16 per player)"
+      ],
+      "howToPlay": [
+        "Step 1: Players choose colored pieces and place them in the starting area.",
+        "Step 2: Throw cowrie shells to determine moves (number of shells opening up determines count).",
+        "Step 3: Move pieces around the board according to the throw.",
+        "Step 4: Landing on an opponent's square sends their piece back to start.",
+        "Step 5: Safe squares protect pieces from capture.",
+        "Step 6: To enter the home column, piece must land exactly on the entrance square.",
+        "Step 7: All pieces must reach the center to win.",
+        "Step 8: Strategy involves deciding which pieces to move and when.",
+        "Step 9: The first player to get all pieces home wins.",
+        "Step 10: Traditional version uses cowrie shells instead of modern dice."
+      ],
+      "rating": 0,
+      "views": 12300,
+      "reviewCount": 0,
+      "likes": 5800,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_oonch_008",
+      "title": "Oonch Neech (High Low)",
+      "description": "A popular tag game where players are safe only when on elevated surfaces (oonch) and vulnerable when on ground level (neech). Tests agility and quick thinking.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Oonch%20Neech.png",
+      "category": "Physical",
+      "intensity": "Medium",
+      "players": "5+",
+      "occasion": "School breaks, family gatherings, casual play",
+      "tags": [
+        "Outdoor",
+        "Tag Game",
+        "Children's Game",
+        "Agility"
+      ],
+      "equipment": [
+        "Area with varied elevations",
+        "No special equipment"
+      ],
+      "howToPlay": [
+        "Step 1: Designate one player as the denner (catcher).",
+        "Step 2: Establish that elevated surfaces (walls, benches, stairs) are 'safe zones'.",
+        "Step 3: Ground level is 'unsafe' where players can be tagged.",
+        "Step 4: Players run and dodge, jumping onto elevated surfaces to avoid tagging.",
+        "Step 5: The denner tries to tag players when they are on ground level.",
+        "Step 6: Tagged players become denners or are eliminated.",
+        "Step 7: Players cannot stay on safe zones indefinitely.",
+        "Step 8: Game continues until all players are tagged.",
+        "Step 9: Last player tagged wins and becomes denner for next round.",
+        "Step 10: Develops agility, speed, and strategic movement."
+      ],
+      "rating": 0,
+      "views": 4600,
+      "reviewCount": 0,
+      "likes": 2000,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_pittu_003",
+      "title": "Pittu Garam (Seven Stones)",
+      "description": "Popular street game where players knock down a pile of seven stones with a ball, then try to rebuild while avoiding being hit by opponents.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Lagori%20(Seven%20Stones.png",
+      "category": "Physical",
+      "intensity": "High",
+      "players": "2 teams of 3-9 players",
+      "occasion": "After school, evenings, Eid celebrations",
+      "tags": [
+        "Outdoor",
+        "Ball Game",
+        "Team Sport",
+        "Street Game"
+      ],
+      "equipment": [
+        "7 flat stones",
+        "Soft ball (tennis ball)",
+        "Open area"
+      ],
+      "howToPlay": [
+        "Step 1: Stack seven flat stones in a pile.",
+        "Step 2: One team throws the ball to knock down the stone pile.",
+        "Step 3: The throwing team tries to rebuild the pile while opponents throw the ball to hit them.",
+        "Step 4: If hit by the ball, that player is out.",
+        "Step 5: The rebuilding team must avoid being hit while stacking stones.",
+        "Step 6: If the pile is successfully rebuilt, the team scores points.",
+        "Step 7: Teams then switch roles.",
+        "Step 8: The game requires speed, accuracy, and teamwork.",
+        "Step 9: Players can catch the ball to eliminate throwers.",
+        "Step 10: Multiple rounds determine the winner."
+      ],
+      "rating": 0,
+      "views": 9802,
+      "reviewCount": 0,
+      "likes": 4600,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    },
+    {
+      "id": "pak_stapoo_005",
+      "title": "Stapoo (Hopscotch)",
+      "description": "Pakistani version of hopscotch, primarily played by girls. Players hop through numbered boxes while kicking a flat stone, often accompanied by traditional rhymes.",
+      "region": "Pakistan",
+      "location": "Throughout Pakistan",
+      "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/pakistan/Stapoo%20(Hopscotch).png",
+      "category": "Skill",
+      "intensity": "Low",
+      "players": "2+",
+      "occasion": "After school, family gatherings, leisure",
+      "tags": [
+        "Outdoor",
+        "Hopscotch",
+        "Girls' Game",
+        "Traditional"
+      ],
+      "equipment": [
+        "Flat stone or tile piece",
+        "Chalk or stick to draw boxes"
+      ],
+      "howToPlay": [
+        "Step 1: Draw a hopscotch grid with numbered boxes on the ground.",
+        "Step 2: Players toss a flat stone into the first box.",
+        "Step 3: Hop on one foot through the boxes, avoiding the box with the stone.",
+        "Step 4: Kick the stone to the next box while hopping.",
+        "Step 5: Continue until reaching the end and turn back.",
+        "Step 6: If successful, toss stone to next box and repeat.",
+        "Step 7: Player loses turn if stone lands on a line, both feet touch ground, or balance is lost.",
+        "Step 8: Player who completes all boxes first wins.",
+        "Step 9: Advanced players add complex patterns and faster movements.",
+        "Step 10: Singing often accompanies the game."
+      ],
+      "rating": 0,
+      "views": 5401,
+      "reviewCount": 0,
+      "likes": 2300,
+      "createdAt": "2026-03-18T07:50:16.044Z"
+    }
+  ]
+}

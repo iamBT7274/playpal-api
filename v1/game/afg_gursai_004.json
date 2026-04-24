@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "afg_gursai_004",
+    "title": "Gursai (Wrestling)",
+    "description": "A form of traditional Afghan wrestling similar to other Central Asian styles, where two opponents grapple on soft ground, aiming to pin each other's shoulders to the earth.",
+    "region": "Afghanistan",
+    "location": "Rural villages, Paktia, Khost",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/afghanistan/Gursai.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2",
+    "occasion": "Festivals, Nowruz, community gatherings",
+    "tags": [
+      "Outdoor",
+      "Wrestling",
+      "Combat Sport",
+      "Traditional"
+    ],
+    "equipment": [
+      "Soft ground or sand",
+      "Traditional wrestling attire"
+    ],
+    "howToPlay": [
+      "Step 1: Two wrestlers face each other in a marked circular or square pit filled with soft earth.",
+      "Step 2: They begin by shaking hands and attempting to grasp each other's waistbands.",
+      "Step 3: The objective is to throw the opponent onto their back with shoulders touching the ground.",
+      "Step 4: Wrestlers use a combination of strength, technique, and balance to gain advantage.",
+      "Step 5: Grabbing legs below the knee is typically prohibited.",
+      "Step 6: Matches continue until one wrestler achieves a pin or wins by points.",
+      "Step 7: An elder referee officiates and declares the winner.",
+      "Step 8: Victors are celebrated and may receive prizes or cash rewards.",
+      "Step 9: Skilled wrestlers gain reputation and may challenge wrestlers from other villages.",
+      "Step 10: Training begins in childhood with experienced wrestlers mentoring youth."
+    ],
+    "rating": 0,
+    "views": 5500,
+    "reviewCount": 0,
+    "likes": 2800,
+    "createdAt": "2026-03-17T08:25:45.415Z"
+  }
+}

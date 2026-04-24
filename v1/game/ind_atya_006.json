@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_atya_006",
+    "title": "Atya Patya",
+    "description": "A traditional tag game described as a 'game of feints' played on a court with nine trenches. Attacking players score points by crossing trenches without being tagged by defenders.",
+    "region": "India",
+    "location": "Maharashtra, rural areas throughout",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Atya%20Patya.png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams of 9 players",
+    "occasion": "Rural sports meets, school competitions",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Team Sport",
+      "Traditional"
+    ],
+    "equipment": [
+      "Court with 9 trenches",
+      "No special equipment"
+    ],
+    "howToPlay": [
+      "Step 1: Court features nine parallel trenches extending from a central trench.",
+      "Step 2: Attacking team sends players to cross trenches.",
+      "Step 3: Defenders in trenches try to tag attackers.",
+      "Step 4: Points awarded for each trench crossed without being tagged.",
+      "Step 5: Players use feints and quick movements to evade tags.",
+      "Step 6: Game consists of 4 innings of 7 minutes each.",
+      "Step 7: Each team has two innings to score.",
+      "Step 8: Team with highest total points wins.",
+      "Step 9: Requires agility, strategy, and teamwork.",
+      "Step 10: Described as 'militant chase' for its intensity."
+    ],
+    "rating": 0,
+    "views": 8902,
+    "reviewCount": 0,
+    "likes": 4300,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

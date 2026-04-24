@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "ind_gilli_003",
+    "title": "Gilli Danda",
+    "description": "An ancient game considered a precursor to cricket and baseball, played with a small oval-shaped piece of wood (gilli) and a larger stick (danda) used to strike it.",
+    "region": "India",
+    "location": "Throughout India, rural and urban",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/india/Gilli%20Danda.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "2+",
+    "occasion": "After school, village fairs, holidays",
+    "tags": [
+      "Outdoor",
+      "Bat-and-Ball",
+      "Children's Game",
+      "Ancient"
+    ],
+    "equipment": [
+      "Danda (longer stick, about 2 feet)",
+      "Gilli (smaller tapered stick, about 4-6 inches)"
+    ],
+    "howToPlay": [
+      "Step 1: A small hole is dug in the ground or a circle drawn.",
+      "Step 2: Place the gilli across the hole with one end raised.",
+      "Step 3: Use the danda to flick the gilli into the air.",
+      "Step 4: Strike the airborne gilli with the danda to hit it far.",
+      "Step 5: Fielders try to catch the gilli before it lands.",
+      "Step 6: If caught, batter is out; if not, measure distance using danda lengths.",
+      "Step 7: Batter scores points equal to number of danda lengths.",
+      "Step 8: Players take turns batting and fielding.",
+      "Step 9: The player with highest total distance wins.",
+      "Step 10: Advanced players hit gilli multiple times before it lands."
+    ],
+    "rating": 0,
+    "views": 21801,
+    "reviewCount": 0,
+    "likes": 11200,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

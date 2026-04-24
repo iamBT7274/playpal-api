@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "mdv_dhon_008",
+    "title": "Dhon Dheki",
+    "description": "A rhythmic team game where players sit in two rows and perform coordinated clapping and movement patterns while singing traditional songs.",
+    "region": "Maldives",
+    "location": "Throughout Maldives",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/maldives/Dhon%20Dheki.png",
+    "category": "Recreational",
+    "intensity": "Low",
+    "players": "8+",
+    "occasion": "Festivals, celebrations, community gatherings",
+    "tags": [
+      "Indoor",
+      "Outdoor",
+      "Singing Game",
+      "Team Game",
+      "Cultural"
+    ],
+    "equipment": [
+      "No equipment needed",
+      "Traditional songs"
+    ],
+    "howToPlay": [
+      "Step 1: Players sit facing each other in two parallel rows.",
+      "Step 2: A leader starts a traditional song with specific rhythm.",
+      "Step 3: Players perform synchronized clapping patterns with the song.",
+      "Step 4: Movements become faster and more complex as the song progresses.",
+      "Step 5: Players who miss a clap or break rhythm are eliminated.",
+      "Step 6: The game continues until one row has all players eliminated.",
+      "Step 7: Remaining row wins the round.",
+      "Step 8: Songs often tell stories or convey cultural messages.",
+      "Step 9: Game builds coordination, rhythm, and teamwork.",
+      "Step 10: Popular during Eid and other celebrations."
+    ],
+    "rating": 0,
+    "views": 2800,
+    "reviewCount": 0,
+    "likes": 1200,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

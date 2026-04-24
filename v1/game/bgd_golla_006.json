@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "bgd_golla_006",
+    "title": "Gollachut",
+    "description": "A traditional chasing game where players run from a central circle (golla) to a boundary area while avoiding being tagged. The game's rhymes may reference ancient escape attempts by slaves.",
+    "region": "Bangladesh",
+    "location": "Rural villages, school playgrounds",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/bangaladesh/Gollachut.png",
+    "category": "Physical",
+    "intensity": "Medium",
+    "players": "6+",
+    "occasion": "After school, holidays, full moon nights",
+    "tags": [
+      "Outdoor",
+      "Tag Game",
+      "Running",
+      "Children's Game"
+    ],
+    "equipment": [
+      "Flat open ground",
+      "Chalk or stick to draw circles"
+    ],
+    "howToPlay": [
+      "Step 1: A large circle is drawn on the ground as the 'golla' (safe zone).",
+      "Step 2: A smaller circle or boundary is drawn some distance away as the goal.",
+      "Step 3: One player is chosen as the denner (catcher).",
+      "Step 4: Other players gather inside the golla (safe circle).",
+      "Step 5: Players must run from the golla to the boundary without being tagged.",
+      "Step 6: The denner attempts to tag players as they run between zones.",
+      "Step 7: Tagged players become denners or sit out depending on rules.",
+      "Step 8: Players who reach the boundary safely are safe until next round.",
+      "Step 9: The game continues until all players are tagged or reach safety.",
+      "Step 10: New rounds start with a different denner."
+    ],
+    "rating": 0,
+    "views": 2900,
+    "reviewCount": 0,
+    "likes": 1100,
+    "createdAt": "2026-03-17T16:34:49.431Z"
+  }
+}

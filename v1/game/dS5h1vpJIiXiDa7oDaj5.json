@@ -1,0 +1,44 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "dS5h1vpJIiXiDa7oDaj5",
+    "title": "Carrom",
+    "description": "\"Carrom is a popular South Asian tabletop flick-and-pocket game, often called \"finger billiards,\" played on a square wooden board. Players use a heavier striker disc to knock lighter carrom men (coins) into four corner pockets, aiming to sink all their assigned pieces (white or black) and the red queen before their opponent.\"",
+    "region": "India",
+    "location": "India",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP19aZmzBkxI_cUsD8QR77ISrii4v6VvXXdw&s",
+    "category": "Board",
+    "intensity": "Medium",
+    "players": "4",
+    "occasion": "Family Gatherings",
+    "tags": [
+      "Indoor",
+      "Board Game",
+      "Focus",
+      "Multiplayer"
+    ],
+    "equipment": [
+      "Carrom Board",
+      "Carrom Men(Coins)",
+      "Striker"
+    ],
+    "howToPlay": [
+      "Step 1: Set the board on a flat stand and sprinkle powder for smooth sliding.",
+      " Step 2: Arrange coins in the center with the red Queen in the middle. ",
+      "Step 3: Sit opposite your opponent; the person with white coins breaks first. ",
+      "Step 4: Place the striker on your baseline, touching both parallel lines. ",
+      "Step 5: Flick the striker using one finger to hit your colored coins into pockets. ",
+      "Step 6: Keep your turn as long as you continue to pocket your own coins. ",
+      "Step 7: Pocket the Queen only after you have pocketed at least one of your coins. ",
+      "Step 8: Cover the Queen by pocketing one of your own coins immediately after hitting her in.",
+      " Step 9: Pay a penalty by returning one coin to the center if you pocket the striker. ",
+      "Step 10: Win the round by being the first to pocket all your coins and the Queen."
+    ],
+    "rating": 4,
+    "views": 39,
+    "reviewCount": 5,
+    "likes": 503,
+    "createdAt": "2026-03-01T18:30:00.007Z"
+  }
+}

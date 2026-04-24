@@ -1,0 +1,43 @@
+{
+  "api": "PlayPal API",
+  "version": "1.0.0",
+  "game": {
+    "id": "lka_porapol_005",
+    "title": "Porapol Gaseema",
+    "description": "A traditional team sport where players throw coconuts at each other's coconuts until all nuts on one side are broken. Popular in southern Sri Lanka during festivals.",
+    "region": "Sri Lanka",
+    "location": "Matara, Devundara, coastal areas",
+    "imageUrl": "https://raw.githubusercontent.com/iamBT7274/playpal-assets/main/srilanka/Porapol%20Gaseema%20(Coconut%20Throwing).png",
+    "category": "Physical",
+    "intensity": "High",
+    "players": "2 teams",
+    "occasion": "Festivals, Avurudu, special events",
+    "tags": [
+      "Outdoor",
+      "Team Sport",
+      "Traditional",
+      "Festival"
+    ],
+    "equipment": [
+      "Coconuts",
+      "Open field"
+    ],
+    "howToPlay": [
+      "Step 1: Two teams line up facing each other with piles of coconuts.",
+      "Step 2: Teams take turns throwing coconuts at the opposing team's coconuts.",
+      "Step 3: The goal is to break the opponent's coconuts.",
+      "Step 4: Each broken coconut scores points.",
+      "Step 5: Game continues until all coconuts on one side are broken.",
+      "Step 6: The winning coconut is kept in the temple as an offering.",
+      "Step 7: Requires strength and throwing accuracy.",
+      "Step 8: Draws large crowds during festivals.",
+      "Step 9: Traditional in Matara and Devundara areas.",
+      "Step 10: Winners receive community recognition."
+    ],
+    "rating": 0,
+    "views": 7200,
+    "reviewCount": 0,
+    "likes": 3400,
+    "createdAt": "2026-03-18T07:50:16.044Z"
+  }
+}
