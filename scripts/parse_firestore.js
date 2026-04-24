@@ -1,9 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const RAW_FILE = path.join('C:', 'Users', 'Aravinth', '.gemini', 'antigravity',
-  'brain', '364f96d8-4df6-47b5-b676-488cfea3c8e1', '.system_generated',
-  'steps', '52', 'content.md');
+// Path to the raw Firestore REST API export
+// To regenerate: export your Firestore 'games' collection via the REST API
+// and save the response JSON here
+const RAW_FILE = path.join(__dirname, '..', 'data', 'firestore_export.json');
 
 let raw = fs.readFileSync(RAW_FILE, 'utf8');
 raw = raw.substring(raw.indexOf('{'));
