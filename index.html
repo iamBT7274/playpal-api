@@ -255,38 +255,8 @@ data = requests.<span class="f">get</span>(f<span class="s">"{BASE}/games.json"<
 <span class="k">final</span> games = data[<span class="s">'games'</span>] <span class="k">as</span> List;</pre></div>
   </div>
 
-  <div class="section">
-    <div class="section-title">How to Host This API</div>
-    <div class="section-sub">Deploy on GitHub Pages in 5 minutes — free forever.</div>
-    <div class="steps">
-      <div class="step"><div class="step-content">
-        <h3>Create a new GitHub repository</h3>
-        <p>Go to github.com → New Repository → name it <code>playpal-api</code> → Public → Create</p>
-      </div></div>
-      <div class="step"><div class="step-content">
-        <h3>Push the api folder</h3>
-        <p>From your <code>playpal/api</code> folder, run the git commands shown below to push everything.</p>
-      </div></div>
-      <div class="step"><div class="step-content">
-        <h3>Enable GitHub Pages</h3>
-        <p>Go to repo Settings → Pages → Source: "Deploy from a branch" → Branch: <code>main</code>, folder: <code>/ (root)</code> → Save</p>
-      </div></div>
-      <div class="step"><div class="step-content">
-        <h3>Access your API</h3>
-        <p>Your API will be live at <code>https://iamBT7274.github.io/playpal-api/v1/games.json</code> within a few minutes!</p>
-      </div></div>
-    </div>
 
-    <p style="font-weight:700;margin-bottom:8px;">Git Commands</p>
-    <div class="code-block"><span class="lang">Terminal</span><pre><span class="c"># Run these from the playpal/api folder</span>
-<span class="v">cd</span> api
-git init
-git add .
-git commit -m <span class="s">"Initial PlayPal API release v1.0.0"</span>
-git branch -M main
-git remote add origin https://github.com/iamBT7274/playpal-api.git
-git push -u origin main</pre></div>
-  </div>
+
 
 </div>
 
