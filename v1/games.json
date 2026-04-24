@@ -1,10 +1,10 @@
 {
   "api": "PlayPal API",
   "version": "1.0.0",
-  "description": "A free, open-source API of traditional games from around the world. Curated and collected as part of the PlayPal project.",
+  "description": "A free, open-source API of traditional games from across South Asia.",
   "author": "PlayPal Team",
   "license": "MIT",
-  "lastUpdated": "2026-04-24T15:17:24.730Z",
+  "lastUpdated": "2026-04-24T15:58:01.692Z",
   "totalGames": 74,
   "categories": [
     "Board",
@@ -25,6 +25,30 @@
     "Pakistan",
     "Sri Lanka"
   ],
+  "statistics": {
+    "totalGames": 74,
+    "totalRegions": 8,
+    "totalCategories": 7,
+    "gamesByRegion": {
+      "Sri Lanka": 8,
+      "India": 13,
+      "Nepal": 6,
+      "Afghanistan": 10,
+      "Maldives": 10,
+      "Pakistan": 9,
+      "Bangladesh": 8,
+      "Bhutan": 10
+    },
+    "gamesByCategory": {
+      "Physical": 37,
+      "Strategy": 12,
+      "Board": 3,
+      "Skill": 16,
+      "Recreational": 4,
+      "Seasonal": 1,
+      "Performance": 1
+    }
+  },
   "games": [
     {
       "id": "lka_ankeliya_009",
@@ -59,12 +83,7 @@
         "Step 8: Spectators participate with chants and encouragement.",
         "Step 9: Rituals are performed before and after the game.",
         "Step 10: Preserves ancient cultural traditions."
-      ],
-      "rating": 0,
-      "views": 3100,
-      "reviewCount": 0,
-      "likes": 1400,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "ind_atya_006",
@@ -98,12 +117,7 @@
         "Step 8: Team with highest total points wins.",
         "Step 9: Requires agility, strategy, and teamwork.",
         "Step 10: Described as 'militant chase' for its intensity."
-      ],
-      "rating": 0,
-      "views": 8902,
-      "reviewCount": 0,
-      "likes": 4300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "npl_bagh_002",
@@ -139,12 +153,7 @@
         "Step 8: Goats win by completely immobilizing all tigers.",
         "Step 9: The game requires deep strategic thinking and forward planning.",
         "Step 10: Matches can last from 30 minutes to several hours."
-      ],
-      "rating": 0,
-      "views": 12400,
-      "reviewCount": 0,
-      "likes": 6200,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "afg_baghchal_010",
@@ -180,12 +189,7 @@
         "Step 8: Goats win by completely immobilizing all tigers.",
         "Step 9: The game requires deep strategic thinking and forward planning.",
         "Step 10: Matches can last from 30 minutes to several hours."
-      ],
-      "rating": 0,
-      "views": 4303,
-      "reviewCount": 0,
-      "likes": 1900,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "mdv_baibalaa_002",
@@ -219,12 +223,7 @@
         "Step 8: Teams alternate roles each round.",
         "Step 9: Soft sand minimizes injury from falls.",
         "Step 10: Annual national tournaments are held during Eid."
-      ],
-      "rating": 0,
-      "views": 7200,
-      "reviewCount": 0,
-      "likes": 3400,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_baraf_009",
@@ -258,12 +257,7 @@
         "Step 8: New taggers are chosen for next round.",
         "Step 9: Develops teamwork and strategic movement.",
         "Step 10: Popular in schools and neighborhoods."
-      ],
-      "rating": 0,
-      "views": 5100,
-      "reviewCount": 0,
-      "likes": 2300,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "mdv_bashi_001",
@@ -299,12 +293,7 @@
         "Step 8: Game consists of two innings with teams alternating roles.",
         "Step 9: Points scored for successful catches and plays.",
         "Step 10: Team with most points wins."
-      ],
-      "rating": 0,
-      "views": 8900,
-      "reviewCount": 0,
-      "likes": 4300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "bgd_boli_003",
@@ -340,12 +329,7 @@
         "Step 8: Winners receive prizes and gain prestige in their communities.",
         "Step 9: The event includes multiple matches throughout the day.",
         "Step 10: Jabbarer Boli Khela specifically commemorates Abdul Jabbar Saodagor who organized it since 1907."
-      ],
-      "rating": 0,
-      "views": 18700,
-      "reviewCount": 0,
-      "likes": 8900,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_buzkashi_001",
@@ -383,12 +367,7 @@
         "Step 8: The game continues for several hours or until a predetermined score is reached.",
         "Step 9: Skilled Chapandaz are celebrated as local heroes with their horses decorated elaborately.",
         "Step 10: Matches are often accompanied by traditional music and large community gatherings."
-      ],
-      "rating": 0,
-      "views": 18707,
-      "reviewCount": 0,
-      "likes": 8900,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "dS5h1vpJIiXiDa7oDaj5",
@@ -423,12 +402,7 @@
         "Step 8: Cover the Queen by pocketing one of your own coins immediately after hitting her in.",
         " Step 9: Pay a penalty by returning one coin to the center if you pocket the striker. ",
         "Step 10: Win the round by being the first to pocket all your coins and the Queen."
-      ],
-      "rating": 4,
-      "views": 39,
-      "reviewCount": 5,
-      "likes": 503,
-      "createdAt": "2026-03-01T18:30:00.007Z"
+      ]
     },
     {
       "id": "btn_chaksak_009",
@@ -463,12 +437,7 @@
         "Step 8: Kite flying season is eagerly anticipated by children and adults.",
         "Step 9: Different kite designs affect performance.",
         "Step 10: The game builds patience, reflexes, and strategic thinking."
-      ],
-      "rating": 0,
-      "views": 3400,
-      "reviewCount": 0,
-      "likes": 1500,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "ind_chaupar_009",
@@ -504,12 +473,7 @@
         "Step 8: All pieces must reach the center to win.",
         "Step 9: Strategy involves deciding which pieces to move and when.",
         "Step 10: The first player to get all pieces home wins."
-      ],
-      "rating": 0,
-      "views": 12300,
-      "reviewCount": 0,
-      "likes": 6100,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_chhukpa_006",
@@ -543,12 +507,7 @@
         "Step 8: Safety is emphasized with supervision from experienced swimmers.",
         "Step 9: Winners gain respect among peers.",
         "Step 10: The game connects children to Bhutan's natural water resources."
-      ],
-      "rating": 0,
-      "views": 1600,
-      "reviewCount": 0,
-      "likes": 610,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_chupan_008",
@@ -583,12 +542,7 @@
         "Step 8: Skilled players develop consistent and accurate throwing techniques.",
         "Step 9: The game requires no special preparation and uses available materials.",
         "Step 10: Winners are recognized among the herding community."
-      ],
-      "rating": 0,
-      "views": 1400,
-      "reviewCount": 0,
-      "likes": 450,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "npl_chyangma_010",
@@ -622,12 +576,7 @@
         "Step 8: The game uses locally available materials.",
         "Step 9: Often played during leisure time in mountain villages.",
         "Step 10: Winners receive recognition within the community."
-      ],
-      "rating": 0,
-      "views": 1800,
-      "reviewCount": 0,
-      "likes": 720,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "npl_dandi_001",
@@ -662,12 +611,7 @@
         "Step 8: Players take turns batting and fielding.",
         "Step 9: Player with highest total distance wins.",
         "Step 10: Considered the national traditional game of Nepal."
-      ],
-      "rating": 0,
-      "views": 8900,
-      "reviewCount": 0,
-      "likes": 4300,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "bgd_daria_005",
@@ -701,12 +645,7 @@
         "Step 8: Games are often accompanied by splashing and water-based tag variations.",
         "Step 9: Safety is practiced with older children watching younger participants.",
         "Step 10: Winners gain respect among their peer group."
-      ],
-      "rating": 0,
-      "views": 3800,
-      "reviewCount": 0,
-      "likes": 1400,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_degore_002",
@@ -740,12 +679,7 @@
         "Step 8: The farthest throw wins the round.",
         "Step 9: Players develop strength and throwing mechanics through practice.",
         "Step 10: Winners may receive simple prizes or bragging rights."
-      ],
-      "rating": 0,
-      "views": 3100,
-      "reviewCount": 0,
-      "likes": 1300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_kushti_010",
@@ -782,12 +716,7 @@
         "Step 8: Referees ensure fair play and declare winners.",
         "Step 9: Winners receive prizes and gain reputation.",
         "Step 10: Traditional wrestling declined after 1980s but still practiced."
-      ],
-      "rating": 0,
-      "views": 15600,
-      "reviewCount": 0,
-      "likes": 7600,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "mdv_dhon_008",
@@ -822,12 +751,7 @@
         "Step 8: Songs often tell stories or convey cultural messages.",
         "Step 9: Game builds coordination, rhythm, and teamwork.",
         "Step 10: Popular during Eid and other celebrations."
-      ],
-      "rating": 0,
-      "views": 2800,
-      "reviewCount": 0,
-      "likes": 1200,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_dhorsum_007",
@@ -861,12 +785,7 @@
         "Step 8: Elders often teach the game to younger generations.",
         "Step 9: Matches can last from 15 minutes to over an hour.",
         "Step 10: The game develops critical thinking and patience."
-      ],
-      "rating": 0,
-      "views": 2900,
-      "reviewCount": 0,
-      "likes": 1300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "npl_dhyakki_006",
@@ -900,12 +819,7 @@
         "Step 8: Player who completes all boxes first wins.",
         "Step 9: Advanced players add complex patterns and faster movements.",
         "Step 10: Singing often accompanies the game."
-      ],
-      "rating": 0,
-      "views": 3200,
-      "reviewCount": 0,
-      "likes": 1400,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "bgd_ekka_008",
@@ -940,12 +854,7 @@
         "Step 8: Elimination occurs if guti lands on a line, wrong box, or both feet touch ground.",
         "Step 9: The player who completes all boxes successfully wins.",
         "Step 10: Advanced players add complex patterns and faster movements."
-      ],
-      "rating": 0,
-      "views": 1800,
-      "reviewCount": 0,
-      "likes": 620,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "lka_elle_001",
@@ -981,12 +890,7 @@
         "Step 8: The team with most runs wins.",
         "Step 9: Popular during traditional New Year celebrations.",
         "Step 10: Preserved as part of Sri Lankan cultural heritage."
-      ],
-      "rating": 0,
-      "views": 8900,
-      "reviewCount": 0,
-      "likes": 4300,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "mdv_feviyya_006",
@@ -1020,12 +924,7 @@
         "Step 8: Multiple rounds are played with cumulative scoring.",
         "Step 9: Seeds are collected and traded among children.",
         "Step 10: Winner receives bragging rights and sometimes opponents' seeds."
-      ],
-      "rating": 0,
-      "views": 2100,
-      "reviewCount": 0,
-      "likes": 820,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "ind_gilli_003",
@@ -1059,12 +958,7 @@
         "Step 8: Players take turns batting and fielding.",
         "Step 9: The player with highest total distance wins.",
         "Step 10: Advanced players hit gilli multiple times before it lands."
-      ],
-      "rating": 0,
-      "views": 21801,
-      "reviewCount": 0,
-      "likes": 11200,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "bgd_golla_006",
@@ -1098,12 +992,7 @@
         "Step 8: Players who reach the boundary safely are safe until next round.",
         "Step 9: The game continues until all players are tagged or reach safety.",
         "Step 10: New rounds start with a different denner."
-      ],
-      "rating": 0,
-      "views": 2900,
-      "reviewCount": 0,
-      "likes": 1100,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_gulli_002",
@@ -1137,12 +1026,7 @@
         "Step 8: Players take turns batting and fielding.",
         "Step 9: The player with highest total distance wins.",
         "Step 10: Regional variations exist across Pakistan."
-      ],
-      "rating": 0,
-      "views": 12400,
-      "reviewCount": 0,
-      "likes": 5900,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "xraIfO4Rm1TKlGlu0rpa",
@@ -1179,12 +1063,7 @@
         "Step 10: Getting \"Out\" – You are out if the ball hits the wickets, if you’re caught, or if you hit the ball into a \"forbidden\" area (like a neighbor’s balcony). ",
         "Step 11: Switch – Once the batting team loses all their wickets or finishes their overs, the teams swap. ",
         "Step 12: Win – The team that scores the most runs wins the match. "
-      ],
-      "rating": 3.9,
-      "views": 168,
-      "reviewCount": 6,
-      "likes": 232,
-      "createdAt": "2026-02-26T18:30:00.173Z"
+      ]
     },
     {
       "id": "afg_gursai_004",
@@ -1218,12 +1097,7 @@
         "Step 8: Victors are celebrated and may receive prizes or cash rewards.",
         "Step 9: Skilled wrestlers gain reputation and may challenge wrestlers from other villages.",
         "Step 10: Training begins in childhood with experienced wrestlers mentoring youth."
-      ],
-      "rating": 0,
-      "views": 5500,
-      "reviewCount": 0,
-      "likes": 2800,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "ind_gutte_008",
@@ -1257,12 +1131,7 @@
         "Step 8: If player drops or fails to catch, turn passes.",
         "Step 9: Player completing all levels wins.",
         "Step 10: Rhymes often accompany gameplay."
-      ],
-      "rating": 0,
-      "views": 5400,
-      "reviewCount": 0,
-      "likes": 2300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "mdv_hulha_010",
@@ -1296,12 +1165,7 @@
         "Step 8: Last hider found wins the round.",
         "Step 9: Moonlight adds atmosphere and challenge to the game.",
         "Step 10: Popular during full moon festivals and gatherings."
-      ],
-      "rating": 0,
-      "views": 3100,
-      "reviewCount": 0,
-      "likes": 1400,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "AXtnko0RhKIqxtkb9ZwO",
@@ -1335,12 +1199,7 @@
         "Step 8: Maintain your grip for at least 15 meters, 30 seconds, or until the bull completes three jumps.",
         "Step 9: Release the bull once it crosses the finish line or exit point to avoid being debarred.",
         "Step 10: Claim your prize, which may be coins tied to the horns or other rewards announced by organizers. "
-      ],
-      "rating": 4.6,
-      "views": 665,
-      "reviewCount": 20,
-      "likes": 1052,
-      "createdAt": "2026-02-20T01:19:34.233Z"
+      ]
     },
     {
       "id": "pak_kabaddi_001",
@@ -1376,12 +1235,7 @@
         "Step 8: Teams alternate raiders throughout the game.",
         "Step 9: Pakistan has strong kabaddi tradition with world-class players.",
         "Step 10: Major tournaments held during national holidays."
-      ],
-      "rating": 0,
-      "views": 28901,
-      "reviewCount": 0,
-      "likes": 15600,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "dzpmGyv7sQ7ZZaGtXCQ9",
@@ -1417,12 +1271,7 @@
         "Step 10: Switch – After your raid is over, it’s the other team’s turn. Keep alternating.",
         "Step 11: Do-or-Die – If you have two empty raids (no points scored), the 3rd raid is \"Do-or-Die.\" You must score a point, or you are automatically out!",
         "Step 12: Win – The team with the most points at the end of the time limit wins."
-      ],
-      "rating": 4.1,
-      "views": 357,
-      "reviewCount": 6,
-      "likes": 301,
-      "createdAt": "2026-02-11T18:30:00.029Z"
+      ]
     },
     {
       "id": "npl_kabbadi_008",
@@ -1457,12 +1306,7 @@
         "Step 8: Local rules may vary regarding breathing and tackling.",
         "Step 9: Popular in both rural and urban areas.",
         "Step 10: Featured in school-level competitions."
-      ],
-      "rating": 0,
-      "views": 8900,
-      "reviewCount": 0,
-      "likes": 4200,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "lka_kana_008",
@@ -1498,12 +1342,7 @@
         "Step 8: Requires trust in guidance and spatial awareness.",
         "Step 9: Popular during New Year celebrations.",
         "Step 10: Symbolizes breaking away from the old year."
-      ],
-      "rating": 0,
-      "views": 6701,
-      "reviewCount": 0,
-      "likes": 3100,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "bgd_kanamachi_007",
@@ -1537,12 +1376,7 @@
         "Step 8: Players can clap or call out to help the blindfolded player locate them.",
         "Step 9: The game teaches spatial awareness and listening skills.",
         "Step 10: Variations include making sounds or giving clues to the seeker."
-      ],
-      "rating": 0,
-      "views": 2100,
-      "reviewCount": 0,
-      "likes": 780,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "ind_kancha_005",
@@ -1577,12 +1411,7 @@
         "Step 8: Player with most marbles collected wins.",
         "Step 9: Special marbles are prized and traded.",
         "Step 10: Advanced techniques include backspin and curve shots."
-      ],
-      "rating": 0,
-      "views": 15600,
-      "reviewCount": 0,
-      "likes": 7800,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_kancha_004",
@@ -1617,12 +1446,7 @@
         "Step 8: Player with most marbles collected wins.",
         "Step 9: Special marbles are prized and traded.",
         "Step 10: Advanced techniques include backspin and curve shots."
-      ],
-      "rating": 0,
-      "views": 7600,
-      "reviewCount": 0,
-      "likes": 3300,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "afg_khasai_003",
@@ -1656,12 +1480,7 @@
         "Step 8: The game ends when all marbles are cleared from the circle.",
         "Step 9: The player with the most marbles collected wins.",
         "Step 10: Marbles are often traded and collected as prized possessions."
-      ],
-      "rating": 0,
-      "views": 3800,
-      "reviewCount": 0,
-      "likes": 1200,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "ind_khokho_002",
@@ -1697,12 +1516,7 @@
         "Step 8: Runners try to avoid tags using speed and agility.",
         "Step 9: Points scored for each successful tag.",
         "Step 10: Team with highest score wins."
-      ],
-      "rating": 0,
-      "views": 32410,
-      "reviewCount": 0,
-      "likes": 18900,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_khuru_001",
@@ -1738,12 +1552,7 @@
         "Step 8: The game requires precision and consistent throwing technique.",
         "Step 9: Skilled players are respected in their communities.",
         "Step 10: Khuru is often played alongside traditional archery matches."
-      ],
-      "rating": 0,
-      "views": 7200,
-      "reviewCount": 0,
-      "likes": 3400,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_kichiri_007",
@@ -1777,12 +1586,7 @@
         "Step 8: The player who successfully completes all levels first wins.",
         "Step 9: Variations include different picking patterns and tossing techniques.",
         "Step 10: Songs and rhymes often accompany the gameplay."
-      ],
-      "rating": 0,
-      "views": 2100,
-      "reviewCount": 0,
-      "likes": 680,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "lka_kotta_002",
@@ -1818,12 +1622,7 @@
         "Step 8: Falls are cushioned by mud or water below.",
         "Step 9: The game draws large crowds during festivals.",
         "Step 10: Winners receive prizes and community recognition."
-      ],
-      "rating": 0,
-      "views": 12401,
-      "reviewCount": 0,
-      "likes": 6200,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "mdv_kula_007",
@@ -1857,12 +1656,7 @@
         "Step 8: Tops that spin longest or knock out others win.",
         "Step 9: Game develops hand-eye coordination and technique.",
         "Step 10: Winners collect opponents' tops as prizes."
-      ],
-      "rating": 0,
-      "views": 3400,
-      "reviewCount": 0,
-      "likes": 1500,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "ind_lagori_004",
@@ -1898,12 +1692,7 @@
         "Step 8: The game requires speed, accuracy, and teamwork.",
         "Step 9: Players can catch the ball to eliminate throwers.",
         "Step 10: Multiple rounds determine the winner."
-      ],
-      "rating": 0,
-      "views": 19703,
-      "reviewCount": 0,
-      "likes": 10300,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "ind_langdi_007",
@@ -1937,12 +1726,7 @@
         "Step 8: Teams switch roles after each inning.",
         "Step 9: Game requires balance, endurance, and agility.",
         "Step 10: Team with most tags wins."
-      ],
-      "rating": 0,
-      "views": 7600,
-      "reviewCount": 0,
-      "likes": 3800,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_langthab_005",
@@ -1977,12 +1761,7 @@
         "Step 8: Riders train extensively with their horses to coordinate movements.",
         "Step 9: The game demonstrates the bond between rider and horse.",
         "Step 10: Winners are celebrated as skilled horsemen in their communities."
-      ],
-      "rating": 0,
-      "views": 4200,
-      "reviewCount": 0,
-      "likes": 1900,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "bgd_lathi_004",
@@ -2018,12 +1797,7 @@
         "Step 8: Group performances show synchronized stick routines.",
         "Step 9: The game emphasizes discipline, reflexes, and martial tradition.",
         "Step 10: Annual conventions were historically held in Kushtia, now less frequent."
-      ],
-      "rating": 0,
-      "views": 12400,
-      "reviewCount": 0,
-      "likes": 5600,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_lenger_005",
@@ -2060,12 +1834,7 @@
         "Step 8: Tournaments can involve dozens of kites competing simultaneously.",
         "Step 9: Special signals are used to communicate with ground assistants.",
         "Step 10: The last kite flying is declared the champion."
-      ],
-      "rating": 3.3,
-      "views": 28911,
-      "reviewCount": 3,
-      "likes": 15600,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "pak_ludo_007",
@@ -2100,12 +1869,7 @@
         "Step 8: Strategy involves deciding which pieces to move and when.",
         "Step 9: The first player to get all pieces home wins.",
         "Step 10: Traditional version uses cowrie shells instead of modern dice."
-      ],
-      "rating": 0,
-      "views": 12300,
-      "reviewCount": 0,
-      "likes": 5800,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "lka_nada_010",
@@ -2139,12 +1903,7 @@
         "Step 8: Develops core strength and balance.",
         "Step 9: Popular during village festivals.",
         "Step 10: Winners receive prizes and recognition."
-      ],
-      "rating": 0,
-      "views": 2601,
-      "reviewCount": 0,
-      "likes": 1100,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "bgd_nouka_002",
@@ -2181,12 +1940,7 @@
         "Step 8: Races can cover distances from several hundred meters to kilometers.",
         "Step 9: Winning teams receive trophies and cash prizes.",
         "Step 10: The event is a major social and cultural gathering for riverine communities."
-      ],
-      "rating": 0,
-      "views": 25601,
-      "reviewCount": 0,
-      "likes": 14200,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "mdv_ohvalhu_005",
@@ -2222,12 +1976,7 @@
         "Step 8: Game continues until all holes are empty.",
         "Step 9: Player with most shells in their home hole wins.",
         "Step 10: In villages, boards were drawn on beach sand using coconut shells."
-      ],
-      "rating": 0,
-      "views": 3900,
-      "reviewCount": 0,
-      "likes": 1700,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "lka_olinda_003",
@@ -2262,12 +2011,7 @@
         "Step 8: Traditionally played by women during leisure time.",
         "Step 9: Seeds have cultural and medicinal significance.",
         "Step 10: Passed down through generations."
-      ],
-      "rating": 0,
-      "views": 5600,
-      "reviewCount": 0,
-      "likes": 2500,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "pak_oonch_008",
@@ -2301,12 +2045,7 @@
         "Step 8: Game continues until all players are tagged.",
         "Step 9: Last player tagged wins and becomes denner for next round.",
         "Step 10: Develops agility, speed, and strategic movement."
-      ],
-      "rating": 0,
-      "views": 4600,
-      "reviewCount": 0,
-      "likes": 2000,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "ind_pallan_010",
@@ -2341,12 +2080,7 @@
         "Step 8: Game continues until one side has no seeds.",
         "Step 9: Player with most captured seeds wins.",
         "Step 10: Requires counting skills and forward planning."
-      ],
-      "rating": 0,
-      "views": 4100,
-      "reviewCount": 0,
-      "likes": 1900,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "lka_pancha_004",
@@ -2381,12 +2115,7 @@
         "Step 8: Often played during Avurudu celebrations.",
         "Step 9: Passed down through generations.",
         "Step 10: Combines chance with skill."
-      ],
-      "rating": 0,
-      "views": 3401,
-      "reviewCount": 0,
-      "likes": 1400,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "btn_phobjur_010",
@@ -2423,12 +2152,7 @@
         "Step 8: Elaborate celebrations follow each hit.",
         "Step 9: Traditional food and drinks accompany matches.",
         "Step 10: Archery is considered Bhutan's national sport."
-      ],
-      "rating": 0,
-      "views": 6300,
-      "reviewCount": 0,
-      "likes": 3100,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_pittu_003",
@@ -2463,12 +2187,7 @@
         "Step 8: The game requires speed, accuracy, and teamwork.",
         "Step 9: Players can catch the ball to eliminate throwers.",
         "Step 10: Multiple rounds determine the winner."
-      ],
-      "rating": 0,
-      "views": 9802,
-      "reviewCount": 0,
-      "likes": 4600,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "lka_porapol_005",
@@ -2502,12 +2221,7 @@
         "Step 8: Draws large crowds during festivals.",
         "Step 9: Traditional in Matara and Devundara areas.",
         "Step 10: Winners receive community recognition."
-      ],
-      "rating": 0,
-      "views": 7200,
-      "reviewCount": 0,
-      "likes": 3400,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "btn_pundo_003",
@@ -2541,12 +2255,7 @@
         "Step 8: Players develop touch and control for precise sliding.",
         "Step 9: The game requires minimal equipment and space.",
         "Step 10: Friendly competition and socializing accompany the game."
-      ],
-      "rating": 0,
-      "views": 2400,
-      "reviewCount": 0,
-      "likes": 980,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "mdv_raazuvaa_004",
@@ -2582,12 +2291,7 @@
         "Step 8: The game develops concentration and strategic thinking.",
         "Step 9: Boards are often decorated with traditional lacquer work.",
         "Step 10: Popular as a souvenir representing Maldivian culture."
-      ],
-      "rating": 0,
-      "views": 5600,
-      "reviewCount": 0,
-      "likes": 2600,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "bgd_raja_009",
@@ -2623,12 +2327,7 @@
         "Step 8: Raja gets 1000 points automatically, Sipahi gets 100 points.",
         "Step 9: Roles are shuffled and the game repeats for multiple rounds.",
         "Step 10: The player with the highest total points after predetermined rounds wins."
-      ],
-      "rating": 0,
-      "views": 4300,
-      "reviewCount": 0,
-      "likes": 1900,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "mdv_ranmaa_009",
@@ -2662,12 +2361,7 @@
         "Step 8: Game preserves traditional craft skills.",
         "Step 9: Winners recognized for their craftsmanship.",
         "Step 10: Often played during cultural festivals."
-      ],
-      "rating": 0,
-      "views": 1601,
-      "reviewCount": 0,
-      "likes": 580,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_sherjangi_006",
@@ -2704,12 +2398,7 @@
         "Step 8: Owners invest years in training and feeding their champion bulls.",
         "Step 9: Matches draw large crowds who bet informally on outcomes.",
         "Step 10: Celebrations follow victories with music and feasting."
-      ],
-      "rating": 0,
-      "views": 9806,
-      "reviewCount": 0,
-      "likes": 4301,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "btn_singye_008",
@@ -2745,12 +2434,7 @@
         "Step 8: The snow lion is a national symbol of Bhutan.",
         "Step 9: Skilled performers train extensively in coordination and movement.",
         "Step 10: The tradition preserves Bhutanese cultural heritage."
-      ],
-      "rating": 0,
-      "views": 5800,
-      "reviewCount": 0,
-      "likes": 2800,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "btn_soksum_004",
@@ -2784,12 +2468,7 @@
         "Step 8: Skilled players can hit the wheel consistently.",
         "Step 9: The game tests hand-eye coordination under dynamic conditions.",
         "Step 10: Winners receive recognition and sometimes small prizes."
-      ],
-      "rating": 0,
-      "views": 1800,
-      "reviewCount": 0,
-      "likes": 720,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "pak_stapoo_005",
@@ -2823,12 +2502,7 @@
         "Step 8: Player who completes all boxes first wins.",
         "Step 9: Advanced players add complex patterns and faster movements.",
         "Step 10: Singing often accompanies the game."
-      ],
-      "rating": 0,
-      "views": 5401,
-      "reviewCount": 0,
-      "likes": 2300,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "npl_surung_009",
@@ -2862,12 +2536,7 @@
         "Step 8: Game builds teamwork and physical coordination.",
         "Step 9: Popular during school sports days.",
         "Step 10: Requires no equipment, making it accessible to all."
-      ],
-      "rating": 0,
-      "views": 2400,
-      "reviewCount": 0,
-      "likes": 980,
-      "createdAt": "2026-03-18T07:50:16.044Z"
+      ]
     },
     {
       "id": "mdv_thinn_003",
@@ -2901,12 +2570,7 @@
         "Step 8: Game continues until one player has only two pieces left.",
         "Step 9: Remaining player with more pieces wins.",
         "Step 10: Requires strategic positioning and forward planning."
-      ],
-      "rating": 0,
-      "views": 4801,
-      "reviewCount": 0,
-      "likes": 2100,
-      "createdAt": "2026-03-17T16:34:49.431Z"
+      ]
     },
     {
       "id": "afg_topai_002",
@@ -2941,12 +2605,7 @@
         "Step 8: Skilled riders perform daring maneuvers to protect or steal the cap.",
         "Step 9: The winner is celebrated with prizes and recognition.",
         "Step 10: Matches are accompanied by traditional music and cheering crowds."
-      ],
-      "rating": 0,
-      "views": 6200,
-      "reviewCount": 0,
-      "likes": 2100,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     },
     {
       "id": "afg_tutak_009",
@@ -2980,36 +2639,7 @@
         "Step 8: The game teaches breath control and musical appreciation.",
         "Step 9: Broken whistles are replaced with new ones from traveling potters.",
         "Step 10: The tradition connects children to Afghan folk art and craftsmanship."
-      ],
-      "rating": 0,
-      "views": 902,
-      "reviewCount": 0,
-      "likes": 280,
-      "createdAt": "2026-03-17T08:25:45.415Z"
+      ]
     }
-  ],
-  "statistics": {
-    "totalGames": 74,
-    "totalRegions": 8,
-    "totalCategories": 7,
-    "gamesByRegion": {
-      "Sri Lanka": 8,
-      "India": 13,
-      "Nepal": 6,
-      "Afghanistan": 10,
-      "Maldives": 10,
-      "Pakistan": 9,
-      "Bangladesh": 8,
-      "Bhutan": 10
-    },
-    "gamesByCategory": {
-      "Physical": 37,
-      "Strategy": 12,
-      "Board": 3,
-      "Skill": 16,
-      "Recreational": 4,
-      "Seasonal": 1,
-      "Performance": 1
-    }
-  }
+  ]
 }

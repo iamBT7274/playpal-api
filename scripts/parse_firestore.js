@@ -48,11 +48,6 @@ const games = firestoreData.documents.map(doc => {
     tags: extractValue(fields.tags) || [],
     equipment: extractValue(fields.equipment) || [],
     howToPlay: extractValue(fields.howToPlay) || [],
-    rating: extractValue(fields.rating) || 0,
-    views: extractValue(fields.views) || 0,
-    reviewCount: extractValue(fields.reviewCount) || 0,
-    likes: extractValue(fields.likes) || 0,
-    createdAt: extractValue(fields.createdAt) || null,
   };
 });
 
